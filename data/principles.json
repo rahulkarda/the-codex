@@ -2261,6 +2261,23 @@
       "origin": "John Gottman & Robert Levenson, University of Washington 'Love Lab,' published findings 1992–1999."
     },
     {
+      "id": "active-constructive-responding",
+      "name": "Active-Constructive Responding",
+      "category": "Relationships",
+      "tags": [
+        "communication",
+        "intimacy",
+        "positive psychology",
+        "support"
+      ],
+      "oneLiner": "Responding to good news with enthusiasm and genuine interest strengthens relationships and builds intimacy more effectively than other reactions.",
+      "description": "Active-Constructive Responding involves genuinely sharing in another's positive experiences, showing enthusiasm, and asking elaborating questions. Research suggests this response style is a powerful predictor of relationship satisfaction and intimacy, more so than how partners respond to bad news. It makes the other person feel seen, valued, and understood in their moments of joy.",
+      "example": "Your partner comes home excited, saying they got a promotion. An active-constructive response would be: \"That's incredible! Tell me everything! What does this mean for you? How did it happen?\" instead of a dismissive \"That's nice\" or a self-focused \"Now we can finally afford that vacation.\"",
+      "howToApply": "When someone shares good news, stop what you're doing, make eye contact, and express genuine enthusiasm. Ask open-ended questions to encourage elaboration (\"What was the best part? How did you feel?\"). Celebrate their success as if it were your own, focusing on their feelings and achievements.",
+      "pitfalls": "Feigned enthusiasm can be transparent and counterproductive, making the other person feel misunderstood or dismissed. Over-the-top or insincere responses can feel patronizing. While crucial, this concept primarily focuses on positive events and doesn't address effective responses to negative events, which also require different forms of support and empathy.",
+      "origin": "Shelly Gable and Harry Reis (2006)"
+    },
+    {
       "id": "bids-for-connection",
       "name": "Bids for Connection",
       "category": "Relationships",
@@ -2773,7 +2790,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 161,
-    "generated": "2026-05-31"
+    "count": 162,
+    "generated": "2026-05-31",
+    "lastAdded": {
+      "name": "Active-Constructive Responding",
+      "category": "Relationships",
+      "date": "2026-05-31"
+    }
   }
 }
