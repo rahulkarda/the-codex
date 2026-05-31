@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>The Codex — Life Principles, Mental Models & Cognitive Effects</title>
+  <meta name="description" content="A searchable codex of life principles, mental models, cognitive biases, and psychology effects — the ones that actually give you an edge." />
+  <meta name="theme-color" content="#0a0a0b" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,800&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="logo" aria-hidden="true">⌘</span>
+      <div class="brand-text">
+        <h1>The Codex</h1>
+        <p class="tagline">Life principles, mental models &amp; cognitive effects — the operating manual nobody hands you.</p>
+      </div>
+    </div>
+    <div class="topbar-actions">
+      <button id="random-btn" class="ghost-btn" title="Show a random principle (R)">🎲 Random</button>
+      <button id="theme-btn" class="ghost-btn" title="Toggle theme (T)">◐</button>
+    </div>
+  </header>
+
+  <section class="featured" id="featured" hidden>
+    <div class="featured-label">Principle of the day</div>
+    <h2 id="featured-name"></h2>
+    <p id="featured-oneliner"></p>
+    <button class="link-btn" data-action="open-featured">Read more →</button>
+  </section>
+
+  <section class="controls">
+    <div class="search-wrap">
+      <input id="search" type="search" placeholder="Search 100+ principles, biases, effects… (press /)" autocomplete="off" />
+      <span class="search-hint" id="result-count"></span>
+    </div>
+    <div class="filters" id="category-filters" role="tablist" aria-label="Categories"></div>
+  </section>
+
+  <main id="grid" class="grid" aria-live="polite"></main>
+
+  <div id="empty" class="empty" hidden>
+    <p>No matches. Try a different search or clear the filter.</p>
+  </div>
+
+  <footer class="footer">
+    <p>Crafted from primary sources — Kahneman, Munger, Cialdini, Taleb, Stoic primary texts, peer-reviewed psychology, and meta-analyses where available. Where popular ideas have weak replication, the <em>pitfalls</em> field says so.</p>
+    <p class="kbd-hint">Shortcuts: <kbd>/</kbd> search · <kbd>R</kbd> random · <kbd>T</kbd> theme · <kbd>Esc</kbd> close · <kbd>←</kbd>/<kbd>→</kbd> navigate</p>
+  </footer>
+
+  <dialog id="modal" class="modal">
+    <article id="modal-content"></article>
+    <button class="modal-close" id="modal-close" aria-label="Close">✕</button>
+  </dialog>
+
+  <script src="app.js" defer></script>
+</body>
+</html>

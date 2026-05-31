@@ -1,0 +1,14 @@
+# local
+.DS_Store
+.idea/
+.vscode/
+*.log
+node_modules/
+
+# generation artifacts
+.tmp/
+
+# secrets (never commit)
+.env
+.env.*
+!.env.example
