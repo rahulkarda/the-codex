@@ -36,6 +36,7 @@ const DATA_PATH = path.join(ROOT, 'data', 'principles.json');
   }
 })();
 
+// Uses gemini-2.5-flash by default (free tier: 20 req/day — more than enough for 1/day)
 const MODEL = process.env.GEMINI_MODEL || 'gemini-2.5-flash';
 const API_KEY = process.env.GEMINI_API_KEY;
 const DRY = process.argv.includes('--dry');
