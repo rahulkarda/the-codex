@@ -2414,6 +2414,24 @@
       "origin": "The phrase 'fuck-you money' appears in James Clavell's novel 'Tai-Pan' (1966) and Humphrey Bogart lore; the modern FIRE movement traces to Vicki Robin and Joe Dominguez's 'Your Money or Your Life' (1992) and Pete Adeney's 'Mr. Money Mustache' blog (2011)."
     },
     {
+      "id": "hyperbolic-discounting",
+      "name": "Hyperbolic Discounting",
+      "category": "Money & Time",
+      "tags": [
+        "behavioral economics",
+        "decision making",
+        "time management",
+        "finance",
+        "psychology"
+      ],
+      "oneLiner": "The tendency to choose smaller, immediate rewards over larger, delayed ones, even when the delayed reward is objectively better.",
+      "description": "This cognitive bias describes how the subjective value of a reward decreases disproportionately as its delay increases, especially for short delays. It leads to inconsistent preferences over time, where a future choice for a larger reward is often abandoned for an immediate, smaller one when the future becomes the present. This phenomenon explains procrastination, impulsive spending, and difficulty saving for the long term.",
+      "example": "You're offered $100 today or $110 in a week; most people choose $100 today. However, if offered $100 in 52 weeks or $110 in 53 weeks, most choose $110 in 53 weeks, despite the same one-week delay difference. This shift illustrates hyperbolic discounting.",
+      "howToApply": "1. Implement commitment devices (e.g., automate savings, use website blockers, set future deadlines for tasks) to bind your future self. 2. Break large, distant goals into smaller, more immediate milestones to make progress feel more tangible and less delayed. 3. Actively connect with your future self through visualization or journaling to increase the salience of long-term rewards.",
+      "pitfalls": "Over-reliance on willpower alone is a common pitfall; external commitment devices are often more effective. While it explains many seemingly irrational choices, some immediate gratification is essential for well-being. Not all discounting is \"irrational\"; sometimes immediate needs genuinely outweigh future gains (e.g., critical medical expenses versus retirement savings).",
+      "origin": "George Ainslie (1975) formalized the concept, building on earlier work in economics and psychology."
+    },
+    {
       "id": "lifestyle-inflation-lifestyle-creep",
       "name": "Lifestyle Inflation (Lifestyle Creep)",
       "category": "Money & Time",
@@ -2790,12 +2808,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 162,
-    "generated": "2026-05-31",
+    "count": 163,
+    "generated": "2026-06-01",
     "lastAdded": {
-      "name": "Active-Constructive Responding",
-      "category": "Relationships",
-      "date": "2026-05-31"
+      "name": "Hyperbolic Discounting",
+      "category": "Money & Time",
+      "date": "2026-06-01"
     }
   }
 }
