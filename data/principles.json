@@ -1831,6 +1831,24 @@
       "origin": "Robert A. Bjork, term coined in 'Memory and Metamemory Considerations in the Training of Human Beings' (1994); developed further in Bjork & Bjork, 'Making Things Hard on Yourself, but in a Good Way' (2011)."
     },
     {
+      "id": "elaborative-interrogation",
+      "name": "Elaborative Interrogation",
+      "category": "Learning",
+      "tags": [
+        "learning",
+        "memory",
+        "cognition",
+        "study",
+        "metacognition"
+      ],
+      "oneLiner": "Ask \"why\" new information is true or how it relates to what you already know to deepen understanding and improve recall.",
+      "description": "This learning strategy involves generating an explanation for why a fact or concept is true, or how it relates to other information you already possess. By actively connecting new knowledge to existing schemas, it creates a richer, more interconnected memory trace. It moves beyond rote memorization to foster a deeper, more meaningful comprehension of the material.",
+      "example": "When learning that \"the capital of Canada is Ottawa,\" you might ask yourself, \"Why is Ottawa the capital?\" You could then elaborate by connecting it to historical reasons (a compromise between Toronto and Montreal), geographical location (centrality), or political considerations.",
+      "howToApply": "1. When encountering a new fact or concept, pause and ask \"Why is this true?\" or \"How does this work?\" 2. Relate the new information to something you already understand, forming a bridge between old and new knowledge. 3. Generate specific examples or analogies that illustrate the concept, explaining them in your own words. 4. If you can't immediately answer \"why,\" research the explanation, then integrate it into your understanding.",
+      "pitfalls": "While highly effective, elaborative interrogation can be time-consuming, especially for complex topics or when prior knowledge is limited. It may also be less effective for arbitrary facts that lack inherent logical connections. Over-reliance on superficial or incorrect elaborations can hinder learning rather than help.",
+      "origin": "A core concept in cognitive psychology, extensively researched by scholars including Pressley, McDaniel, and Weinstein in the 1980s and 90s."
+    },
+    {
       "id": "feynman-technique",
       "name": "Feynman Technique",
       "category": "Learning",
@@ -2808,12 +2826,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 163,
-    "generated": "2026-06-01",
+    "count": 164,
+    "generated": "2026-06-02",
     "lastAdded": {
-      "name": "Hyperbolic Discounting",
-      "category": "Money & Time",
-      "date": "2026-06-01"
+      "name": "Elaborative Interrogation",
+      "category": "Learning",
+      "date": "2026-06-02"
     }
   }
 }
