@@ -2364,6 +2364,24 @@
       "origin": "Concept formalized in Anne Katherine's 'Boundaries: Where You End and I Begin' (1991) and Cloud & Townsend's 'Boundaries' (1992); Nina Brown's typology (soft/spongy/rigid/flexible) elaborated it."
     },
     {
+      "id": "positive-illusions-in-relationships",
+      "name": "Positive Illusions in Relationships",
+      "category": "Relationships",
+      "tags": [
+        "relationships",
+        "psychology",
+        "cognitive bias",
+        "love",
+        "perception"
+      ],
+      "oneLiner": "The tendency to view one's romantic partner more positively than they view themselves, often enhancing relationship satisfaction and stability.",
+      "description": "Positive illusions involve seeing a partner's positive qualities as more pronounced and their negative qualities as less significant than the partner themselves or objective observers might. This benevolent distortion can serve as a protective mechanism, bolstering commitment and buffering against inevitable conflicts. It's not about outright delusion but rather an optimistic interpretation of a partner's attributes, contributing to relationship well-being.",
+      "example": "Sarah believes her husband, Mark, is exceptionally patient and understanding, even though Mark sometimes struggles with impatience at work. When Mark is occasionally short-tempered with her, Sarah attributes it to stress rather than a fundamental character flaw, reinforcing her overall positive view of him.",
+      "howToApply": "Actively focus on and articulate your partner's strengths and positive attributes, even when faced with minor flaws. When your partner exhibits less desirable traits, frame them as situational or minor rather than core character defects. Practice gratitude for your partner's unique qualities and express this appreciation regularly.",
+      "pitfalls": "Extreme idealization can lead to disappointment if a partner consistently fails to live up to unrealistic expectations. Ignoring genuine problematic behaviors (e.g., abuse, addiction) under the guise of positive illusions is detrimental and unhealthy. While beneficial for satisfaction, it can sometimes hinder personal growth if a partner is never challenged to improve.",
+      "origin": "Sandra L. Murray, John G. Holmes, Dale W. Griffin (1996)"
+    },
+    {
       "id": "repair-attempts",
       "name": "Repair Attempts",
       "category": "Relationships",
@@ -2826,12 +2844,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 164,
-    "generated": "2026-06-02",
+    "count": 165,
+    "generated": "2026-06-03",
     "lastAdded": {
-      "name": "Elaborative Interrogation",
-      "category": "Learning",
-      "date": "2026-06-02"
+      "name": "Positive Illusions in Relationships",
+      "category": "Relationships",
+      "date": "2026-06-03"
     }
   }
 }
