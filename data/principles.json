@@ -2502,6 +2502,24 @@
       "origin": "Popularized by George S. Clason in 'The Richest Man in Babylon' (1926) — 'a part of all you earn is yours to keep' — and later by David Bach in 'The Automatic Millionaire' (2003)."
     },
     {
+      "id": "scarcity-mindset",
+      "name": "Scarcity Mindset",
+      "category": "Money & Time",
+      "tags": [
+        "psychology",
+        "decision-making",
+        "cognitive bias",
+        "productivity",
+        "finance"
+      ],
+      "oneLiner": "The cognitive and behavioral changes that occur when perceived lack of resources (time, money, etc.) narrows focus, impacting long-term planning.",
+      "description": "When individuals experience scarcity, their minds become intensely focused on the immediate problem of lacking. This \"tunnel vision\" can lead to effective short-term problem-solving but often at the expense of ignoring other important issues and long-term planning. It reduces cognitive \"bandwidth,\" making it harder to make optimal decisions, learn new things, or exert self-control.",
+      "example": "A low-income individual, constantly worried about making rent, might take out a high-interest payday loan to cover an immediate expense, even though they know it will create more financial strain in the long run. Their scarcity of money leads to a focus on the present need, overlooking future consequences. Similarly, a busy professional, feeling time-scarce, might rush through an important task, leading to errors, rather than delegating or rescheduling.",
+      "howToApply": "1. Acknowledge the feeling of scarcity: Recognize when you're operating under \"tunnel vision\" due to perceived lack of time or money. 2. Create buffers: Build in slack for both time (e.g., scheduling 80% capacity) and money (e.g., an emergency fund) to reduce the feeling of scarcity. 3. \"Tax\" important decisions: Before making critical choices under scarcity, pause and consciously consider long-term implications, perhaps by consulting a trusted advisor or using a decision-making framework. 4. Automate good behaviors: Set up automatic savings transfers or pre-plan important tasks to circumvent scarcity-driven impulsive decisions.",
+      "pitfalls": "Over-attributing all poor decisions to scarcity; other cognitive biases or lack of knowledge can also play a role. The concept has been primarily studied in specific contexts (e.g., poverty, busy schedules), and its generalizability to all forms of perceived scarcity might vary. Critics argue that some behaviors attributed to scarcity might simply be rational responses to difficult circumstances rather than cognitive impairment.",
+      "origin": "Sendhil Mullainathan and Eldar Shafir, 2013 (in their book 'Scarcity: Why Having Too Little Means So Much')"
+    },
+    {
       "id": "the-latte-factor",
       "name": "The Latte Factor",
       "category": "Money & Time",
@@ -2844,12 +2862,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 165,
-    "generated": "2026-06-03",
+    "count": 166,
+    "generated": "2026-06-04",
     "lastAdded": {
-      "name": "Positive Illusions in Relationships",
-      "category": "Relationships",
-      "date": "2026-06-03"
+      "name": "Scarcity Mindset",
+      "category": "Money & Time",
+      "date": "2026-06-04"
     }
   }
 }
