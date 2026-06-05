@@ -1797,6 +1797,24 @@
       "origin": "Studied since Abbott (1909); definitively established by Roediger & Karpicke, 'Test-Enhanced Learning' (Psychological Science, 2006)."
     },
     {
+      "id": "cognitive-load-theory",
+      "name": "Cognitive Load Theory",
+      "category": "Learning",
+      "tags": [
+        "instructional design",
+        "memory",
+        "attention",
+        "learning efficiency",
+        "cognitive psychology"
+      ],
+      "oneLiner": "Learning is optimized when instructional materials manage the demands on working memory, minimizing extraneous load and maximizing germane load.",
+      "description": "Cognitive Load Theory posits that working memory has a limited capacity, and learning effectiveness depends on how instructional designs manage this capacity. It distinguishes between intrinsic load (complexity of material), extraneous load (poor instruction), and germane load (effort for schema formation). Effective instruction aims to reduce extraneous load and support germane load.",
+      "example": "A textbook that presents complex diagrams without clear labels, requires students to constantly flip between pages for definitions, and uses overly verbose explanations creates high extraneous load, hindering understanding despite the student's effort. Conversely, a well-designed interactive simulation with clear, concise instructions and integrated explanations reduces extraneous load and encourages germane load.",
+      "howToApply": "When designing or engaging with learning materials, identify and eliminate unnecessary information or tasks (extraneous load). Break down complex topics into smaller, manageable chunks (reduce intrinsic load). Use multimedia principles (e.g., dual coding, contiguity) to present information efficiently. Focus on activities that build schemas and integrate new knowledge (germane load).",
+      "pitfalls": "Over-simplifying material can reduce intrinsic load too much, preventing deep understanding. What is extraneous for an expert might be essential for a novice, so instructional design needs to be tailored to the learner's expertise. The effects can be subtle and require careful experimental design to measure accurately, leading to misapplication if principles are not fully understood.",
+      "origin": "John Sweller, 1988."
+    },
+    {
       "id": "deliberate-practice",
       "name": "Deliberate Practice",
       "category": "Learning",
@@ -2862,12 +2880,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 166,
-    "generated": "2026-06-04",
+    "count": 167,
+    "generated": "2026-06-05",
     "lastAdded": {
-      "name": "Scarcity Mindset",
-      "category": "Money & Time",
-      "date": "2026-06-04"
+      "name": "Cognitive Load Theory",
+      "category": "Learning",
+      "date": "2026-06-05"
     }
   }
 }
