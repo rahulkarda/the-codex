@@ -2417,6 +2417,23 @@
       "origin": "John Gottman, formalized in 'The Seven Principles for Making Marriage Work' (1999)."
     },
     {
+      "id": "self-disclosure-reciprocity",
+      "name": "Self-Disclosure Reciprocity",
+      "category": "Relationships",
+      "tags": [
+        "communication",
+        "intimacy",
+        "trust",
+        "social psychology"
+      ],
+      "oneLiner": "The tendency for individuals to match the level of intimacy and depth in personal information shared by their conversational partners.",
+      "description": "This principle suggests that when one person reveals personal information, the other person is more likely to reciprocate with similar levels of disclosure. It's a fundamental mechanism for building intimacy and trust, as mutual vulnerability fosters a sense of connection and shared understanding, moving relationships from superficial to deeper levels.",
+      "example": "During a first date, one person shares a personal story about a childhood dream. The other person, feeling a connection and trust, responds by sharing a similar personal aspiration or a vulnerable experience from their past, rather than just a superficial comment about the weather.",
+      "howToApply": "To deepen a relationship, initiate appropriate, gradual self-disclosure that invites a similar response. Start with moderately personal topics and observe your partner's reaction; if they reciprocate, you can slowly increase the depth. Be mindful not to overshare too quickly, which can overwhelm.",
+      "pitfalls": "Oversharing too early can be off-putting or perceived as inappropriate, violating social norms. Lack of reciprocity can lead to an imbalanced relationship where one person feels exposed and the other distant. Cultural differences in disclosure norms can lead to misunderstandings or perceived slights.",
+      "origin": "Jourard, S. M. (1971). Self-disclosure: An experimental analysis of the transparent self."
+    },
+    {
       "id": "compound-interest",
       "name": "Compound Interest",
       "category": "Money & Time",
@@ -2880,12 +2897,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 167,
-    "generated": "2026-06-05",
+    "count": 168,
+    "generated": "2026-06-06",
     "lastAdded": {
-      "name": "Cognitive Load Theory",
-      "category": "Learning",
-      "date": "2026-06-05"
+      "name": "Self-Disclosure Reciprocity",
+      "category": "Relationships",
+      "date": "2026-06-06"
     }
   }
 }
