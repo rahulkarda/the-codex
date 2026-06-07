@@ -2778,6 +2778,24 @@
       "origin": "Institute of Medicine, *Dietary Reference Intakes for Water, Potassium, Sodium, Chloride, and Sulfate*, 2004; Heinz Valtin, 'Drink at least eight glasses of water a day. Really?' American Journal of Physiology, 2002."
     },
     {
+      "id": "intermittent-fasting",
+      "name": "Intermittent Fasting",
+      "category": "Health & Longevity",
+      "tags": [
+        "fasting",
+        "nutrition",
+        "metabolism",
+        "longevity",
+        "health"
+      ],
+      "oneLiner": "Cyclically abstaining from food for specific periods to promote metabolic health, cellular repair, and potentially extend lifespan.",
+      "description": "Intermittent Fasting (IF) involves alternating periods of eating and voluntary fasting, typically on a daily or weekly schedule. This practice aims to shift the body from glucose burning to fat burning, inducing metabolic changes like increased insulin sensitivity and cellular repair processes such as autophagy. It is distinct from caloric restriction, focusing on the timing of food intake rather than overall quantity. Proponents suggest benefits for weight management, chronic disease prevention, and longevity.",
+      "example": "An individual practices a 16/8 fasting schedule, meaning they consume all their meals within an 8-hour window (e.g., 12 PM to 8 PM) and fast for the remaining 16 hours each day. During the fasting window, they only consume water, black coffee, or plain tea to avoid breaking the fast.",
+      "howToApply": "Start with shorter fasting windows, such as 12 hours overnight, gradually extending to 14 or 16 hours if comfortable. Focus on nutrient-dense, whole foods during eating windows to ensure adequate nutrition. Stay well-hydrated with water during fasting periods and consult a healthcare professional before making significant dietary changes.",
+      "pitfalls": "Can lead to nutrient deficiencies if not carefully managed during eating windows. May not be suitable for pregnant or breastfeeding women, individuals with a history of eating disorders, or those with certain medical conditions like diabetes, without medical supervision. Some studies show no significant advantage over continuous caloric restriction for weight loss, and long-term longevity benefits in humans are still under investigation.",
+      "origin": "Popularized in modern scientific discourse by researchers like Dr. Valter Longo and Dr. Satchidananda Panda (early 2000s)."
+    },
+    {
       "id": "resistance-training-for-longevity",
       "name": "Resistance Training for Longevity",
       "category": "Health & Longevity",
@@ -2897,12 +2915,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 168,
-    "generated": "2026-06-06",
+    "count": 169,
+    "generated": "2026-06-07",
     "lastAdded": {
-      "name": "Self-Disclosure Reciprocity",
-      "category": "Relationships",
-      "date": "2026-06-06"
+      "name": "Intermittent Fasting",
+      "category": "Health & Longevity",
+      "date": "2026-06-07"
     }
   }
 }
