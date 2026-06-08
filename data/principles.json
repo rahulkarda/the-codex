@@ -1284,6 +1284,24 @@
       "origin": "Epictetus, Enchiridion ch. 1 and Discourses 1.1, ~108 CE (recorded by his student Arrian)."
     },
     {
+      "id": "indifferents-stoicism",
+      "name": "Indifferents (Stoicism)",
+      "category": "Philosophy & Stoicism",
+      "tags": [
+        "stoicism",
+        "philosophy",
+        "ethics",
+        "control",
+        "virtue"
+      ],
+      "oneLiner": "Differentiating between things that are morally good/bad (virtue/vice) and those that are neutral, or \"indifferent,\" to our moral character.",
+      "description": "In Stoicism, \"indifferents\" refer to things that do not inherently contribute to virtue or vice, such as wealth, health, reputation, or pleasure. While some indifferents (like health) are \"preferred\" and others \"dispreferred,\" they are not good or bad in a moral sense. True good lies only in virtue (wisdom, justice, courage, temperance), and true bad in vice. This distinction helps focus effort on what truly matters for one's character.",
+      "example": "A Stoic loses their job (a dispreferred indifferent). Instead of despairing over the loss, they focus on how they respond: with resilience, integrity in their job search, and maintaining their character. The job loss itself is neutral; their reaction determines if they act virtuously or not.",
+      "howToApply": "1. When facing an external event (e.g., illness, financial loss, social praise), pause and identify if it's truly a moral good/bad or an indifferent. 2. If indifferent, acknowledge its preferred or dispreferred status without assigning moral weight. 3. Redirect your focus to your internal response and actions, ensuring they align with virtue (e.g., courage, justice, wisdom, temperance). 4. Practice accepting things outside your moral choice with equanimity, reserving strong judgments for your own character and actions.",
+      "pitfalls": "Misinterpreting indifferents as apathy: It's not about not caring for health or loved ones, but about not deeming them *moral* goods or bads that define your worth. Using it to excuse inaction: While external outcomes are indifferent, our virtuous action often involves striving for preferred indifferents (e.g., seeking health, helping others). The virtue is in the striving, not the outcome. Philosophical detachment can lead to emotional suppression if not carefully applied, failing to acknowledge natural human feelings while still choosing virtuous responses.",
+      "origin": "Zeno of Citium (c. 300 BCE), a foundational concept in Stoic philosophy."
+    },
+    {
       "id": "memento-mori",
       "name": "Memento Mori",
       "category": "Philosophy & Stoicism",
@@ -2915,12 +2933,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 169,
-    "generated": "2026-06-07",
+    "count": 170,
+    "generated": "2026-06-08",
     "lastAdded": {
-      "name": "Intermittent Fasting",
-      "category": "Health & Longevity",
-      "date": "2026-06-07"
+      "name": "Indifferents (Stoicism)",
+      "category": "Philosophy & Stoicism",
+      "date": "2026-06-08"
     }
   }
 }
