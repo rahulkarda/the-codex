@@ -2814,6 +2814,24 @@
       "origin": "Popularized in modern scientific discourse by researchers like Dr. Valter Longo and Dr. Satchidananda Panda (early 2000s)."
     },
     {
+      "id": "non-exercise-activity-thermogenesis-neat",
+      "name": "Non-Exercise Activity Thermogenesis (NEAT)",
+      "category": "Health & Longevity",
+      "tags": [
+        "metabolism",
+        "physical activity",
+        "longevity",
+        "energy expenditure",
+        "health"
+      ],
+      "oneLiner": "The energy expended for all physical activities outside of structured exercise, eating, and sleeping, significantly impacting daily calorie burn and metabolic health.",
+      "description": "NEAT encompasses the calories burned through everyday movements like walking, standing, fidgeting, and household chores, which are not considered formal exercise. It represents a substantial portion of total daily energy expenditure and plays a crucial role in maintaining a healthy weight and metabolic function. Regular NEAT can help counteract the negative health effects of sedentary lifestyles.",
+      "example": "Instead of taking the elevator, a person consistently uses the stairs for three flights to their office. During phone calls, they stand up and pace around their office. Throughout the day, they take short, frequent breaks to stretch or walk to a water cooler further away, accumulating significant non-exercise movement.",
+      "howToApply": "Integrate frequent, short bursts of activity into your daily routine; take the stairs instead of elevators, park further away, stand or pace during phone calls, and incorporate \"movement snacks\" like short walks or stretches every hour. Use a standing desk or fidget more. Track your steps or standing time to encourage consistency.",
+      "pitfalls": "While beneficial, NEAT is not a complete substitute for structured exercise, particularly resistance training and cardiovascular fitness. Over-reliance on NEAT without addressing diet or underlying sedentary habits might lead to insufficient health improvements. Some individuals might struggle to integrate enough NEAT to make a significant difference if their baseline activity is extremely low.",
+      "origin": "James A. Levine, 2002"
+    },
+    {
       "id": "resistance-training-for-longevity",
       "name": "Resistance Training for Longevity",
       "category": "Health & Longevity",
@@ -2933,12 +2951,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 170,
-    "generated": "2026-06-08",
+    "count": 171,
+    "generated": "2026-06-09",
     "lastAdded": {
-      "name": "Indifferents (Stoicism)",
-      "category": "Philosophy & Stoicism",
-      "date": "2026-06-08"
+      "name": "Non-Exercise Activity Thermogenesis (NEAT)",
+      "category": "Health & Longevity",
+      "date": "2026-06-09"
     }
   }
 }
