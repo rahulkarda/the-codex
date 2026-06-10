@@ -2607,6 +2607,24 @@
       "origin": "Articulated by Spanish School of Salamanca scholastics (16th century); formalized by Irving Fisher in 'The Theory of Interest' (1930) and embedded in modern corporate finance via Markowitz, Modigliani & Miller (1950s–60s)."
     },
     {
+      "id": "adverse-selection",
+      "name": "Adverse Selection",
+      "category": "Economics & Incentives",
+      "tags": [
+        "economics",
+        "incentives",
+        "information asymmetry",
+        "market failure",
+        "risk"
+      ],
+      "oneLiner": "Occurs when one party in a transaction has more information than the other, leading to an imbalance and potentially poor outcomes for the less informed.",
+      "description": "Adverse selection arises before a transaction occurs, where parties with private information are more likely to participate in a trade that is favorable to them and unfavorable to the less informed party. This information asymmetry can lead to market failures, as the uninformed party struggles to distinguish between high-quality and low-quality goods or services. It often results in the 'bad' driving out the 'good' in a market.",
+      "example": "In the used car market, sellers know the true condition of their car, while buyers do not. Buyers, anticipating the risk of buying a 'lemon,' are only willing to pay an average price. This makes it unprofitable for owners of high-quality cars to sell, leading them to withdraw from the market. Consequently, the market becomes flooded with lower-quality cars, further reducing average prices and perpetuating the cycle.",
+      "howToApply": "1. Demand Transparency: Seek out and demand more information before making significant purchases or agreements (e.g., asking for car maintenance records, checking company financials). 2. Signal Quality: If you are the informed party selling a high-quality product or service, find credible ways to signal its quality (e.g., warranties, certifications, third-party reviews). 3. Use Third-Party Verification: Rely on independent experts or rating agencies to assess quality where information is asymmetric (e.g., home inspections, credit ratings).",
+      "pitfalls": "1. Over-regulation: Attempts to fully eliminate adverse selection through excessive regulation can stifle innovation or create black markets. 2. Ignoring Market Signals: Failing to recognize that a market might be suffering from adverse selection can lead to consistently poor choices or investments. 3. Moral Hazard Confusion: Adverse selection occurs *before* a transaction due to hidden information, distinct from moral hazard which occurs *after* a transaction due to hidden actions.",
+      "origin": "George A. Akerlof, \"The Market for 'Lemons': Quality Uncertainty and the Market Mechanism,\" 1970"
+    },
+    {
       "id": "cobra-effect",
       "name": "Cobra Effect",
       "category": "Economics & Incentives",
@@ -2951,12 +2969,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 171,
-    "generated": "2026-06-09",
+    "count": 172,
+    "generated": "2026-06-10",
     "lastAdded": {
-      "name": "Non-Exercise Activity Thermogenesis (NEAT)",
-      "category": "Health & Longevity",
-      "date": "2026-06-09"
+      "name": "Adverse Selection",
+      "category": "Economics & Incentives",
+      "date": "2026-06-10"
     }
   }
 }
