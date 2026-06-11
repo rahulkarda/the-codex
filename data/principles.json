@@ -1919,6 +1919,24 @@
       "origin": "Shea & Morgan (Journal of Experimental Psychology, 1979) on motor skills; extended to academic learning by Rohrer & Taylor (Instructional Science, 2007) and Doug Rohrer's subsequent math studies."
     },
     {
+      "id": "self-explanation",
+      "name": "Self-Explanation",
+      "category": "Learning",
+      "tags": [
+        "learning",
+        "metacognition",
+        "active learning",
+        "comprehension",
+        "problem-solving"
+      ],
+      "oneLiner": "Actively explaining new concepts or problem-solving steps to oneself deepens understanding and facilitates knowledge integration.",
+      "description": "This strategy involves learners articulating the meaning of new information or the steps taken to solve a problem, often in their own words. It encourages learners to identify gaps in their understanding, connect new information to existing knowledge, and monitor their comprehension, leading to more robust and transferable learning.",
+      "example": "While reading a textbook on physics, a student pauses after a paragraph describing a new law and tries to explain aloud or in writing how the law works, why it's true, and how it relates to concepts they already know. When solving a math problem, they explain each step they take and why it's valid.",
+      "howToApply": "1. Pause and Ponder: After encountering new information (reading a paragraph, watching a lecture segment, solving a problem step), pause. 2. Verbalize or Write: Articulate in your own words what the information means, how it works, or why a particular solution step is correct. 3. Connect and Elaborate: Relate the new information to what you already know. Ask \"Why?\" and \"How?\" questions to yourself. 4. Identify Gaps: If you struggle to explain something, pinpoint exactly what you don't understand and re-examine the source material.",
+      "pitfalls": "Superficial Explanation: Simply re-stating information verbatim without genuine understanding or elaboration offers minimal benefit. Over-reliance on Prior Knowledge: If prior knowledge is incorrect or insufficient, self-explanations might reinforce misunderstandings. Time-Consuming: Can feel slower than passive learning, leading some to skip it, despite its long-term effectiveness. Individual Differences: Effectiveness can vary, with some studies suggesting it's more beneficial for learners with less prior knowledge.",
+      "origin": "Chi, M. T. H., Bassok, M., Lewis, M. W., Reimann, P., & Glaser, R. (1989). Self-explanations: How students study and use examples in learning to solve problems. Cognitive Science, 13(2), 145-182."
+    },
+    {
       "id": "spaced-repetition",
       "name": "Spaced Repetition",
       "category": "Learning",
@@ -2969,12 +2987,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 172,
-    "generated": "2026-06-10",
+    "count": 173,
+    "generated": "2026-06-11",
     "lastAdded": {
-      "name": "Adverse Selection",
-      "category": "Economics & Incentives",
-      "date": "2026-06-10"
+      "name": "Self-Explanation",
+      "category": "Learning",
+      "date": "2026-06-11"
     }
   }
 }
