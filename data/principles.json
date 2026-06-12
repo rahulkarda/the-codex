@@ -2625,6 +2625,24 @@
       "origin": "Articulated by Spanish School of Salamanca scholastics (16th century); formalized by Irving Fisher in 'The Theory of Interest' (1930) and embedded in modern corporate finance via Markowitz, Modigliani & Miller (1950s–60s)."
     },
     {
+      "id": "time-saving-spending",
+      "name": "Time-Saving Spending",
+      "category": "Money & Time",
+      "tags": [
+        "money",
+        "time management",
+        "well-being",
+        "happiness",
+        "spending"
+      ],
+      "oneLiner": "Spending money on services or goods that save time can increase subjective well-being by reducing time stress and freeing up hours for enjoyable activities.",
+      "description": "Research indicates that individuals who allocate money towards time-saving purchases, such as house cleaning or meal delivery, report higher levels of happiness and life satisfaction. This effect stems from alleviating feelings of 'time poverty' and providing more discretionary time. It suggests that valuing time over money, when financially feasible, can be a direct path to improved well-being across various demographics.",
+      "example": "A working parent, feeling overwhelmed by household chores, decides to hire a weekly cleaning service. The financial cost is offset by the significant reduction in stress and the extra hours gained, which they now use to play with their children, exercise, or pursue a long-neglected hobby, ultimately leading to greater overall life satisfaction.",
+      "howToApply": "1. Identify recurring, time-consuming tasks or chores that you dislike or find stressful. 2. Calculate the potential cost of outsourcing or automating these tasks (e.g., cleaning service, grocery delivery, pre-made meals). 3. Evaluate if the financial cost aligns with your budget and the anticipated time savings and stress reduction. 4. Experiment by outsourcing one or two tasks and observe the impact on your well-being and the quality of your freed-up time.",
+      "pitfalls": "Overspending on time-saving services can ironically lead to financial stress, negating the well-being benefits. The freed-up time must be used meaningfully; merely replacing chores with other unproductive activities may not yield happiness gains. There can also be social pressure or a perception of 'busy bragging' associated with outsourcing tasks, which might cause discomfort for some individuals.",
+      "origin": "Ashley Whillans, Elizabeth Dunn, et al. (2017)"
+    },
+    {
       "id": "adverse-selection",
       "name": "Adverse Selection",
       "category": "Economics & Incentives",
@@ -2987,12 +3005,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 173,
-    "generated": "2026-06-11",
+    "count": 174,
+    "generated": "2026-06-12",
     "lastAdded": {
-      "name": "Self-Explanation",
-      "category": "Learning",
-      "date": "2026-06-11"
+      "name": "Time-Saving Spending",
+      "category": "Money & Time",
+      "date": "2026-06-12"
     }
   }
 }
