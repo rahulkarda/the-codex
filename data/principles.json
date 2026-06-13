@@ -2418,6 +2418,24 @@
       "origin": "Concept formalized in Anne Katherine's 'Boundaries: Where You End and I Begin' (1991) and Cloud & Townsend's 'Boundaries' (1992); Nina Brown's typology (soft/spongy/rigid/flexible) elaborated it."
     },
     {
+      "id": "love-maps",
+      "name": "Love Maps",
+      "category": "Relationships",
+      "tags": [
+        "communication",
+        "intimacy",
+        "understanding",
+        "partnership",
+        "gottman"
+      ],
+      "oneLiner": "A 'Love Map' is a detailed mental file of your partner's inner world, including their hopes, fears, dreams, and daily life details.",
+      "description": "Developed by Dr. John Gottman, Love Maps refer to the part of your brain where you store all the relevant information about your partner's life. This deep understanding of their preferences, history, personality, and current stressors is foundational for building strong, resilient relationships. Couples with rich Love Maps are better equipped to navigate conflict and maintain intimacy.",
+      "example": "A partner knows that their spouse is anxious about an upcoming work presentation, remembers their favorite comfort food, and understands their long-term dream of opening a small bookstore. When the spouse comes home stressed, the partner offers their favorite meal and listens empathetically, connecting it to their known anxiety about the presentation.",
+      "howToApply": "Actively ask open-ended questions about your partner's day, feelings, and aspirations. Pay attention to their non-verbal cues. Regularly update your mental map by asking about their current challenges, joys, and evolving dreams. Create dedicated time for \"checking in\" conversations without distractions.",
+      "pitfalls": "Can feel like an interrogation if not done with genuine curiosity and warmth. Over-reliance on past information without updating can lead to misunderstandings as people change. It's a two-way street; both partners need to be willing to share and listen. Not a substitute for addressing core conflicts directly.",
+      "origin": "John Gottman, 1999 (The Seven Principles for Making Marriage Work)"
+    },
+    {
       "id": "positive-illusions-in-relationships",
       "name": "Positive Illusions in Relationships",
       "category": "Relationships",
@@ -3005,12 +3023,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 174,
-    "generated": "2026-06-12",
+    "count": 175,
+    "generated": "2026-06-13",
     "lastAdded": {
-      "name": "Time-Saving Spending",
-      "category": "Money & Time",
-      "date": "2026-06-12"
+      "name": "Love Maps",
+      "category": "Relationships",
+      "date": "2026-06-13"
     }
   }
 }
