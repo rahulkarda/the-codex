@@ -2799,6 +2799,24 @@
       "origin": "Kenneth Arrow (1963); formalized by Michael Jensen and William Meckling, 'Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure,' Journal of Financial Economics (1976)."
     },
     {
+      "id": "signaling-theory",
+      "name": "Signaling Theory",
+      "category": "Economics & Incentives",
+      "tags": [
+        "information asymmetry",
+        "communication",
+        "game theory",
+        "credibility",
+        "decision making"
+      ],
+      "oneLiner": "Actions or attributes used to credibly convey unobservable information about oneself to others, often in situations of information asymmetry.",
+      "description": "Signaling theory explains how one party (the 'sender') with private information can credibly communicate that information to another party (the 'receiver'). For a signal to be effective, it must be costly or difficult for a low-quality sender to imitate, making it a reliable indicator of high quality. This mechanism helps reduce information asymmetry in markets and social interactions.",
+      "example": "A university degree from a prestigious institution acts as a signal to employers. While the specific knowledge gained is valuable, the degree also signals a candidate's intelligence, diligence, and ability to complete challenging tasks, as it's costly (time, money, effort) and difficult to obtain without these underlying qualities.",
+      "howToApply": "1. Identify situations where you possess private information that others need to trust. 2. Design actions or investments that are difficult or costly for lower-quality alternatives to mimic. 3. Clearly communicate the signal and its underlying meaning to your intended audience, ensuring they understand its credibility.",
+      "pitfalls": "Ineffective signals that are too easily mimicked by low-quality senders lose their credibility. Over-signaling involves investing excessively in signals where benefits do not outweigh costs. Receivers may misinterpret the signal or fail to recognize its true value, leading to missed opportunities. The effectiveness of a signal can vary greatly across different contexts and cultures.",
+      "origin": "Michael Spence, 1973 (for job market signaling)"
+    },
+    {
       "id": "tragedy-of-the-commons",
       "name": "Tragedy of the Commons",
       "category": "Economics & Incentives",
@@ -3041,12 +3059,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 176,
-    "generated": "2026-06-14",
+    "count": 177,
+    "generated": "2026-06-15",
     "lastAdded": {
-      "name": "Gut Microbiome Health",
-      "category": "Health & Longevity",
-      "date": "2026-06-14"
+      "name": "Signaling Theory",
+      "category": "Economics & Incentives",
+      "date": "2026-06-15"
     }
   }
 }
