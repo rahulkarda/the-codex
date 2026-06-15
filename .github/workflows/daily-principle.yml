@@ -2,8 +2,8 @@ name: Daily principle (Gemini)
 
 on:
   schedule:
-    # 09:17 UTC every day (off the :00 mark to avoid rush)
-    - cron: '17 9 * * *'
+    # 9:00pm IST = 15:30 UTC
+    - cron: '30 15 * * *'
   workflow_dispatch:
 
 permissions:
