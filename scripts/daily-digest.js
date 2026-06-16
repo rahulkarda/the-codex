@@ -184,18 +184,35 @@ function renderEmail(m, insight) {
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>${esc(m.name)} — The Codex Daily</title>
+<style>
+  @media only screen and (max-width:620px) {
+    .outer-wrap  { padding: 0 !important; }
+    .card        { border-radius: 0 !important; width: 100% !important; }
+    .pad-hero    { padding-left: 20px !important; padding-right: 20px !important; }
+    .pad-section { padding-left: 20px !important; padding-right: 20px !important; }
+    .pad-header  { padding-left: 20px !important; padding-right: 20px !important; }
+    .pad-footer  { padding-left: 20px !important; padding-right: 20px !important; }
+    .pad-cta     { padding-left: 20px !important; padding-right: 20px !important; }
+    .h1          { font-size: 28px !important; }
+    .oneliner    { font-size: 16px !important; }
+    .body-text   { font-size: 15px !important; }
+    .insight-text{ font-size: 15px !important; }
+    .step-num    { width: 28px !important; }
+    .divider-pad { padding-left: 20px !important; padding-right: 20px !important; }
+  }
+</style>
 </head>
 <body style="margin:0;padding:0;background:#ECEFF4;">
 
-<table width="100%" cellpadding="0" cellspacing="0" style="background:#ECEFF4;padding:48px 24px;">
+<table width="100%" cellpadding="0" cellspacing="0" class="outer-wrap" style="background:#ECEFF4;padding:48px 24px;">
 <tr><td align="center">
-<table width="720" cellpadding="0" cellspacing="0" style="max-width:720px;width:100%;background:#FFFFFF;border-radius:16px;overflow:hidden;box-shadow:0 2px 32px rgba(0,0,0,0.07);">
+<table width="720" cellpadding="0" cellspacing="0" class="card" style="max-width:720px;width:100%;background:#FFFFFF;border-radius:16px;overflow:hidden;box-shadow:0 2px 32px rgba(0,0,0,0.07);">
 
   <!-- top accent bar -->
   <tr><td style="background:${colour};height:5px;font-size:0;line-height:0;">&nbsp;</td></tr>
 
   <!-- header -->
-  <tr><td style="padding:32px 56px 24px;">
+  <tr><td class="pad-header" style="padding:32px 56px 24px;">
     <table width="100%" cellpadding="0" cellspacing="0"><tr>
       <td style="font-family:'Courier New',monospace;font-size:12px;font-weight:700;color:${colour};letter-spacing:0.18em;text-transform:uppercase;">The Codex</td>
       <td align="right" style="font-family:'Courier New',monospace;font-size:11px;color:#9CA3AF;letter-spacing:0.05em;">${esc(dateStr)} &nbsp;&middot;&nbsp; Daily Model</td>
@@ -203,23 +220,23 @@ function renderEmail(m, insight) {
   </td></tr>
 
   <!-- hero -->
-  <tr><td style="padding:0 56px 36px;">
+  <tr><td class="pad-hero" style="padding:0 56px 36px;">
     <span style="display:inline-block;border:1.5px solid ${colour};color:${colour};font-family:'Courier New',monospace;font-size:10px;font-weight:700;letter-spacing:0.16em;text-transform:uppercase;padding:5px 16px;border-radius:20px;margin-bottom:20px;">${esc(m.category)}</span>
-    <h1 style="margin:0 0 18px;font-size:42px;font-weight:800;color:#111827;line-height:1.1;letter-spacing:-0.025em;font-family:Georgia,serif;">${esc(m.name)}</h1>
-    <p style="margin:0;font-size:20px;color:#374151;line-height:1.65;font-style:italic;padding-left:18px;border-left:4px solid ${colour};">${esc(m.oneLiner)}</p>
+    <h1 class="h1" style="margin:0 0 18px;font-size:42px;font-weight:800;color:#111827;line-height:1.1;letter-spacing:-0.025em;font-family:Georgia,serif;">${esc(m.name)}</h1>
+    <p class="oneliner" style="margin:0;font-size:20px;color:#374151;line-height:1.65;font-style:italic;padding-left:18px;border-left:4px solid ${colour};">${esc(m.oneLiner)}</p>
   </td></tr>
 
-  <tr><td style="padding:0 56px;"><div style="height:1px;background:#E5E7EB;"></div></td></tr>
+  <tr><td class="divider-pad" style="padding:0 56px;"><div style="height:1px;background:#E5E7EB;"></div></td></tr>
 
   <!-- body -->
-  <tr><td style="padding:36px 56px 0;">
+  <tr><td class="pad-section" style="padding:36px 56px 0;">
 
     <p style="${label}">What it is</p>
-    <p style="margin:0 0 36px;font-size:17px;color:#374151;line-height:1.85;">${esc(m.description)}</p>
+    <p class="body-text" style="margin:0 0 36px;font-size:17px;color:#374151;line-height:1.85;">${esc(m.description)}</p>
 
     <p style="${label}">Real-world example</p>
     <div style="${tintStyle}border-left:4px solid ${colour};border-radius:0 8px 8px 0;padding:20px 24px;margin-bottom:36px;">
-      <p style="margin:0;font-size:17px;color:#374151;line-height:1.85;">${esc(m.example)}</p>
+      <p class="body-text" style="margin:0;font-size:17px;color:#374151;line-height:1.85;">${esc(m.example)}</p>
     </div>
 
     <p style="${label}">How to apply it</p>
@@ -227,25 +244,25 @@ function renderEmail(m, insight) {
 
     <p style="${label}">Common pitfall</p>
     <div style="background:#FFFBEB;border:1px solid #FCD34D;border-radius:10px;padding:20px 24px;margin-bottom:36px;">
-      <p style="margin:0;font-size:16px;color:#92400E;line-height:1.8;"><strong>&#9888; Watch out:</strong> ${esc(m.pitfalls)}</p>
+      <p class="body-text" style="margin:0;font-size:16px;color:#92400E;line-height:1.8;"><strong>&#9888; Watch out:</strong> ${esc(m.pitfalls)}</p>
     </div>
 
     <div style="height:1px;background:#E5E7EB;margin-bottom:36px;"></div>
 
     <p style="margin:0 0 8px;font-family:'Courier New',monospace;font-size:10px;letter-spacing:0.2em;text-transform:uppercase;color:${colour};">Why this matters right now</p>
     <div style="${tintStyle}border-radius:10px;padding:24px 28px;margin-bottom:40px;">
-      <p style="margin:0;font-size:17px;color:#111827;line-height:1.9;">${esc(insight)}</p>
+      <p class="insight-text" style="margin:0;font-size:17px;color:#111827;line-height:1.9;">${esc(insight)}</p>
     </div>
 
   </td></tr>
 
   <!-- CTA -->
-  <tr><td style="padding:0 56px 48px;" align="center">
+  <tr><td class="pad-cta" style="padding:0 56px 48px;" align="center">
     <a href="${codexUrl}" style="display:inline-block;background:${colour};color:#FFFFFF;font-family:'Courier New',monospace;font-size:12px;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;text-decoration:none;padding:16px 40px;border-radius:8px;">Read on The Codex &rarr;</a>
   </td></tr>
 
   <!-- footer -->
-  <tr><td style="background:#F9FAFB;border-top:1px solid #E5E7EB;padding:24px 56px;border-radius:0 0 16px 16px;">
+  <tr><td class="pad-footer" style="background:#F9FAFB;border-top:1px solid #E5E7EB;padding:24px 56px;border-radius:0 0 16px 16px;">
     <table width="100%" cellpadding="0" cellspacing="0"><tr>
       <td style="font-family:'Courier New',monospace;font-size:10px;color:#9CA3AF;">The Codex &middot; ${entries.length} models &amp; growing</td>
       <td align="right" style="font-family:'Courier New',monospace;font-size:10px;color:#9CA3AF;"><a href="https://rahulkarda.github.io/the-codex/" style="color:#9CA3AF;text-decoration:none;">rahulkarda.github.io/the-codex</a></td>
