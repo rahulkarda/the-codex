@@ -264,10 +264,10 @@ function renderEmail(m, insight) {
   <!-- footer -->
   <tr><td class="pad-footer" style="background:#F9FAFB;border-top:1px solid #E5E7EB;padding:24px 56px;border-radius:0 0 16px 16px;">
     <table width="100%" cellpadding="0" cellspacing="0"><tr>
-      <td style="font-family:'Courier New',monospace;font-size:10px;color:#9CA3AF;">The Codex &middot; ${entries.length} models &amp; growing</td>
-      <td align="right" style="font-family:'Courier New',monospace;font-size:10px;color:#9CA3AF;"><a href="https://rahulkarda.github.io/the-codex/" style="color:#9CA3AF;text-decoration:none;">rahulkarda.github.io/the-codex</a></td>
+      <td style="font-family:'Courier New',monospace;font-size:11px;color:#6B7280;">The Codex &middot; ${entries.length} models &amp; growing</td>
+      <td align="right" style="font-family:'Courier New',monospace;font-size:11px;color:#6B7280;"><a href="https://rahulkarda.github.io/the-codex/" style="color:#6B7280;text-decoration:none;">rahulkarda.github.io/the-codex</a></td>
     </tr></table>
-    <p style="margin:10px 0 0;font-family:'Courier New',monospace;font-size:9px;color:#D1D5DB;">Origin: ${esc(m.origin)}</p>
+    <p style="margin:10px 0 0;font-family:'Courier New',monospace;font-size:11px;color:#9CA3AF;">Origin: ${esc(m.origin)}</p>
   </td></tr>
 
 </table>
