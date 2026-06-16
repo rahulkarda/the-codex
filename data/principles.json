@@ -2539,6 +2539,24 @@
       "origin": "The phrase 'fuck-you money' appears in James Clavell's novel 'Tai-Pan' (1966) and Humphrey Bogart lore; the modern FIRE movement traces to Vicki Robin and Joe Dominguez's 'Your Money or Your Life' (1992) and Pete Adeney's 'Mr. Money Mustache' blog (2011)."
     },
     {
+      "id": "hedonic-adaptation-hedonic-treadmill",
+      "name": "Hedonic Adaptation (Hedonic Treadmill)",
+      "category": "Money & Time",
+      "tags": [
+        "psychology",
+        "happiness",
+        "finance",
+        "well-being",
+        "economics"
+      ],
+      "oneLiner": "Humans tend to quickly revert to a stable happiness baseline despite major life changes, such as increased income or new possessions.",
+      "description": "This phenomenon describes how people adapt to new circumstances, both good and bad, causing the emotional impact of these events to diminish over time. While a pay raise or new car might provide an initial boost in happiness, individuals typically revert to their baseline level of satisfaction. It suggests that sustained happiness is less about external circumstances and more about internal processes and ongoing novelty.",
+      "example": "Winning the lottery provides an initial surge of euphoria, allowing the winner to buy a dream home, luxury cars, and travel extensively. However, after a few months or a year, the novelty wears off, and the individual often reports returning to their pre-lottery happiness levels, finding new stressors or becoming accustomed to their upgraded lifestyle.",
+      "howToApply": "To counteract its effects, focus on experiences over material possessions, cultivate gratitude for current circumstances, and prioritize activities that provide novelty, challenge, and social connection rather than relying on static gains. Invest in 'flow' activities and personal growth that offer continuous engagement.",
+      "pitfalls": "Misinterpreting it as 'nothing matters' or 'happiness is impossible,' which can lead to nihilism or inaction. It doesn't mean *no* change affects happiness, but rather that the *duration* of the effect is often shorter than anticipated. Extreme negative events can have lasting impacts, and individual baselines can shift over long periods.",
+      "origin": "Philip Brickman and Donald T. Campbell (1971) introduced the term 'hedonic treadmill.'"
+    },
+    {
       "id": "hyperbolic-discounting",
       "name": "Hyperbolic Discounting",
       "category": "Money & Time",
@@ -3059,12 +3077,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 177,
-    "generated": "2026-06-15",
+    "count": 178,
+    "generated": "2026-06-16",
     "lastAdded": {
-      "name": "Signaling Theory",
-      "category": "Economics & Incentives",
-      "date": "2026-06-15"
+      "name": "Hedonic Adaptation (Hedonic Treadmill)",
+      "category": "Money & Time",
+      "date": "2026-06-16"
     }
   }
 }
