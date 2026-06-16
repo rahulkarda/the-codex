@@ -2,8 +2,8 @@ name: Daily digest (Resend)
 
 on:
   schedule:
-    # 9:30am IST = 04:00 UTC
-    - cron: '0 4 * * *'
+    # 12pm IST target (-1hr buffer) = 11am IST = 05:30 UTC
+    - cron: '30 5 * * *'
   workflow_dispatch:
 
 concurrency:
