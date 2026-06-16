@@ -131,7 +131,7 @@ function formatList(text, colour) {
   ).join('\n');
 }
 
-// ── email template ───────────────────────────────────────────────────────────
+// ── email template (Preview A — Wide & Airy) ─────────────────────────────────
 const CATEGORY_COLOURS = {
   'Mental Model':           '#16A34A',
   'Cognitive Bias':         '#D97706',
@@ -150,14 +150,33 @@ const CATEGORY_COLOURS = {
 };
 
 function renderEmail(m, insight) {
-  const codexUrl  = `https://rahulkarda.github.io/the-codex/#${m.id}`;
-  const colour    = CATEGORY_COLOURS[m.category] || '#16A34A';
-  const colourBg  = colour + '14'; // ~8% opacity tint for backgrounds
-  const dateStr   = new Date().toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+  const codexUrl = `https://rahulkarda.github.io/the-codex/#${m.id}`;
+  const colour   = CATEGORY_COLOURS[m.category] || '#16A34A';
+  const tintBg   = colour.replace('#', '%23'); // unused but kept for reference
+  const dateStr  = new Date().toLocaleDateString('en-US', { weekday: 'short', day: 'numeric', month: 'long', year: 'numeric' });
 
-  const labelStyle = `margin:0 0 6px 0;font-family:'Courier New',monospace;font-size:10px;letter-spacing:0.18em;text-transform:uppercase;color:#9CA3AF;`;
-  const bodyText   = `font-size:16px;color:#374151;line-height:1.8;`;
-  const divider    = `<tr><td style="padding:8px 0 24px 0;"><div style="height:1px;background:#E5E7EB;"></div></td></tr>`;
+  const label = `margin:0 0 8px;font-family:'Courier New',monospace;font-size:10px;letter-spacing:0.2em;text-transform:uppercase;color:#9CA3AF;`;
+
+  // Build howToApply as numbered rows — split on "N. " pattern
+  const steps = m.howToApply.split(/(?<!\d)\d+\.\s+/).map(s => s.trim()).filter(Boolean);
+  const applyRows = steps.length > 1
+    ? steps.map((s, i) => {
+        // Split "Bold title: rest" if present
+        const colon = s.indexOf(':');
+        const bold  = colon > 0 && colon < 40 ? `<strong>${esc(s.slice(0, colon))}:</strong> ${esc(s.slice(colon + 1).trim())}` : esc(s);
+        return `<table cellpadding="0" cellspacing="0" style="margin-bottom:${i < steps.length - 1 ? '8px' : '36px'};width:100%;">
+        <tr>
+          <td style="width:36px;vertical-align:top;padding-top:1px;">
+            <span style="display:inline-block;width:26px;height:26px;border-radius:50%;background:${colour};color:#fff;font-family:'Courier New',monospace;font-size:11px;font-weight:700;text-align:center;line-height:26px;">${i + 1}</span>
+          </td>
+          <td style="font-size:17px;color:#374151;line-height:1.85;padding-bottom:12px;">${bold}</td>
+        </tr>
+      </table>`;
+      }).join('\n')
+    : `<p style="margin:0 0 36px;font-size:17px;color:#374151;line-height:1.85;">${esc(m.howToApply)}</p>`;
+
+  // Tint colour for example/insight backgrounds (hex + alpha via opacity div trick)
+  const tintStyle = `background:${colour}12;`; // works in webmail, falls back to white
 
   return `<!DOCTYPE html>
 <html lang="en">
@@ -166,135 +185,77 @@ function renderEmail(m, insight) {
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>${esc(m.name)} — The Codex Daily</title>
 </head>
-<body style="margin:0;padding:0;background:#F3F4F6;">
+<body style="margin:0;padding:0;background:#ECEFF4;">
 
-<table width="100%" cellpadding="0" cellspacing="0" style="background:#F3F4F6;padding:32px 16px;">
+<table width="100%" cellpadding="0" cellspacing="0" style="background:#ECEFF4;padding:48px 24px;">
 <tr><td align="center">
-<table width="600" cellpadding="0" cellspacing="0" style="max-width:600px;width:100%;background:#FFFFFF;border-radius:12px;overflow:hidden;box-shadow:0 4px 24px rgba(0,0,0,0.08);">
+<table width="720" cellpadding="0" cellspacing="0" style="max-width:720px;width:100%;background:#FFFFFF;border-radius:16px;overflow:hidden;box-shadow:0 2px 32px rgba(0,0,0,0.07);">
 
   <!-- top accent bar -->
-  <tr><td style="background:${colour};height:4px;font-size:0;line-height:0;">&nbsp;</td></tr>
+  <tr><td style="background:${colour};height:5px;font-size:0;line-height:0;">&nbsp;</td></tr>
 
   <!-- header -->
-  <tr><td style="padding:28px 36px 20px;">
-    <table width="100%" cellpadding="0" cellspacing="0">
-      <tr>
-        <td style="font-family:'Courier New',monospace;font-size:13px;font-weight:700;color:${colour};letter-spacing:0.14em;text-transform:uppercase;">
-          The Codex
-        </td>
-        <td align="right" style="font-family:'Courier New',monospace;font-size:11px;color:#9CA3AF;letter-spacing:0.06em;">
-          ${esc(dateStr)}
-        </td>
-      </tr>
-    </table>
+  <tr><td style="padding:32px 56px 24px;">
+    <table width="100%" cellpadding="0" cellspacing="0"><tr>
+      <td style="font-family:'Courier New',monospace;font-size:12px;font-weight:700;color:${colour};letter-spacing:0.18em;text-transform:uppercase;">The Codex</td>
+      <td align="right" style="font-family:'Courier New',monospace;font-size:11px;color:#9CA3AF;letter-spacing:0.05em;">${esc(dateStr)} &nbsp;&middot;&nbsp; Daily Model</td>
+    </tr></table>
   </td></tr>
 
-  <!-- hero block -->
-  <tr><td style="padding:0 36px 28px;">
-    <div style="background:${colourBg};border-radius:10px;padding:28px 28px 24px;">
+  <!-- hero -->
+  <tr><td style="padding:0 56px 36px;">
+    <span style="display:inline-block;border:1.5px solid ${colour};color:${colour};font-family:'Courier New',monospace;font-size:10px;font-weight:700;letter-spacing:0.16em;text-transform:uppercase;padding:5px 16px;border-radius:20px;margin-bottom:20px;">${esc(m.category)}</span>
+    <h1 style="margin:0 0 18px;font-size:42px;font-weight:800;color:#111827;line-height:1.1;letter-spacing:-0.025em;font-family:Georgia,serif;">${esc(m.name)}</h1>
+    <p style="margin:0;font-size:20px;color:#374151;line-height:1.65;font-style:italic;padding-left:18px;border-left:4px solid ${colour};">${esc(m.oneLiner)}</p>
+  </td></tr>
 
-      <!-- category pill -->
-      <div style="margin-bottom:16px;">
-        <span style="display:inline-block;background:#FFFFFF;border:1.5px solid ${colour};color:${colour};font-family:'Courier New',monospace;font-size:10px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;padding:4px 14px;border-radius:20px;">
-          ${esc(m.category)}
-        </span>
-      </div>
+  <tr><td style="padding:0 56px;"><div style="height:1px;background:#E5E7EB;"></div></td></tr>
 
-      <!-- model name -->
-      <h1 style="margin:0 0 14px;font-size:32px;font-weight:800;color:#111827;line-height:1.15;letter-spacing:-0.02em;font-family:Georgia,serif;">
-        ${esc(m.name)}
-      </h1>
+  <!-- body -->
+  <tr><td style="padding:36px 56px 0;">
 
-      <!-- one-liner -->
-      <p style="margin:0;font-size:18px;color:#374151;line-height:1.6;font-style:italic;border-left:3px solid ${colour};padding-left:14px;">
-        ${esc(m.oneLiner)}
-      </p>
+    <p style="${label}">What it is</p>
+    <p style="margin:0 0 36px;font-size:17px;color:#374151;line-height:1.85;">${esc(m.description)}</p>
+
+    <p style="${label}">Real-world example</p>
+    <div style="${tintStyle}border-left:4px solid ${colour};border-radius:0 8px 8px 0;padding:20px 24px;margin-bottom:36px;">
+      <p style="margin:0;font-size:17px;color:#374151;line-height:1.85;">${esc(m.example)}</p>
     </div>
-  </td></tr>
 
-  <!-- body sections -->
-  <tr><td style="padding:0 36px;">
-    <table width="100%" cellpadding="0" cellspacing="0">
+    <p style="${label}">How to apply it</p>
+    ${applyRows}
 
-      <!-- what it is -->
-      <tr><td style="padding-bottom:24px;">
-        <p style="${labelStyle}">What it is</p>
-        <p style="${bodyText}margin:0;">${esc(m.description)}</p>
-      </td></tr>
+    <p style="${label}">Common pitfall</p>
+    <div style="background:#FFFBEB;border:1px solid #FCD34D;border-radius:10px;padding:20px 24px;margin-bottom:36px;">
+      <p style="margin:0;font-size:16px;color:#92400E;line-height:1.8;"><strong>&#9888; Watch out:</strong> ${esc(m.pitfalls)}</p>
+    </div>
 
-      ${divider}
+    <div style="height:1px;background:#E5E7EB;margin-bottom:36px;"></div>
 
-      <!-- real example -->
-      <tr><td style="padding-bottom:24px;">
-        <p style="${labelStyle}">Real-world example</p>
-        <div style="background:#F9FAFB;border-left:3px solid ${colour};border-radius:0 6px 6px 0;padding:16px 20px;">
-          <p style="${bodyText}margin:0;">${esc(m.example)}</p>
-        </div>
-      </td></tr>
+    <p style="margin:0 0 8px;font-family:'Courier New',monospace;font-size:10px;letter-spacing:0.2em;text-transform:uppercase;color:${colour};">Why this matters right now</p>
+    <div style="${tintStyle}border-radius:10px;padding:24px 28px;margin-bottom:40px;">
+      <p style="margin:0;font-size:17px;color:#111827;line-height:1.9;">${esc(insight)}</p>
+    </div>
 
-      ${divider}
-
-      <!-- how to apply -->
-      <tr><td style="padding-bottom:24px;">
-        <p style="${labelStyle}">How to apply it</p>
-        ${formatList(m.howToApply, colour)}
-      </td></tr>
-
-      ${divider}
-
-      <!-- pitfall -->
-      <tr><td style="padding-bottom:28px;">
-        <p style="${labelStyle}">Common pitfall</p>
-        <div style="background:#FEF3C7;border:1px solid #FCD34D;border-radius:8px;padding:16px 20px;">
-          <p style="margin:0;font-size:15px;color:#92400E;line-height:1.75;">
-            <strong style="color:#B45309;">⚠ Watch out:</strong> ${esc(m.pitfalls)}
-          </p>
-        </div>
-      </td></tr>
-
-      ${divider}
-
-      <!-- connecting insight -->
-      <tr><td style="padding-bottom:32px;">
-        <p style="${labelStyle.replace('#9CA3AF', colour)}">Why this matters right now</p>
-        <div style="background:${colourBg};border-radius:8px;padding:20px 24px;">
-          <p style="margin:0;font-size:16px;color:#111827;line-height:1.85;">
-            ${esc(insight)}
-          </p>
-        </div>
-      </td></tr>
-
-    </table>
   </td></tr>
 
   <!-- CTA -->
-  <tr><td style="padding:0 36px 36px;" align="center">
-    <a href="${codexUrl}" style="display:inline-block;background:${colour};color:#FFFFFF;font-family:'Courier New',monospace;font-size:12px;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;text-decoration:none;padding:14px 36px;border-radius:6px;">
-      Read on The Codex &rarr;
-    </a>
+  <tr><td style="padding:0 56px 48px;" align="center">
+    <a href="${codexUrl}" style="display:inline-block;background:${colour};color:#FFFFFF;font-family:'Courier New',monospace;font-size:12px;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;text-decoration:none;padding:16px 40px;border-radius:8px;">Read on The Codex &rarr;</a>
   </td></tr>
 
   <!-- footer -->
-  <tr><td style="background:#F9FAFB;border-top:1px solid #E5E7EB;padding:20px 36px;border-radius:0 0 12px 12px;">
-    <table width="100%" cellpadding="0" cellspacing="0">
-      <tr>
-        <td style="font-family:'Courier New',monospace;font-size:10px;color:#9CA3AF;letter-spacing:0.05em;">
-          The Codex &middot; ${entries.length} models &amp; growing
-        </td>
-        <td align="right" style="font-family:'Courier New',monospace;font-size:10px;color:#9CA3AF;letter-spacing:0.05em;">
-          <a href="https://rahulkarda.github.io/the-codex/" style="color:#9CA3AF;text-decoration:none;">rahulkarda.github.io/the-codex</a>
-        </td>
-      </tr>
-      <tr><td colspan="2" style="padding-top:8px;font-family:'Courier New',monospace;font-size:9px;color:#D1D5DB;letter-spacing:0.03em;">
-        Origin: ${esc(m.origin)}
-      </td></tr>
-    </table>
+  <tr><td style="background:#F9FAFB;border-top:1px solid #E5E7EB;padding:24px 56px;border-radius:0 0 16px 16px;">
+    <table width="100%" cellpadding="0" cellspacing="0"><tr>
+      <td style="font-family:'Courier New',monospace;font-size:10px;color:#9CA3AF;">The Codex &middot; ${entries.length} models &amp; growing</td>
+      <td align="right" style="font-family:'Courier New',monospace;font-size:10px;color:#9CA3AF;"><a href="https://rahulkarda.github.io/the-codex/" style="color:#9CA3AF;text-decoration:none;">rahulkarda.github.io/the-codex</a></td>
+    </tr></table>
+    <p style="margin:10px 0 0;font-family:'Courier New',monospace;font-size:9px;color:#D1D5DB;">Origin: ${esc(m.origin)}</p>
   </td></tr>
 
 </table>
 </td></tr>
 </table>
-
 </body>
 </html>`;
 }
