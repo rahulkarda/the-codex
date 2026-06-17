@@ -2213,6 +2213,24 @@
       "origin": "Robin Dunbar, 'Neocortex size as a constraint on group size in primates,' Journal of Human Evolution (1992)."
     },
     {
+      "id": "fundamental-attribution-error",
+      "name": "Fundamental Attribution Error",
+      "category": "Social Dynamics",
+      "tags": [
+        "attribution",
+        "bias",
+        "cognitive bias",
+        "social psychology",
+        "judgment"
+      ],
+      "oneLiner": "The tendency to overemphasize dispositional factors for others' behavior while underestimating situational factors, and vice versa for oneself.",
+      "description": "This cognitive bias leads us to attribute others' actions primarily to their personality or character, even when external circumstances play a significant role. Conversely, when explaining our own behavior, especially failures, we tend to emphasize situational influences rather than personal traits. It highlights a common asymmetry in how we perceive the causes of behavior and can hinder understanding.",
+      "example": "A colleague misses a deadline. You might immediately think, 'They're lazy and disorganized.' However, if you miss a deadline, you'd likely attribute it to external factors like 'I had too many urgent tasks' or 'My computer crashed.'",
+      "howToApply": "When observing others' actions, consciously consider potential external or situational factors before jumping to conclusions about their character. Practice empathy by asking, 'What circumstances might have led to this behavior?' For your own actions, especially successes, reflect on your internal contributions and avoid solely crediting external luck.",
+      "pitfalls": "Can lead to unfair judgments, reduced empathy, and strained relationships. It can also prevent effective problem-solving by misdiagnosing the root causes of issues (e.g., blaming an individual's 'attitude' instead of systemic failures). Some research suggests cultural variations, with individualistic cultures showing stronger FAE than collectivistic ones, implying it's not universally equally strong.",
+      "origin": "Lee Ross, 1977"
+    },
+    {
       "id": "mirroring-and-behavioral-mimicry",
       "name": "Mirroring and Behavioral Mimicry",
       "category": "Social Dynamics",
@@ -3077,12 +3095,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 178,
-    "generated": "2026-06-16",
+    "count": 179,
+    "generated": "2026-06-17",
     "lastAdded": {
-      "name": "Hedonic Adaptation (Hedonic Treadmill)",
-      "category": "Money & Time",
-      "date": "2026-06-16"
+      "name": "Fundamental Attribution Error",
+      "category": "Social Dynamics",
+      "date": "2026-06-17"
     }
   }
 }
