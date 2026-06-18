@@ -2506,6 +2506,24 @@
       "origin": "Jourard, S. M. (1971). Self-disclosure: An experimental analysis of the transparent self."
     },
     {
+      "id": "self-expansion-model",
+      "name": "Self-Expansion Model",
+      "category": "Relationships",
+      "tags": [
+        "relationships",
+        "psychology",
+        "personal growth",
+        "attraction",
+        "commitment"
+      ],
+      "oneLiner": "People are motivated to expand their self-concept by incorporating a partner's resources and perspectives, enhancing relationship satisfaction and commitment.",
+      "description": "The Self-Expansion Model proposes that individuals have a fundamental desire to grow and expand their capabilities, resources, and perspectives. Close relationships are a primary means for this, as partners incorporate each other's identities, experiences, and social networks into their own self-concept. This mutual inclusion is linked to increased relationship satisfaction and commitment, particularly in the nascent stages of a relationship. It suggests that novel and challenging shared activities can facilitate this process.",
+      "example": "An introverted individual starts dating an adventurous artist. Through their partner, they begin to explore new hobbies like hiking and visiting art galleries, feeling a broader sense of self and discovering new joys they wouldn't have pursued alone.",
+      "howToApply": "Actively seek novel and challenging activities to share with your partner to foster mutual self-expansion, especially early in the relationship. Encourage your partner's individual growth and explore their interests, allowing their experiences and perspectives to enrich your own. Regularly introduce new experiences or learning opportunities into your shared life.",
+      "pitfalls": "Over-reliance on a partner for self-expansion can lead to a loss of individual identity or codependency if not balanced with personal growth. The novelty effect of self-expansion can diminish over time, requiring conscious effort to maintain new, shared activities. Forcing expansion or shared interests can also create resentment if one partner feels pressured or unaligned with the chosen activities.",
+      "origin": "Arthur Aron and Elaine N. Aron, 1986"
+    },
+    {
       "id": "compound-interest",
       "name": "Compound Interest",
       "category": "Money & Time",
@@ -3095,12 +3113,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 179,
-    "generated": "2026-06-17",
+    "count": 180,
+    "generated": "2026-06-18",
     "lastAdded": {
-      "name": "Fundamental Attribution Error",
-      "category": "Social Dynamics",
-      "date": "2026-06-17"
+      "name": "Self-Expansion Model",
+      "category": "Relationships",
+      "date": "2026-06-18"
     }
   }
 }
