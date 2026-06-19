@@ -2058,6 +2058,24 @@
       "origin": "Thomas Gordon, clinical psychologist, in 'Parent Effectiveness Training' (1970); refined in Marshall Rosenberg's 'Nonviolent Communication' (1999)."
     },
     {
+      "id": "johari-window",
+      "name": "Johari Window",
+      "category": "Communication",
+      "tags": [
+        "self-awareness",
+        "feedback",
+        "disclosure",
+        "group dynamics",
+        "relationships"
+      ],
+      "oneLiner": "A psychological model illustrating how information about an individual is known or unknown to themselves and others, improving self-awareness and mutual understanding.",
+      "description": "The Johari Window divides personal awareness into four quadrants: Open, Blind, Hidden, and Unknown. It serves as a framework for understanding and improving interpersonal communication by mapping what is known to self and known to others. Expanding the 'Open' area through deliberate self-disclosure and soliciting feedback enhances trust, reduces misunderstandings, and fosters more effective relationships. This model is widely used in group dynamics and personal development.",
+      "example": "During a team-building workshop, a manager asks for anonymous feedback on her leadership style. She learns that some team members perceive her as unapproachable (a 'Blind' area). In response, she decides to share some personal challenges she's overcome (reducing her 'Hidden' area) and actively solicits direct input in subsequent meetings. This process expands her 'Open' area, making her more relatable and fostering better team communication.",
+      "howToApply": "1. **Practice Self-Disclosure**: Deliberately share relevant thoughts, feelings, and experiences with others to expand your 'Open' area and build rapport. 2. **Solicit Feedback**: Actively ask trusted colleagues, friends, or mentors for honest, constructive feedback about your behavior and impact to uncover aspects of your 'Blind' area. 3. **Observe and Reflect**: Pay attention to non-verbal cues and reactions from others to gain insights into how you are perceived, aiding in self-discovery.",
+      "pitfalls": "Over-disclosure can be perceived as inappropriate or unprofessional, especially in early relationship stages or formal settings, potentially eroding trust. Feedback, if not delivered constructively or if received defensively, can cause conflict rather than foster understanding. The 'Unknown' area can be vast and complex, sometimes requiring professional psychological intervention rather than simple communication techniques.",
+      "origin": "Joseph Luft and Harry Ingham, 1955"
+    },
+    {
       "id": "nonviolent-communication-nvc",
       "name": "Nonviolent Communication (NVC)",
       "category": "Communication",
@@ -3113,12 +3131,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 180,
-    "generated": "2026-06-18",
+    "count": 181,
+    "generated": "2026-06-19",
     "lastAdded": {
-      "name": "Self-Expansion Model",
-      "category": "Relationships",
-      "date": "2026-06-18"
+      "name": "Johari Window",
+      "category": "Communication",
+      "date": "2026-06-19"
     }
   }
 }
