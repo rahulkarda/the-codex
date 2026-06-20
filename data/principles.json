@@ -1267,6 +1267,24 @@
       "origin": "Stoic tradition; Marcus Aurelius, Meditations 6.39, 10.6 (~170 CE). Phrase coined by Friedrich Nietzsche, The Gay Science §276 (1882)."
     },
     {
+      "id": "assent-to-impressions",
+      "name": "Assent to Impressions",
+      "category": "Philosophy & Stoicism",
+      "tags": [
+        "stoicism",
+        "cognitive control",
+        "perception",
+        "judgment",
+        "mindfulness"
+      ],
+      "oneLiner": "The Stoic practice of withholding judgment on initial impressions, choosing wisely which thoughts to endorse and act upon.",
+      "description": "Stoicism teaches that our initial perceptions (impressions or phantasia) are involuntary, but our assent to them is voluntary. We have the power to examine these impressions before accepting them as true or good, thereby controlling our reactions and emotions. This distinction is crucial for maintaining inner tranquility and living in accordance with reason. It empowers individuals to choose their response rather than being driven by automatic impulses.",
+      "example": "You receive a critical email from your boss. Your initial impression might be anger or defensiveness. Instead of immediately assenting to these feelings and firing back a sharp reply, you pause. You recognize the impression as just that—an impression—and choose to examine it rationally, considering the boss's perspective or the actual content of the criticism before formulating a calm, reasoned response.",
+      "howToApply": "When an intense emotion or strong thought arises, pause and mentally (or verbally) say, 'This is an impression, not reality.' Question the impression: 'Is this true? Is this helpful? Is this within my control?' Withhold immediate judgment or reaction, creating a gap between the impression and your response. Consciously choose whether to endorse the impression as fact or to dismiss it as a mere appearance, then act accordingly based on reason.",
+      "pitfalls": "Mistaking initial impressions for objective truth without critical evaluation is a common pitfall. Over-intellectualizing every minor impression can lead to analysis paralysis rather than decisive action. This practice requires significant discipline and can be challenging in high-stress situations where automatic, emotional reactions are strong.",
+      "origin": "Epictetus, Discourses (c. 108 AD)"
+    },
+    {
       "id": "dichotomy-of-control",
       "name": "Dichotomy of Control",
       "category": "Philosophy & Stoicism",
@@ -3131,12 +3149,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 181,
-    "generated": "2026-06-19",
+    "count": 182,
+    "generated": "2026-06-20",
     "lastAdded": {
-      "name": "Johari Window",
-      "category": "Communication",
-      "date": "2026-06-19"
+      "name": "Assent to Impressions",
+      "category": "Philosophy & Stoicism",
+      "date": "2026-06-20"
     }
   }
 }
