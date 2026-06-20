@@ -8,8 +8,10 @@
  *       DIGEST_TO_EMAIL  (required)
  * Flags: --dry  (render HTML to stdout, skip sending)
  *
- * Model selection: deterministic rotation — dayOfYear % totalModels.
- * No state file needed; same model always maps to the same day of year.
+ * Model selection: date-string hash % totalModels.
+ * This is stable regardless of how many entries exist — unlike dayOfYear % length
+ * which breaks when daily-principle.js adds entries daily and re-sorts, shifting
+ * every index by 1 and causing the same model to repeat day after day.
  */
 'use strict';
 
@@ -43,15 +45,21 @@ if (!DRY && !RESEND_KEY)     { console.error('Missing RESEND_API_KEY'); process.
 if (!DRY && !TO_EMAIL)       { console.error('Missing DIGEST_TO_EMAIL'); process.exit(1); }
 
 // ── pick today's model ───────────────────────────────────────────────────────
-function dayOfYear() {
-  const now   = new Date();
-  const start = new Date(now.getFullYear(), 0, 0);
-  return Math.floor((now - start) / 86400000);
+// Hash the ISO date string so the selection is stable regardless of total entry
+// count. dayOfYear % length breaks when new entries are added and the array is
+// re-sorted, shifting every index by 1 and repeating the same model daily.
+function dateHash(dateStr) {
+  let h = 0;
+  for (let i = 0; i < dateStr.length; i++) {
+    h = (Math.imul(31, h) + dateStr.charCodeAt(i)) >>> 0;
+  }
+  return h;
 }
 
 const db      = JSON.parse(fs.readFileSync(DATA_PATH, 'utf8'));
 const entries = db.entries;
-const model   = entries[dayOfYear() % entries.length];
+const today   = new Date().toISOString().slice(0, 10); // YYYY-MM-DD, UTC
+const model   = entries[dateHash(today) % entries.length];
 
 console.log(`📖 Today's model: ${model.name} (${model.category})`);
 
