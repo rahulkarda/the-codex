@@ -163,7 +163,8 @@ function renderEmail(m, insight) {
   const tintBg   = colour.replace('#', '%23'); // unused but kept for reference
   const dateStr  = new Date().toLocaleDateString('en-US', { weekday: 'short', day: 'numeric', month: 'long', year: 'numeric' });
 
-  const label = `margin:0 0 8px;font-family:'Courier New',monospace;font-size:10px;letter-spacing:0.2em;text-transform:uppercase;color:#9CA3AF;`;
+  const sans  = `Arial,'Helvetica Neue',Helvetica,sans-serif`;
+  const label = `margin:0 0 10px;font-family:'Courier New',monospace;font-size:12px;letter-spacing:0.15em;text-transform:uppercase;color:#6B7280;font-weight:700;`;
 
   // Build howToApply as numbered rows — split on "N. " pattern
   const steps = m.howToApply.split(/(?<!\d)\d+\.\s+/).map(s => s.trim()).filter(Boolean);
@@ -177,11 +178,11 @@ function renderEmail(m, insight) {
           <td style="width:36px;vertical-align:top;padding-top:1px;">
             <span style="display:inline-block;width:26px;height:26px;border-radius:50%;background:${colour};color:#fff;font-family:'Courier New',monospace;font-size:11px;font-weight:700;text-align:center;line-height:26px;">${i + 1}</span>
           </td>
-          <td style="font-size:17px;color:#374151;line-height:1.85;padding-bottom:12px;">${bold}</td>
+          <td style="font-size:17px;font-family:${sans};color:#374151;line-height:1.85;padding-bottom:12px;">${bold}</td>
         </tr>
       </table>`;
       }).join('\n')
-    : `<p style="margin:0 0 36px;font-size:17px;color:#374151;line-height:1.85;">${esc(m.howToApply)}</p>`;
+    : `<p style="margin:0 0 36px;font-size:17px;font-family:${sans};color:#374151;line-height:1.85;">${esc(m.howToApply)}</p>`;
 
   // Tint colour for example/insight backgrounds (hex + alpha via opacity div trick)
   const tintStyle = `background:${colour}12;`; // works in webmail, falls back to white
@@ -223,7 +224,7 @@ function renderEmail(m, insight) {
   <tr><td class="pad-header" style="padding:32px 56px 24px;">
     <table width="100%" cellpadding="0" cellspacing="0"><tr>
       <td style="font-family:'Courier New',monospace;font-size:12px;font-weight:700;color:${colour};letter-spacing:0.18em;text-transform:uppercase;">The Codex</td>
-      <td align="right" style="font-family:'Courier New',monospace;font-size:11px;color:#9CA3AF;letter-spacing:0.05em;">${esc(dateStr)} &nbsp;&middot;&nbsp; Daily Model</td>
+      <td align="right" style="font-family:'Courier New',monospace;font-size:11px;color:#6B7280;letter-spacing:0.05em;">${esc(dateStr)} &nbsp;&middot;&nbsp; Daily Model</td>
     </tr></table>
   </td></tr>
 
@@ -231,7 +232,7 @@ function renderEmail(m, insight) {
   <tr><td class="pad-hero" style="padding:0 56px 36px;">
     <span style="display:inline-block;border:1.5px solid ${colour};color:${colour};font-family:'Courier New',monospace;font-size:10px;font-weight:700;letter-spacing:0.16em;text-transform:uppercase;padding:5px 16px;border-radius:20px;margin-bottom:20px;">${esc(m.category)}</span>
     <h1 class="h1" style="margin:0 0 18px;font-size:42px;font-weight:800;color:#111827;line-height:1.1;letter-spacing:-0.025em;font-family:Georgia,serif;">${esc(m.name)}</h1>
-    <p class="oneliner" style="margin:0;font-size:20px;color:#374151;line-height:1.65;font-style:italic;padding-left:18px;border-left:4px solid ${colour};">${esc(m.oneLiner)}</p>
+    <p class="oneliner" style="margin:0;font-size:20px;font-family:${sans};color:#374151;line-height:1.65;font-style:italic;padding-left:18px;border-left:4px solid ${colour};">${esc(m.oneLiner)}</p>
   </td></tr>
 
   <tr><td class="divider-pad" style="padding:0 56px;"><div style="height:1px;background:#E5E7EB;"></div></td></tr>
@@ -240,11 +241,11 @@ function renderEmail(m, insight) {
   <tr><td class="pad-section" style="padding:36px 56px 0;">
 
     <p style="${label}">What it is</p>
-    <p class="body-text" style="margin:0 0 36px;font-size:17px;color:#374151;line-height:1.85;">${esc(m.description)}</p>
+    <p class="body-text" style="margin:0 0 36px;font-size:17px;font-family:${sans};color:#374151;line-height:1.85;">${esc(m.description)}</p>
 
     <p style="${label}">Real-world example</p>
     <div style="${tintStyle}border-left:4px solid ${colour};border-radius:0 8px 8px 0;padding:20px 24px;margin-bottom:36px;">
-      <p class="body-text" style="margin:0;font-size:17px;color:#374151;line-height:1.85;">${esc(m.example)}</p>
+      <p class="body-text" style="margin:0;font-size:17px;font-family:${sans};color:#374151;line-height:1.85;">${esc(m.example)}</p>
     </div>
 
     <p style="${label}">How to apply it</p>
@@ -252,14 +253,14 @@ function renderEmail(m, insight) {
 
     <p style="${label}">Common pitfall</p>
     <div style="background:#FFFBEB;border:1px solid #FCD34D;border-radius:10px;padding:20px 24px;margin-bottom:36px;">
-      <p class="body-text" style="margin:0;font-size:16px;color:#92400E;line-height:1.8;"><strong>&#9888; Watch out:</strong> ${esc(m.pitfalls)}</p>
+      <p class="body-text" style="margin:0;font-size:16px;font-family:${sans};color:#92400E;line-height:1.8;"><strong>&#9888; Watch out:</strong> ${esc(m.pitfalls)}</p>
     </div>
 
     <div style="height:1px;background:#E5E7EB;margin-bottom:36px;"></div>
 
-    <p style="margin:0 0 8px;font-family:'Courier New',monospace;font-size:10px;letter-spacing:0.2em;text-transform:uppercase;color:${colour};">Why this matters right now</p>
+    <p style="margin:0 0 10px;font-family:'Courier New',monospace;font-size:12px;letter-spacing:0.15em;text-transform:uppercase;color:${colour};font-weight:700;">Why this matters right now</p>
     <div style="${tintStyle}border-radius:10px;padding:24px 28px;margin-bottom:40px;">
-      <p class="insight-text" style="margin:0;font-size:17px;color:#111827;line-height:1.9;">${esc(insight)}</p>
+      <p class="insight-text" style="margin:0;font-size:17px;font-family:${sans};color:#111827;line-height:1.9;">${esc(insight)}</p>
     </div>
 
   </td></tr>
@@ -272,10 +273,10 @@ function renderEmail(m, insight) {
   <!-- footer -->
   <tr><td class="pad-footer" style="background:#F9FAFB;border-top:1px solid #E5E7EB;padding:24px 56px;border-radius:0 0 16px 16px;">
     <table width="100%" cellpadding="0" cellspacing="0"><tr>
-      <td style="font-family:'Courier New',monospace;font-size:11px;color:#6B7280;">The Codex &middot; ${entries.length} models &amp; growing</td>
-      <td align="right" style="font-family:'Courier New',monospace;font-size:11px;color:#6B7280;"><a href="https://rahulkarda.github.io/the-codex/" style="color:#6B7280;text-decoration:none;">rahulkarda.github.io/the-codex</a></td>
+      <td style="font-family:${sans};font-size:11px;color:#6B7280;">The Codex &middot; ${entries.length} models &amp; growing</td>
+      <td align="right" style="font-family:${sans};font-size:11px;color:#6B7280;"><a href="https://rahulkarda.github.io/the-codex/" style="color:#6B7280;text-decoration:none;">rahulkarda.github.io/the-codex</a></td>
     </tr></table>
-    <p style="margin:10px 0 0;font-family:'Courier New',monospace;font-size:11px;color:#9CA3AF;">Origin: ${esc(m.origin)}</p>
+    <p style="margin:10px 0 0;font-family:${sans};font-size:11px;color:#6B7280;">Origin: ${esc(m.origin)}</p>
   </td></tr>
 
 </table>
