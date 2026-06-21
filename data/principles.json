@@ -1833,6 +1833,23 @@
       "origin": "Studied since Abbott (1909); definitively established by Roediger & Karpicke, 'Test-Enhanced Learning' (Psychological Science, 2006)."
     },
     {
+      "id": "chunking",
+      "name": "Chunking",
+      "category": "Learning",
+      "tags": [
+        "memory",
+        "learning strategies",
+        "cognitive science",
+        "information processing"
+      ],
+      "oneLiner": "Grouping individual pieces of information into larger, meaningful units to improve memory capacity and facilitate learning complex material.",
+      "description": "Chunking is a cognitive process where discrete items are combined into a smaller number of \"chunks\" or meaningful groups. This strategy helps overcome the limitations of working memory, which can typically only hold about 4-7 items at a time. By organizing information into coherent units, learners can process and recall much larger amounts of data more efficiently.",
+      "example": "When memorizing a long phone number like 1-800-555-1234, people often chunk it into (1-800) (555) (1234) rather than trying to remember twelve individual digits. Similarly, an experienced chess player \"sees\" patterns of pieces (chunks) rather than individual pieces, allowing them to process the board state more quickly.",
+      "howToApply": "Identify patterns or relationships within new information. Group related items into categories or meaningful units. Create acronyms, mnemonics, or visual representations to link chunks together. Practice recalling these chunks rather than individual items, gradually increasing chunk complexity.",
+      "pitfalls": "Over-reliance on superficial grouping without deep understanding can hinder flexible application of knowledge. Ineffective chunking can occur if the chunks are too large, lack meaning, or are not well-integrated into existing knowledge structures. It's a strategy for memory and organization, not a substitute for understanding.",
+      "origin": "George A. Miller, 1956 (The Magical Number Seven, Plus or Minus Two)"
+    },
+    {
       "id": "cognitive-load-theory",
       "name": "Cognitive Load Theory",
       "category": "Learning",
@@ -3149,12 +3166,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 182,
-    "generated": "2026-06-20",
+    "count": 183,
+    "generated": "2026-06-21",
     "lastAdded": {
-      "name": "Assent to Impressions",
-      "category": "Philosophy & Stoicism",
-      "date": "2026-06-20"
+      "name": "Chunking",
+      "category": "Learning",
+      "date": "2026-06-21"
     }
   }
 }
