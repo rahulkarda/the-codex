@@ -2197,6 +2197,24 @@
       "origin": "Hanlon, R. J., as quoted in Arthur Bloch, 'Murphy's Law Book Two: More Reasons Why Things Go Wrong' (1980). Earlier formulations appear in Goethe's 'The Sorrows of Young Werther' (1774) and a 1774 letter. The strategic-compassion extension draws on Marshall B. Rosenberg, 'Nonviolent Communication: A Language of Life' (2003); Daryl Davis, 'Klan-destine Relationships' (1998); and Douglas Stone et al., 'Difficult Conversations' (1999)."
     },
     {
+      "id": "the-four-sides-model-schulz-von-thun",
+      "name": "The Four Sides Model (Schulz von Thun)",
+      "category": "Communication",
+      "tags": [
+        "communication",
+        "interpersonal",
+        "misunderstanding",
+        "feedback",
+        "message analysis"
+      ],
+      "oneLiner": "Every message has four layers: factual content, self-revelation, relationship, and appeal, leading to potential misunderstandings if not aligned.",
+      "description": "This model posits that every communicative act simultaneously conveys four aspects: the objective information (factual side), what the sender reveals about themselves (self-revelation side), how the sender perceives the relationship with the receiver (relationship side), and what the sender wants the receiver to do or think (appeal side). Misunderstandings often arise when sender and receiver prioritize or interpret different sides of the message. The model helps deconstruct complex interactions and identify sources of friction. It highlights that a message is rarely just about its explicit content.",
+      "example": "A colleague says, 'The report is due by 5 PM today.' The factual side is the deadline. The self-revelation side might be 'I am organized' or 'I am under pressure.' The relationship side could be 'I expect you to be punctual' or 'I trust you to deliver.' The appeal side is 'Submit the report on time.' A receiver focused only on the factual side might miss the urgency or implied expectation, leading to a late submission.",
+      "howToApply": "When sending a message, consciously consider all four sides to ensure clarity and avoid unintended signals, especially for critical communications. When receiving, actively listen for all four sides and, if unsure, clarify by asking questions like 'Are you saying I need to prioritize this?' (appeal) or 'Is everything okay with the deadline?' (self-revelation/relationship). Reflect on which 'ear' you are primarily listening with.",
+      "pitfalls": "Over-analyzing simple messages can lead to paranoia or unnecessary complexity, especially in casual conversations. It's a framework for understanding, not a rigid rulebook; some messages might genuinely be simple and direct. The model can be challenging to apply in high-stress, fast-paced environments where deep reflection on each message side isn't feasible, potentially slowing down communication.",
+      "origin": "Friedemann Schulz von Thun, 1981"
+    },
+    {
       "id": "bandwagon-effect-social-proof",
       "name": "Bandwagon Effect (Social Proof)",
       "category": "Social Dynamics",
@@ -3166,12 +3184,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 183,
-    "generated": "2026-06-21",
+    "count": 184,
+    "generated": "2026-06-22",
     "lastAdded": {
-      "name": "Chunking",
-      "category": "Learning",
-      "date": "2026-06-21"
+      "name": "The Four Sides Model (Schulz von Thun)",
+      "category": "Communication",
+      "date": "2026-06-22"
     }
   }
 }
