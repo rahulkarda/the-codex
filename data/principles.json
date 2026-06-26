@@ -1954,6 +1954,23 @@
       "origin": "Shea & Morgan (Journal of Experimental Psychology, 1979) on motor skills; extended to academic learning by Rohrer & Taylor (Instructional Science, 2007) and Doug Rohrer's subsequent math studies."
     },
     {
+      "id": "metacognition",
+      "name": "Metacognition",
+      "category": "Learning",
+      "tags": [
+        "learning strategies",
+        "self-awareness",
+        "cognitive science",
+        "self-regulation"
+      ],
+      "oneLiner": "The awareness and understanding of one's own thought processes, enabling learners to plan, monitor, and evaluate their learning effectively.",
+      "description": "Metacognition involves thinking about thinking, encompassing both metacognitive knowledge (understanding one's own cognitive strengths and weaknesses, and task demands) and metacognitive regulation (the ability to plan, monitor, and evaluate one's learning strategies). It helps learners become more strategic and independent, improving performance across various domains. By engaging in metacognitive practices, individuals can identify effective study habits and adapt their approach when faced with difficulties.",
+      "example": "A student reads a complex textbook chapter and realizes they aren't fully grasping the concepts. They pause, reflect on their reading strategy (e.g., passive highlighting), decide to switch to active recall questions, and periodically check their understanding by trying to explain the material in their own words or by solving practice problems.",
+      "howToApply": "Before starting a task, plan your approach, considering what you already know and what challenges might arise. During the task, monitor your comprehension and progress, asking yourself 'Am I understanding this?' or 'Is this strategy working?' After the task, evaluate your performance and the effectiveness of your strategies to inform future learning, adjusting your methods as needed.",
+      "pitfalls": "Overconfidence in one's understanding (metacognitive illusion) can lead to insufficient study or poor performance, where learners believe they know more than they do. Learners might misattribute poor performance to lack of ability rather than ineffective strategies, hindering self-correction. Developing strong metacognitive skills often requires explicit instruction and consistent practice, as they do not always develop naturally.",
+      "origin": "John Flavell, 1976"
+    },
+    {
       "id": "self-explanation",
       "name": "Self-Explanation",
       "category": "Learning",
@@ -3184,12 +3201,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 184,
-    "generated": "2026-06-22",
+    "count": 185,
+    "generated": "2026-06-26",
     "lastAdded": {
-      "name": "The Four Sides Model (Schulz von Thun)",
-      "category": "Communication",
-      "date": "2026-06-22"
+      "name": "Metacognition",
+      "category": "Learning",
+      "date": "2026-06-26"
     }
   }
 }
