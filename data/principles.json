@@ -2371,6 +2371,24 @@
       "origin": "Robert Cialdini, Influence: The Psychology of Persuasion (1984); roots in Marcel Mauss, The Gift (1925) and Alvin Gouldner's 'norm of reciprocity' (1960)."
     },
     {
+      "id": "social-comparison-theory",
+      "name": "Social Comparison Theory",
+      "category": "Social Dynamics",
+      "tags": [
+        "social psychology",
+        "self-perception",
+        "motivation",
+        "well-being",
+        "group dynamics"
+      ],
+      "oneLiner": "Individuals evaluate their own opinions, abilities, and status by comparing themselves to others, especially when objective standards are absent.",
+      "description": "Proposed by Leon Festinger, this theory posits that people have an inherent drive to evaluate themselves. When objective measures are unavailable or ambiguous, individuals turn to social comparisons. These comparisons can be upward (to those perceived as better) for self-improvement, or downward (to those perceived as worse) for self-enhancement and boosting self-esteem.",
+      "example": "After receiving a B on an exam, a student might feel disappointed. However, if they learn that the class average was a C and many peers failed, their perception of their B grade might shift to relief or even pride (downward comparison). Conversely, if they discover their friend got an A with less effort, they might feel inadequate or motivated to study harder next time (upward comparison).",
+      "howToApply": "1. Be mindful of your comparison targets: consciously choose who you compare yourself to, focusing on those who inspire rather than deflate. 2. Use upward comparisons for inspiration and learning, not self-criticism. 3. Practice downward comparisons strategically to cultivate gratitude and perspective, but avoid complacency. 4. Recognize that social media often presents curated, idealized versions of others' lives, making upward comparisons particularly misleading.",
+      "pitfalls": "Unchecked upward comparisons, especially on social media, can lead to feelings of envy, inadequacy, and decreased self-esteem. Downward comparisons, while boosting self-esteem, can lead to complacency or a sense of superiority that harms social relationships. The theory has been criticized for being too broad, with subsequent research refining the conditions and types of comparison.",
+      "origin": "Leon Festinger, 1954"
+    },
+    {
       "id": "social-connection-as-a-longevity-factor",
       "name": "Social Connection as a Longevity Factor",
       "category": "Social Dynamics",
@@ -3201,12 +3219,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 185,
-    "generated": "2026-06-26",
+    "count": 186,
+    "generated": "2026-06-27",
     "lastAdded": {
-      "name": "Metacognition",
-      "category": "Learning",
-      "date": "2026-06-26"
+      "name": "Social Comparison Theory",
+      "category": "Social Dynamics",
+      "date": "2026-06-27"
     }
   }
 }
