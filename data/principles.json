@@ -2491,6 +2491,24 @@
       "origin": "John Gottman, 'The Relationship Cure' (2001) and Love Lab research from the 1990s."
     },
     {
+      "id": "equity-theory",
+      "name": "Equity Theory",
+      "category": "Relationships",
+      "tags": [
+        "social psychology",
+        "fairness",
+        "justice",
+        "reciprocity",
+        "long-term relationships"
+      ],
+      "oneLiner": "Relationship satisfaction is maximized when the ratio of an individual's contributions to benefits is perceived as equal to that of their partner.",
+      "description": "This theory suggests that people are motivated to maintain fairness in their relationships. Individuals assess their inputs (e.g., effort, time, emotional support) and outcomes (e.g., affection, security, shared resources) in comparison to their partner's. When perceived equity exists, both partners feel satisfied; inequity, whether over-benefited or under-benefited, can lead to distress and attempts to restore balance.",
+      "example": "In a partnership, one person consistently takes on more household chores and emotional labor, while the other earns significantly more money and handles all financial planning. If both partners perceive their respective contributions and benefits (e.g., a well-maintained home, financial stability) as fair and balanced, they are likely to be satisfied. However, if one partner feels their efforts are unappreciated compared to their partner's, or vice versa, inequity arises.",
+      "howToApply": "Regularly discuss and clarify expectations regarding contributions and benefits with your partner. Openly communicate feelings of being over- or under-benefited, and actively work to rebalance inputs and outcomes. Focus on perceived fairness rather than strict equality, recognizing that different contributions can hold different value for each person.",
+      "pitfalls": "Strict accounting of inputs and outcomes can damage intimacy and spontaneity, making relationships feel transactional. Equity is about *perceived* fairness, not necessarily objective equality, and can shift over time and across different domains. In communal relationships (e.g., romantic partners), a focus on responsiveness to needs rather than strict equity might be more beneficial for long-term satisfaction, especially during times of crisis.",
+      "origin": "John S. Adams, 1965 (later elaborated for relationships by Hatfield et al.)"
+    },
+    {
       "id": "five-love-languages",
       "name": "Five Love Languages",
       "category": "Relationships",
@@ -3219,12 +3237,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 186,
-    "generated": "2026-06-27",
+    "count": 187,
+    "generated": "2026-06-28",
     "lastAdded": {
-      "name": "Social Comparison Theory",
-      "category": "Social Dynamics",
-      "date": "2026-06-27"
+      "name": "Equity Theory",
+      "category": "Relationships",
+      "date": "2026-06-28"
     }
   }
 }
