@@ -2769,6 +2769,24 @@
       "origin": "Popularized by George S. Clason in 'The Richest Man in Babylon' (1926) — 'a part of all you earn is yours to keep' — and later by David Bach in 'The Automatic Millionaire' (2003)."
     },
     {
+      "id": "planning-fallacy",
+      "name": "Planning Fallacy",
+      "category": "Money & Time",
+      "tags": [
+        "planning",
+        "bias",
+        "time management",
+        "project management",
+        "decision making"
+      ],
+      "oneLiner": "The tendency to underestimate the time, costs, and risks of future actions, while overestimating benefits, even with prior experience of similar tasks.",
+      "description": "Individuals and organizations frequently underestimate the resources required to complete tasks, even when they have a track record of past overruns. This cognitive bias leads to missed deadlines, budget overspending, and project failures. It often occurs despite acknowledging that similar past projects have taken longer than planned, driven by an optimistic outlook and a focus on the best-case scenario.",
+      "example": "A software developer estimates a new feature will take two weeks to build, despite knowing that similar features in the past have consistently taken four weeks. The project subsequently runs over budget and misses its deadline due to this initial optimistic estimate.",
+      "howToApply": "1. Reference Class Forecasting: Look at actual completion times and costs for similar past projects (the 'outside view') rather than relying solely on internal estimates (the 'inside view'). 2. Decomposition: Break down large tasks into smaller, more manageable sub-tasks. Estimate each individually, then sum them up, adding buffer time. 3. Pre-mortem Analysis: Before starting a project, imagine it has failed and work backward to identify potential reasons for failure, then plan to mitigate those risks. 4. Add a Buffer: Systematically add a percentage of buffer time or cost to all estimates to account for unforeseen issues.",
+      "pitfalls": "Over-reliance on the 'inside view' causes people to ignore historical data in favor of unique project details, believing 'this time will be different.' An underlying optimism bias can exacerbate the planning fallacy, making it difficult to apply corrective measures. Lack of accountability for missed estimates also reduces the incentive to improve accuracy.",
+      "origin": "Daniel Kahneman and Amos Tversky, 1979"
+    },
+    {
       "id": "scarcity-mindset",
       "name": "Scarcity Mindset",
       "category": "Money & Time",
@@ -3237,12 +3255,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 187,
-    "generated": "2026-06-28",
+    "count": 188,
+    "generated": "2026-06-29",
     "lastAdded": {
-      "name": "Equity Theory",
-      "category": "Relationships",
-      "date": "2026-06-28"
+      "name": "Planning Fallacy",
+      "category": "Money & Time",
+      "date": "2026-06-29"
     }
   }
 }
