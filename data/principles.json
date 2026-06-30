@@ -2927,6 +2927,24 @@
       "origin": "Articulated by Anne Robert Jacques Turgot (1767) and David Ricardo (1817) in the context of agricultural land."
     },
     {
+      "id": "externalities",
+      "name": "Externalities",
+      "category": "Economics & Incentives",
+      "tags": [
+        "economics",
+        "market failure",
+        "incentives",
+        "policy",
+        "welfare"
+      ],
+      "oneLiner": "Unintended costs or benefits of an economic activity that affect third parties not directly involved in the transaction.",
+      "description": "Externalities occur when the production or consumption of a good or service imposes costs (negative externality) or confers benefits (positive externality) on unrelated third parties. These effects are not reflected in the market price, leading to inefficient allocation of resources. Negative externalities result in overproduction, while positive externalities lead to underproduction from a societal perspective.",
+      "example": "A factory pollutes a river as a byproduct of its production process. The pollution harms local fishermen and residents downstream, who bear the cost of environmental degradation and health issues without being compensated by the factory or consumers of its products. This is a negative externality.",
+      "howToApply": "To address negative externalities, implement policies like taxes (Pigovian taxes) on polluting activities, regulations, or cap-and-trade systems to internalize the external cost into the market price. For positive externalities, consider subsidies or public provision to encourage activities that benefit society, such as education or vaccinations.",
+      "pitfalls": "Measuring the exact cost or benefit of an externality can be complex and contentious, leading to debates over appropriate tax or subsidy levels. Policies designed to correct externalities can sometimes create new unintended consequences or be politically difficult to implement due to vested interests. Over-regulation can stifle innovation.",
+      "origin": "Arthur C. Pigou formalized the concept of externalities in \"The Economics of Welfare\" (1920), building on earlier ideas."
+    },
+    {
       "id": "moral-hazard",
       "name": "Moral Hazard",
       "category": "Economics & Incentives",
@@ -3255,12 +3273,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 188,
-    "generated": "2026-06-29",
+    "count": 189,
+    "generated": "2026-06-30",
     "lastAdded": {
-      "name": "Planning Fallacy",
-      "category": "Money & Time",
-      "date": "2026-06-29"
+      "name": "Externalities",
+      "category": "Economics & Incentives",
+      "date": "2026-06-30"
     }
   }
 }
