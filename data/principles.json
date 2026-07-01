@@ -1302,6 +1302,24 @@
       "origin": "Epictetus, Enchiridion ch. 1 and Discourses 1.1, ~108 CE (recorded by his student Arrian)."
     },
     {
+      "id": "eudaimonia-flourishing",
+      "name": "Eudaimonia (Flourishing)",
+      "category": "Philosophy & Stoicism",
+      "tags": [
+        "stoicism",
+        "virtue ethics",
+        "flourishing",
+        "well-being",
+        "purpose"
+      ],
+      "oneLiner": "Achieving a state of human flourishing and living a good, virtuous life, distinct from mere pleasure or happiness.",
+      "description": "Eudaimonia refers to a state of living well and doing well, often translated as 'flourishing' or 'human thriving.' It is the ultimate goal of Stoic and Aristotelian ethics, emphasizing the cultivation of virtue and reason as the path to a life of deep fulfillment, rather than the pursuit of transient pleasures. It implies a life lived in accordance with one's true nature and potential.",
+      "example": "Instead of seeking fleeting happiness from a new car or a lavish vacation, a person pursuing Eudaimonia might dedicate themselves to mastering a skill, nurturing meaningful relationships, or contributing to their community, finding deep satisfaction in these virtuous activities.",
+      "howToApply": "Identify your core values and virtues, then align your daily actions and long-term goals with them. Regularly reflect on whether your pursuits contribute to your character development and the well-being of others, rather than just personal comfort or external validation.",
+      "pitfalls": "Can be misinterpreted as a purely individualistic pursuit, neglecting the interconnectedness of well-being. The emphasis on virtue can lead to rigid moralism if not balanced with compassion and practical wisdom. It's often confused with hedonia (pleasure-seeking), leading people to chase external rewards instead of internal growth.",
+      "origin": "Aristotle, Nicomachean Ethics (~350 BCE), a foundational concept in ancient Greek ethics, adopted and adapted by Stoics."
+    },
+    {
       "id": "indifferents-stoicism",
       "name": "Indifferents (Stoicism)",
       "category": "Philosophy & Stoicism",
@@ -3273,12 +3291,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 189,
-    "generated": "2026-06-30",
+    "count": 190,
+    "generated": "2026-07-01",
     "lastAdded": {
-      "name": "Externalities",
-      "category": "Economics & Incentives",
-      "date": "2026-06-30"
+      "name": "Eudaimonia (Flourishing)",
+      "category": "Philosophy & Stoicism",
+      "date": "2026-07-01"
     }
   }
 }
