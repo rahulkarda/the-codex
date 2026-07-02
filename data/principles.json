@@ -1664,6 +1664,24 @@
       "origin": "James Clear, 'Atomic Habits' (2018), Chapter 16; jamesclear.com essays on 'never miss twice.'"
     },
     {
+      "id": "attention-residue",
+      "name": "Attention Residue",
+      "category": "Focus & Habits",
+      "tags": [
+        "cognitive bias",
+        "productivity",
+        "multitasking",
+        "attention",
+        "focus"
+      ],
+      "oneLiner": "The lingering mental focus on an unfinished task after switching to a new one, impairing performance on the subsequent task.",
+      "description": "When you switch from one task to another, your attention doesn't immediately follow, leaving a 'residue' of cognitive resources on the prior task. This lingering attention is particularly strong if the previous task was incomplete or highly engaging. It reduces your capacity and efficiency for the new task, leading to slower performance and increased errors.",
+      "example": "You are deep into writing a complex report when a colleague urgently pings you for help with a quick issue. After resolving their problem, you return to your report but find your mind still replaying the conversation or thinking about the colleague's issue, making it harder to regain focus and progress on your original task.",
+      "howToApply": "Batch similar tasks together to minimize the number of task switches throughout your day. Complete a task fully before moving to another whenever possible to 'close the loop' mentally. If an interruption is unavoidable, take a moment to jot down your current progress and next steps for the interrupted task before switching, then review them upon return to help clear the residue.",
+      "pitfalls": "The effect might be less pronounced for highly automated or low-cognitive-load tasks, where the 'residue' is minimal. Over-optimizing to avoid all task switching can lead to rigidity and unresponsiveness in dynamic work environments. The concept can be misused as an excuse to avoid necessary context switching or collaborative work.",
+      "origin": "Sophie Leroy, 2009 (Ph.D. dissertation, later published in academic journals)"
+    },
+    {
       "id": "deep-work",
       "name": "Deep Work",
       "category": "Focus & Habits",
@@ -3291,12 +3309,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 190,
-    "generated": "2026-07-01",
+    "count": 191,
+    "generated": "2026-07-02",
     "lastAdded": {
-      "name": "Eudaimonia (Flourishing)",
-      "category": "Philosophy & Stoicism",
-      "date": "2026-07-01"
+      "name": "Attention Residue",
+      "category": "Focus & Habits",
+      "date": "2026-07-02"
     }
   }
 }
