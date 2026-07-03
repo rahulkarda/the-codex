@@ -1492,6 +1492,23 @@
       "origin": "James Clear, Atomic Habits (2018), building on behavioral psychology, BJ Fogg's Tiny Habits research, and the kaizen tradition."
     },
     {
+      "id": "batching",
+      "name": "Batching",
+      "category": "Productivity",
+      "tags": [
+        "time management",
+        "efficiency",
+        "focus",
+        "context switching"
+      ],
+      "oneLiner": "Group similar tasks together and complete them in one dedicated block to minimize context-switching costs and improve focus and efficiency.",
+      "description": "Batching involves consolidating similar small tasks or activities that require the same resources, mindset, or location into a single, focused work session. This strategy reduces the cognitive overhead and time lost from frequently switching between different types of tasks, which can be a significant drain on productivity. By minimizing setup and teardown time, batching allows for deeper concentration and faster completion of grouped items.",
+      "example": "Instead of responding to emails sporadically throughout the day as they arrive, dedicate 30 minutes twice a day (e.g., once in the morning, once in the afternoon) to process all emails. Similarly, run all errands that are geographically close together in one trip, or handle all administrative paperwork in a single block.",
+      "howToApply": "1. Identify tasks that are similar in nature, require the same tools/software, or demand a similar mental state (e.g., emails, phone calls, data entry, social media engagement, specific types of creative work).\n2. Schedule dedicated time blocks in your calendar specifically for these batched tasks.\n3. During these blocks, commit to only working on the batched tasks, avoiding distractions from other types of work.\n4. For recurring tasks, establish routines (e.g., \"Email Hour,\" \"Admin Block\") to make batching a consistent habit.",
+      "pitfalls": "Over-batching can lead to procrastination if the batched task block becomes too large or daunting. Some urgent tasks cannot wait for a batching window, requiring immediate attention. It can also create bottlenecks if you are waiting for information or input from others to complete a batched task, potentially delaying other work.",
+      "origin": "The principle of grouping similar tasks for efficiency has ancient roots, but its application as a modern productivity technique was formalized and popularized within methodologies like Getting Things Done (GTD) by David Allen (2001)."
+    },
+    {
       "id": "buffetts-5-25-rule-focus",
       "name": "Buffett's 5/25 Rule (Focus)",
       "category": "Productivity",
@@ -3309,12 +3326,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 191,
-    "generated": "2026-07-02",
+    "count": 192,
+    "generated": "2026-07-03",
     "lastAdded": {
-      "name": "Attention Residue",
-      "category": "Focus & Habits",
-      "date": "2026-07-02"
+      "name": "Batching",
+      "category": "Productivity",
+      "date": "2026-07-03"
     }
   }
 }
