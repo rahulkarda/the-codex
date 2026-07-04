@@ -3119,6 +3119,24 @@
       "origin": "Kahn, A. E. (1966), 'The Tyranny of Small Decisions: Market Failures, Imperfections, and the Limits of Economics,' Kyklos 19(1), 23-47. Schelling, T. C. (1978), 'Micromotives and Macrobehavior,' W.W. Norton. Schelling won the 2005 Nobel Memorial Prize in Economics in part for this work."
     },
     {
+      "id": "cognitive-reserve",
+      "name": "Cognitive Reserve",
+      "category": "Health & Longevity",
+      "tags": [
+        "brain health",
+        "aging",
+        "cognition",
+        "resilience",
+        "neuroplasticity"
+      ],
+      "oneLiner": "The brain's ability to cope with damage or disease by using existing neural networks more efficiently or recruiting alternative ones, delaying cognitive decline.",
+      "description": "Cognitive Reserve refers to the mind's capacity to maintain normal cognitive function despite age-related changes or neuropathology. It's built through lifelong engagement in mentally stimulating activities, education, and social interactions, providing a buffer against conditions like Alzheimer's disease. This reserve doesn't prevent pathology but helps the brain compensate for it, delaying the onset or severity of symptoms.",
+      "example": "A person with a high level of education and a history of intellectually challenging work might show fewer outward symptoms of Alzheimer's disease than someone with less cognitive reserve, even if their brains show similar levels of amyloid plaques and tangles upon autopsy. Their brain is more efficient at finding alternative pathways to perform tasks.",
+      "howToApply": "Engage in continuous learning throughout life, such as learning new languages, musical instruments, or complex hobbies. Prioritize social engagement and maintain a strong social network. Regularly challenge your brain with novel and complex tasks, avoiding purely routine mental activities to foster neuroplasticity.",
+      "pitfalls": "Cognitive reserve delays symptoms but does not prevent the underlying brain pathology; eventually, the reserve may be exhausted. It can also mask the severity of underlying disease, leading to delayed diagnosis and intervention. The concept is complex to measure directly, and interventions are often broad lifestyle changes rather than specific 'reserve-building' exercises.",
+      "origin": "Stern, Y. (1992). 'The concept of cognitive reserve: a review and restatement.'"
+    },
+    {
       "id": "daily-walking",
       "name": "Daily Walking",
       "category": "Health & Longevity",
@@ -3326,12 +3344,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 192,
-    "generated": "2026-07-03",
+    "count": 193,
+    "generated": "2026-07-04",
     "lastAdded": {
-      "name": "Batching",
-      "category": "Productivity",
-      "date": "2026-07-03"
+      "name": "Cognitive Reserve",
+      "category": "Health & Longevity",
+      "date": "2026-07-04"
     }
   }
 }
