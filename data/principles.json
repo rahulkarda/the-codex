@@ -2701,6 +2701,24 @@
       "origin": "Arthur Aron and Elaine N. Aron, 1986"
     },
     {
+      "id": "social-penetration-theory",
+      "name": "Social Penetration Theory",
+      "category": "Relationships",
+      "tags": [
+        "intimacy",
+        "communication",
+        "self-disclosure",
+        "relationship development",
+        "vulnerability"
+      ],
+      "oneLiner": "Relationships develop through a gradual process of mutual self-disclosure, moving from superficial to intimate information across breadth and depth.",
+      "description": "This theory posits that as relationships progress, individuals increase their self-disclosure, revealing more about themselves. This disclosure occurs along two dimensions: breadth (the number of topics discussed) and depth (the intimacy of the topics). The process is often reciprocal, leading to greater intimacy and understanding between partners.",
+      "example": "Two new colleagues initially discuss work-related topics and hobbies (breadth). Over time, they start sharing personal struggles, fears, and past experiences (depth), gradually building a close friendship.",
+      "howToApply": "To deepen a relationship, gradually increase the breadth and depth of your self-disclosure, while also creating a safe space for the other person to reciprocate. Start with less intimate topics and, as trust builds, move towards more personal and vulnerable information.",
+      "pitfalls": "Over-disclosure too early can be off-putting or perceived as inappropriate, hindering relationship development. Lack of reciprocity can lead to an imbalanced relationship where one person feels exposed and the other remains distant. Cultural differences in norms around self-disclosure should also be considered.",
+      "origin": "Irwin Altman and Dalmas Taylor, 1973"
+    },
+    {
       "id": "compound-interest",
       "name": "Compound Interest",
       "category": "Money & Time",
@@ -3344,12 +3362,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 193,
-    "generated": "2026-07-04",
+    "count": 194,
+    "generated": "2026-07-05",
     "lastAdded": {
-      "name": "Cognitive Reserve",
-      "category": "Health & Longevity",
-      "date": "2026-07-04"
+      "name": "Social Penetration Theory",
+      "category": "Relationships",
+      "date": "2026-07-05"
     }
   }
 }
