@@ -1852,6 +1852,24 @@
       "origin": "Richard Thaler & Cass Sunstein, 'Nudge' (2008); Madrian & Shea, 'The Power of Suggestion,' QJE (2001); Johnson & Goldstein, 'Do Defaults Save Lives?', Science (2003)."
     },
     {
+      "id": "the-goldilocks-rule",
+      "name": "The Goldilocks Rule",
+      "category": "Focus & Habits",
+      "tags": [
+        "motivation",
+        "habit formation",
+        "challenge",
+        "engagement",
+        "optimal performance"
+      ],
+      "oneLiner": "To maintain motivation and focus, tasks should be \"just right\" – not too easy to be boring, nor too hard to be discouraging.",
+      "description": "This principle suggests that humans experience peak motivation when working on tasks at the edge of their current abilities. If a task is too easy, we get bored and lose focus. If it's too difficult, we become overwhelmed and demotivated, leading to abandonment. The \"Goldilocks Zone\" represents the optimal level of challenge for sustained engagement and progress.",
+      "example": "A weightlifter consistently adds small increments to their lifts (e.g., 2.5 lbs) rather than attempting huge jumps (e.g., 50 lbs) or sticking to the same weight for months. This keeps them challenged enough to be engaged but not so much that they risk injury or burnout.",
+      "howToApply": "1. Identify tasks where you feel bored or overwhelmed. 2. For boredom, slightly increase the difficulty or add a new constraint (e.g., a time limit). 3. For overwhelm, break the task into smaller, more manageable sub-tasks or reduce the scope. 4. Continuously adjust the challenge level to keep it \"just right\" for your evolving skill set.",
+      "pitfalls": "Overestimating one's current ability can lead to setting tasks that are too hard, causing frustration. Conversely, underestimating can lead to insufficient challenge and stagnation. It requires honest self-assessment and willingness to adjust, which can be difficult when ego is involved. This concept is more of a heuristic from popular literature than a formal psychological theory, though it draws on concepts like flow and optimal arousal.",
+      "origin": "Popularized by James Clear in Atomic Habits (2018), drawing on Mihaly Csikszentmihalyi's work on Flow State and optimal challenge."
+    },
+    {
       "id": "variable-reward-and-hooked-model-risk",
       "name": "Variable Reward (and Hooked-Model Risk)",
       "category": "Focus & Habits",
@@ -3362,12 +3380,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 194,
-    "generated": "2026-07-05",
+    "count": 195,
+    "generated": "2026-07-06",
     "lastAdded": {
-      "name": "Social Penetration Theory",
-      "category": "Relationships",
-      "date": "2026-07-05"
+      "name": "The Goldilocks Rule",
+      "category": "Focus & Habits",
+      "date": "2026-07-06"
     }
   }
 }
