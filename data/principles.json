@@ -2094,6 +2094,24 @@
       "origin": "Bargh & Schul, 'On the Cognitive Benefits of Teaching' (Journal of Educational Psychology, 1980); modern evidence in Fiorella & Mayer (Contemporary Educational Psychology, 2013) and Nestojko et al. (Memory & Cognition, 2014)."
     },
     {
+      "id": "transfer-of-learning",
+      "name": "Transfer of Learning",
+      "category": "Learning",
+      "tags": [
+        "learning",
+        "cognition",
+        "education",
+        "skill acquisition",
+        "problem-solving"
+      ],
+      "oneLiner": "The application of knowledge or skills acquired in one context to new, different situations or problems.",
+      "description": "Transfer of learning describes how prior learning influences subsequent learning and performance. It can be positive, where previous knowledge aids new tasks, or negative, where it hinders. Effective transfer is a key goal of education, enabling learners to generalize skills beyond specific training scenarios. It is crucial for adapting to novel challenges.",
+      "example": "A chef who masters knife skills in a culinary school can then efficiently prepare ingredients for various cuisines, from French to Japanese, demonstrating positive transfer of fundamental techniques.",
+      "howToApply": "When learning, focus on understanding underlying principles and abstract structures rather than just surface details. Intentionally practice applying new concepts in diverse, varied contexts to build robust connections. Actively reflect on how existing knowledge can inform novel problems.",
+      "pitfalls": "Transfer is not always automatic; learners often struggle to apply knowledge to even slightly different contexts without explicit guidance. Over-specialization can limit broad transfer. The 'inert knowledge problem' occurs when relevant knowledge exists but isn't retrieved or applied in new situations.",
+      "origin": "Edward Thorndike and Robert Woodworth (1901) conducted pioneering research on \"transfer of training,\" particularly their theory of identical elements."
+    },
+    {
       "id": "active-listening",
       "name": "Active Listening",
       "category": "Communication",
@@ -3380,12 +3398,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 195,
-    "generated": "2026-07-06",
+    "count": 196,
+    "generated": "2026-07-07",
     "lastAdded": {
-      "name": "The Goldilocks Rule",
-      "category": "Focus & Habits",
-      "date": "2026-07-06"
+      "name": "Transfer of Learning",
+      "category": "Learning",
+      "date": "2026-07-07"
     }
   }
 }
