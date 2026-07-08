@@ -2146,6 +2146,23 @@
       "origin": "Codified in U.S. Army staff writing doctrine (e.g., Army Regulation 25-50 'Preparing and Managing Correspondence,' formalized in the late 20th century); the underlying inverted-pyramid style traces to American newspaper journalism in the 1860s–1880s."
     },
     {
+      "id": "commitment-and-consistency",
+      "name": "Commitment and Consistency",
+      "category": "Communication",
+      "tags": [
+        "persuasion",
+        "influence",
+        "psychology",
+        "decision-making"
+      ],
+      "oneLiner": "People tend to honor their public commitments and align future actions and beliefs with past statements or behaviors.",
+      "description": "This principle states that once we make a choice or take a stand, we encounter personal and interpersonal pressure to behave consistently with that commitment. Consistency is valued in society and often serves as a mental shortcut, leading individuals to justify their initial decision even if circumstances change. This drive for consistency is stronger when the commitment is public, active, effortful, and perceived as freely chosen.",
+      "example": "A car dealership might ask customers to fill out a sales agreement form themselves, even if it's just a preliminary one, rather than having the salesperson do it. This active step of writing down the agreement increases the customer's sense of commitment, making them more likely to follow through with the purchase.",
+      "howToApply": "1. Encourage small, initial commitments from others that align with your desired outcome. 2. Ask people to state their intentions or agreements publicly or in writing. 3. Frame requests so that individuals perceive their commitment as freely chosen, rather with coercion. 4. Highlight past consistent behaviors or statements of the person you are trying to influence.",
+      "pitfalls": "Can be exploited for manipulative purposes, leading individuals to commit to unfavorable outcomes through 'foot-in-the-door' or 'low-ball' techniques. Over-reliance on past commitments can lead to rigidity and an inability to adapt to new information or changing circumstances (related to sunk cost fallacy). People may feel trapped or resentful if they perceive the commitment was not truly voluntary. The strength of the effect can vary based on individual differences and cultural contexts.",
+      "origin": "Robert Cialdini, 1984 (in \"Influence: The Psychology of Persuasion\")"
+    },
+    {
       "id": "curse-of-knowledge",
       "name": "Curse of Knowledge",
       "category": "Communication",
@@ -3398,12 +3415,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 196,
-    "generated": "2026-07-07",
+    "count": 197,
+    "generated": "2026-07-08",
     "lastAdded": {
-      "name": "Transfer of Learning",
-      "category": "Learning",
-      "date": "2026-07-07"
+      "name": "Commitment and Consistency",
+      "category": "Communication",
+      "date": "2026-07-08"
     }
   }
 }
