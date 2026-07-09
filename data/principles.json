@@ -2512,6 +2512,24 @@
       "origin": "Holt-Lunstad, Smith & Layton, PLOS Medicine, 2010; Harvard Study of Adult Development, founded 1938 (Glueck/Grant studies), now directed by Robert Waldinger; Dan Buettner, *The Blue Zones*, 2008."
     },
     {
+      "id": "social-loafing",
+      "name": "Social Loafing",
+      "category": "Social Dynamics",
+      "tags": [
+        "group dynamics",
+        "productivity",
+        "teamwork",
+        "motivation",
+        "psychology"
+      ],
+      "oneLiner": "Individuals exert less effort when working in a group compared to working alone, often due to diffused responsibility.",
+      "description": "Social loafing describes the phenomenon where people reduce their individual effort when part of a group, especially when individual contributions are not identifiable. This reduction in effort stems from a diffusion of responsibility and the belief that others will compensate for their decreased input. It can significantly impact group productivity and project outcomes.",
+      "example": "In a a large company meeting, when asked to brainstorm ideas, some employees remain silent, expecting others to contribute, even though they might have good ideas if asked individually.",
+      "howToApply": "To mitigate social loafing, clearly define individual roles and responsibilities within a group. Implement mechanisms for individual accountability, such as peer reviews or visible progress tracking. Keep group sizes manageable to make individual contributions more salient.",
+      "pitfalls": "Over-monitoring can stifle creativity and trust within a team, leading to resentment. Attributing all reduced effort to loafing might overlook genuine challenges or skill deficits. Sometimes, reduced individual effort is a rational response to unclear goals or poor leadership, not just a desire to 'loaf.'",
+      "origin": "Max Ringelmann, 1913"
+    },
+    {
       "id": "social-proof",
       "name": "Social Proof",
       "category": "Social Dynamics",
@@ -3415,12 +3433,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 197,
-    "generated": "2026-07-08",
+    "count": 198,
+    "generated": "2026-07-09",
     "lastAdded": {
-      "name": "Commitment and Consistency",
-      "category": "Communication",
-      "date": "2026-07-08"
+      "name": "Social Loafing",
+      "category": "Social Dynamics",
+      "date": "2026-07-09"
     }
   }
 }
