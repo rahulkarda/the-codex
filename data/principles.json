@@ -2894,6 +2894,23 @@
       "origin": "Concept rooted in Duesenberry's 'relative income hypothesis' (1949) and Brickman & Campbell's hedonic treadmill (1971); the phrase 'lifestyle inflation' became common in personal-finance writing in the 2000s."
     },
     {
+      "id": "mental-accounting",
+      "name": "Mental Accounting",
+      "category": "Money & Time",
+      "tags": [
+        "behavioral economics",
+        "decision making",
+        "money management",
+        "psychology"
+      ],
+      "oneLiner": "People categorize and treat money differently based on its source or intended use, leading to irrational financial decisions.",
+      "description": "Mental accounting describes the cognitive tendency to assign funds to separate, non-fungible mental accounts, even though money is fungible. This can lead individuals to spend windfalls differently from earned income or to save for one goal while simultaneously borrowing for another at a higher interest rate. It highlights how our subjective frames influence objective financial choices.",
+      "example": "Sarah receives a $1,000 tax refund and immediately decides to spend it on a vacation, viewing it as \"bonus money.\" At the same time, she has $500 in credit card debt accruing 18% interest, which she considers \"monthly expenses\" and doesn't use the refund to pay down.",
+      "howToApply": "1. Recognize that all money is fungible: Mentally consolidate all your financial resources into a single pool. 2. Prioritize based on objective financial goals: Before spending, ask if this is the most efficient use of *any* money you have, considering interest rates, investment returns, and debt. 3. Use a single budget or financial plan: Avoid creating separate \"fun money\" or \"bill money\" accounts if it prevents you from making optimal overall financial decisions.",
+      "pitfalls": "While often leading to suboptimal financial outcomes, mental accounting can sometimes be leveraged for positive behavioral change, such as setting up a \"vacation fund\" to encourage saving. However, a major pitfall is failing to see the fungibility of money, leading to simultaneously holding low-interest savings and high-interest debt, or overspending on \"found money.\"",
+      "origin": "Richard Thaler, 1980"
+    },
+    {
       "id": "pay-yourself-first",
       "name": "Pay Yourself First",
       "category": "Money & Time",
@@ -3433,12 +3450,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 198,
-    "generated": "2026-07-09",
+    "count": 199,
+    "generated": "2026-07-10",
     "lastAdded": {
-      "name": "Social Loafing",
-      "category": "Social Dynamics",
-      "date": "2026-07-09"
+      "name": "Mental Accounting",
+      "category": "Money & Time",
+      "date": "2026-07-10"
     }
   }
 }
