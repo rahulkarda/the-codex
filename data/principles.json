@@ -1578,6 +1578,24 @@
       "origin": "Greg McKeown, 'Essentialism: The Disciplined Pursuit of Less' (Crown Business, 2014). Earlier influences: Peter Drucker's 'effectiveness' writing and the Pareto principle."
     },
     {
+      "id": "forcing-functions",
+      "name": "Forcing Functions",
+      "category": "Productivity",
+      "tags": [
+        "productivity",
+        "self-control",
+        "habit formation",
+        "environment design",
+        "decision-making"
+      ],
+      "oneLiner": "Design your environment or workflow to make desired actions unavoidable or undesirable ones impossible, reducing reliance on willpower.",
+      "description": "Forcing functions are design elements that prevent users from taking an incorrect action or omitting a necessary step by making it impossible to proceed otherwise. In a productivity context, they are pre-commitments or environmental setups that structure future choices, making productive behaviors automatic and preventing procrastination or distraction. They act as external constraints to guide behavior towards a desired outcome. This reduces the cognitive load of decision-making and the need for constant self-discipline.",
+      "example": "To ensure you go to the gym, you lay out your gym clothes the night before and place your gym bag by the door, making it the first thing you see and grab. To prevent late-night snacking, you might move tempting foods out of sight or even out of the house, creating a physical barrier to consumption.",
+      "howToApply": "1. Identify a recurring task or habit you want to ensure happens, or a distraction you want to avoid. 2. Design a physical or digital constraint that makes the desired action the only or easiest path, or the undesired action impossible. 3. For tasks, schedule non-negotiable meetings with others, or set up automated reminders that require a response. 4. For distractions, block distracting websites during work hours, or physically remove tempting items from your workspace. 5. Review and refine your forcing functions as your habits and needs evolve.",
+      "pitfalls": "Over-reliance on rigid forcing functions can reduce flexibility and adaptability, especially for creative or dynamic tasks. They can also become annoying if not well-calibrated, leading to workarounds rather than adherence. Some studies suggest that excessive external controls might diminish intrinsic motivation if not balanced with a sense of autonomy.",
+      "origin": "Term popularized in design and engineering contexts; often attributed to human factors engineering and Don Norman's 'The Design of Everyday Things' (1988), though the concept of pre-commitment devices has ancient roots."
+    },
+    {
       "id": "ivy-lee-method",
       "name": "Ivy Lee Method",
       "category": "Productivity",
@@ -3450,12 +3468,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 199,
-    "generated": "2026-07-10",
+    "count": 200,
+    "generated": "2026-07-11",
     "lastAdded": {
-      "name": "Mental Accounting",
-      "category": "Money & Time",
-      "date": "2026-07-10"
+      "name": "Forcing Functions",
+      "category": "Productivity",
+      "date": "2026-07-11"
     }
   }
 }
