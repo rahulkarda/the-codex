@@ -3243,6 +3243,24 @@
       "origin": "Kahn, A. E. (1966), 'The Tyranny of Small Decisions: Market Failures, Imperfections, and the Limits of Economics,' Kyklos 19(1), 23-47. Schelling, T. C. (1978), 'Micromotives and Macrobehavior,' W.W. Norton. Schelling won the 2005 Nobel Memorial Prize in Economics in part for this work."
     },
     {
+      "id": "allostatic-load",
+      "name": "Allostatic Load",
+      "category": "Health & Longevity",
+      "tags": [
+        "stress",
+        "physiology",
+        "resilience",
+        "chronic disease",
+        "health"
+      ],
+      "oneLiner": "The cumulative physiological cost of chronic stress and adaptation, leading to wear and tear on the body's regulatory systems.",
+      "description": "Allostatic load represents the long-term impact of the body's efforts to adapt to repeated or chronic stressors. Unlike acute stress responses, which are beneficial for survival, prolonged allostasis can lead to dysregulation in various systems, including cardiovascular, metabolic, and immune functions. This \"wear and tear\" accelerates aging and increases susceptibility to chronic diseases. It's a key concept in understanding how social and environmental factors translate into biological risk.",
+      "example": "A single mother working multiple jobs, facing financial insecurity, and caring for an ailing parent experiences constant psychological and physiological stress. Over years, this chronic burden manifests as elevated blood pressure, insulin resistance, and increased susceptibility to infections, reflecting a high allostatic load.",
+      "howToApply": "Identify chronic stressors in your life (work, relationships, environment). Implement consistent stress-reduction practices like mindfulness, regular exercise, adequate sleep, and strong social connections. Proactively manage health markers (blood pressure, glucose, inflammation) to prevent cumulative damage and reduce the body's overall burden.",
+      "pitfalls": "It's a complex, multi-systemic concept, not a single measurable biomarker, making direct intervention challenging. Focusing solely on one aspect (e.g., diet) without addressing psychological or social stressors may yield limited results. Misinterpreting normal adaptive responses as harmful load, or conversely, underestimating the cumulative impact of low-grade chronic stressors.",
+      "origin": "Bruce McEwen and Eliot Stellar, 1993"
+    },
+    {
       "id": "cognitive-reserve",
       "name": "Cognitive Reserve",
       "category": "Health & Longevity",
@@ -3468,12 +3486,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 200,
-    "generated": "2026-07-11",
+    "count": 201,
+    "generated": "2026-07-12",
     "lastAdded": {
-      "name": "Forcing Functions",
-      "category": "Productivity",
-      "date": "2026-07-11"
+      "name": "Allostatic Load",
+      "category": "Health & Longevity",
+      "date": "2026-07-12"
     }
   }
 }
