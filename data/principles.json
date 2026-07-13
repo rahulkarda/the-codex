@@ -3122,6 +3122,24 @@
       "origin": "Arthur C. Pigou formalized the concept of externalities in \"The Economics of Welfare\" (1920), building on earlier ideas."
     },
     {
+      "id": "framing-effect",
+      "name": "Framing Effect",
+      "category": "Economics & Incentives",
+      "tags": [
+        "behavioral economics",
+        "cognitive bias",
+        "decision making",
+        "psychology",
+        "persuasion"
+      ],
+      "oneLiner": "Decisions are influenced by how information is presented, even if the underlying facts are identical, leading to different choices based on positive or negative framing.",
+      "description": "The Framing Effect describes how the presentation of choices, whether phrased positively (gain) or negatively (loss), can significantly alter an individual's decision-making. People tend to be risk-averse when choices are framed in terms of gains and risk-seeking when choices are framed in terms of losses, even if the statistical outcomes are equivalent. This cognitive bias highlights the irrationality in human preferences, deviating from purely rational economic models. It demonstrates that the way information is 'framed' can be more impactful than the objective information itself.",
+      "example": "A doctor tells a patient that a surgery has a '90% survival rate' versus stating it has a '10% mortality rate.' While both statements convey the same statistical outcome, patients are significantly more likely to opt for the surgery when presented with the '90% survival rate' frame. This demonstrates how positive framing can encourage acceptance, even for risky procedures.",
+      "howToApply": "When presenting options, consider how your language might implicitly bias the decision. For crucial decisions, rephrase the options in multiple ways (e.g., gain vs. loss, positive vs. negative outcome) to identify potential framing biases in your own thinking. As a decision-maker, actively seek out alternative framings of a problem from different perspectives before committing to a choice.",
+      "pitfalls": "Over-reliance on framing to manipulate others can be unethical and lead to distrust if discovered. The effect's strength can vary based on individual differences, context, and the stakes involved; it's not a universal guarantee of influence. Be wary of being overly susceptible to framing by others, which can lead to suboptimal choices if you don't critically evaluate the underlying facts.",
+      "origin": "Amos Tversky and Daniel Kahneman, 1981 (in \"The Framing of Decisions and the Psychology of Choice\")"
+    },
+    {
       "id": "moral-hazard",
       "name": "Moral Hazard",
       "category": "Economics & Incentives",
@@ -3486,12 +3504,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 201,
-    "generated": "2026-07-12",
+    "count": 202,
+    "generated": "2026-07-13",
     "lastAdded": {
-      "name": "Allostatic Load",
-      "category": "Health & Longevity",
-      "date": "2026-07-12"
+      "name": "Framing Effect",
+      "category": "Economics & Incentives",
+      "date": "2026-07-13"
     }
   }
 }
