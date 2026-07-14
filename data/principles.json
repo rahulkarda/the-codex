@@ -1372,6 +1372,24 @@
       "origin": "Stoic practice; Seneca, Epistulae Morales 76, 91, 99 (~65 CE); Marcus Aurelius, Meditations 7.27 (~170 CE). Term popularized in modern usage by William Irvine, A Guide to the Good Life (2008)."
     },
     {
+      "id": "prohairesis-moral-purpose-faculty-of-choice",
+      "name": "Prohairesis (Moral Purpose / Faculty of Choice)",
+      "category": "Philosophy & Stoicism",
+      "tags": [
+        "stoicism",
+        "ethics",
+        "control",
+        "choice",
+        "judgment"
+      ],
+      "oneLiner": "The Stoic faculty of choice and moral purpose, emphasizing that our judgments and reactions are the only things truly within our control.",
+      "description": "Prohairesis refers to our unique rational faculty to choose, assent, or reject impressions, and to form judgments. It is considered the only thing truly within our absolute control, making it the foundation of Stoic ethics and personal freedom. This faculty shapes our character and determines our moral responses to external events, which are themselves indifferent. By focusing on cultivating this inner citadel, we achieve tranquility.",
+      "example": "When stuck in heavy traffic, you cannot control the flow of cars or the delay. However, your prohairesis allows you to choose your internal reaction: you can become angry and frustrated, or you can accept the situation and use the time for reflection, listening to an audiobook, or practicing mindfulness. The choice of your internal state is entirely yours.",
+      "howToApply": "Regularly pause to distinguish between external events and your internal judgments about them. Focus your energy solely on cultivating virtuous judgments and intentions, recognizing that your character is built through these choices. Practice accepting external circumstances as indifferent, directing your will towards what is within your control.",
+      "pitfalls": "Misinterpreting prohairesis as an excuse for inaction regarding external problems, rather than a focus on internal response. It does not mean passively accepting injustice, but rather choosing to respond virtuously and effectively within one's sphere of influence, without being emotionally disturbed by the outcome. It can also be challenging to consistently identify and control one's judgments, especially under duress.",
+      "origin": "Epictetus (c. 50–135 CE)"
+    },
+    {
       "id": "the-obstacle-is-the-way",
       "name": "The Obstacle Is the Way",
       "category": "Philosophy & Stoicism",
@@ -3504,12 +3522,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 202,
-    "generated": "2026-07-13",
+    "count": 203,
+    "generated": "2026-07-14",
     "lastAdded": {
-      "name": "Framing Effect",
-      "category": "Economics & Incentives",
-      "date": "2026-07-13"
+      "name": "Prohairesis (Moral Purpose / Faculty of Choice)",
+      "category": "Philosophy & Stoicism",
+      "date": "2026-07-14"
     }
   }
 }
