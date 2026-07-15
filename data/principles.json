@@ -1631,6 +1631,23 @@
       "origin": "Ivy Ledbetter Lee, advising Charles M. Schwab of Bethlehem Steel, circa 1918; the story was widely circulated after Schwab reportedly paid Lee $25,000 (about $475,000 in 2025 dollars) for the method."
     },
     {
+      "id": "mere-urgency-effect",
+      "name": "Mere Urgency Effect",
+      "category": "Productivity",
+      "tags": [
+        "bias",
+        "prioritization",
+        "decision-making",
+        "focus"
+      ],
+      "oneLiner": "The bias to prioritize urgent tasks over more important, non-urgent ones, even when the latter offer greater long-term value.",
+      "description": "This effect describes our tendency to be drawn to tasks with an immediate deadline or perceived urgency, even if completing them yields less significant results. It stems from the psychological satisfaction of completing an urgent task, which can feel more tangible than progress on a long-term, high-impact goal. This often leads to neglecting high-value, non-urgent work.",
+      "example": "A manager spends hours responding to non-critical emails and attending last-minute meetings (urgent) instead of dedicating time to strategic planning (important) that would significantly benefit the company's future.",
+      "howToApply": "1. Before starting work, explicitly categorize tasks as \"urgent\" or \"important\" using a matrix or simple list. 2. Schedule dedicated, protected blocks for important, non-urgent work, ensuring these are not interrupted by urgent demands. 3. Consciously evaluate the long-term value of a task before allowing its perceived urgency to dictate your immediate attention.",
+      "pitfalls": "The effect's strength varies by individual and context, not always a universal driver. Over-focusing solely on \"important\" tasks can lead to neglecting truly urgent, necessary items. Popular framings sometimes oversimplify the complex interplay between urgency and importance, ignoring situations where tasks are both or neither.",
+      "origin": "Adam Alter and Rom Y. Schrift (2014)"
+    },
+    {
       "id": "parkinsons-law",
       "name": "Parkinson's Law",
       "category": "Productivity",
@@ -3522,12 +3539,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 203,
-    "generated": "2026-07-14",
+    "count": 204,
+    "generated": "2026-07-15",
     "lastAdded": {
-      "name": "Prohairesis (Moral Purpose / Faculty of Choice)",
-      "category": "Philosophy & Stoicism",
-      "date": "2026-07-14"
+      "name": "Mere Urgency Effect",
+      "category": "Productivity",
+      "date": "2026-07-15"
     }
   }
 }
