@@ -3261,6 +3261,24 @@
       "origin": "Michael Spence, 1973 (for job market signaling)"
     },
     {
+      "id": "the-winners-curse",
+      "name": "The Winner's Curse",
+      "category": "Economics & Incentives",
+      "tags": [
+        "auctions",
+        "bidding",
+        "decision-making",
+        "behavioral economics",
+        "negotiation"
+      ],
+      "oneLiner": "The tendency for the winner of an auction to overpay for the item, often due to incomplete information or overestimation of value.",
+      "description": "The Winner's Curse describes a phenomenon in common value auctions where the winning bid often exceeds the true value of the item. This occurs because the winner is typically the bidder with the most optimistic (and often, overvalued) estimate, especially when the item's true value is uncertain and shared among all bidders. The curse implies that winning the auction can paradoxically lead to a net loss for the winner.",
+      "example": "Imagine an oil drilling lease auction where several companies bid on a plot of land with an unknown amount of oil. The company that wins the bid is often the one that most optimistically estimated the oil reserves. If their estimate turns out to be too high, they may have overpaid for the lease, even if they secured the rights.",
+      "howToApply": "1. In competitive bidding situations (e.g., real estate, M&A, online auctions), always perform thorough independent valuation before bidding. 2. Set a maximum bid based on your objective valuation and stick to it, regardless of the heat of the moment. 3. Assume that other bidders have similar information and that the highest bid likely reflects an overly optimistic assessment. 4. Consider the number of bidders: more bidders increase the likelihood of the winner's curse, as there's a greater chance of an outlier optimistic bid.",
+      "pitfalls": "Underestimating the true value: while avoiding overpayment is key, being too conservative can lead to missed opportunities. The curse is most prevalent in common value auctions (where value is the same for all bidders but uncertain); it's less relevant in private value auctions. Ignoring information from other bidders can be a pitfall; sometimes, a high bid might signal superior information rather than just over-optimism.",
+      "origin": "E.C. Capen, R.V. Clapp, and W.M. Campbell, 1971"
+    },
+    {
       "id": "tragedy-of-the-commons",
       "name": "Tragedy of the Commons",
       "category": "Economics & Incentives",
@@ -3539,12 +3557,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 204,
-    "generated": "2026-07-15",
+    "count": 205,
+    "generated": "2026-07-16",
     "lastAdded": {
-      "name": "Mere Urgency Effect",
-      "category": "Productivity",
-      "date": "2026-07-15"
+      "name": "The Winner's Curse",
+      "category": "Economics & Incentives",
+      "date": "2026-07-16"
     }
   }
 }
