@@ -2478,6 +2478,24 @@
       "origin": "Lee Ross, 1977"
     },
     {
+      "id": "groupthink",
+      "name": "Groupthink",
+      "category": "Social Dynamics",
+      "tags": [
+        "group psychology",
+        "decision-making",
+        "conformity",
+        "bias",
+        "organizational behavior"
+      ],
+      "oneLiner": "When groups prioritize harmony and conformity over critical evaluation, leading to irrational or dysfunctional decision-making.",
+      "description": "Groupthink is a psychological phenomenon that occurs within a group of people where the desire for harmony or conformity results in an irrational or dysfunctional decision-making outcome. Members suppress dissenting viewpoints and rationalize decisions, often due to perceived pressure or a strong, charismatic leader. This can lead to a lack of critical analysis and poor choices, even when individuals privately harbor doubts.",
+      "example": "During the Bay of Pigs invasion planning, President Kennedy's advisors failed to voice their serious doubts about the operation's feasibility. The pressure to conform and maintain group cohesion led to a flawed plan being approved, resulting in a significant foreign policy disaster for the U.S.",
+      "howToApply": "Actively encourage dissenting opinions by assigning a 'devil's advocate' role or inviting external experts to challenge assumptions. Leaders should initially withhold their own opinions to avoid influencing the group. Implement anonymous feedback mechanisms and foster a culture where challenging ideas is valued, not penalized.",
+      "pitfalls": "Overuse of a 'devil's advocate' can lead to artificial dissent or cynicism. Attributing every bad group decision solely to groupthink can oversimplify complex failures. Some research suggests that strong cohesion isn't always a direct predictor of groupthink, and other factors like directive leadership or situational stress might be more critical.",
+      "origin": "Irving L. Janis, 1972."
+    },
+    {
       "id": "mirroring-and-behavioral-mimicry",
       "name": "Mirroring and Behavioral Mimicry",
       "category": "Social Dynamics",
@@ -3557,12 +3575,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 205,
-    "generated": "2026-07-16",
+    "count": 206,
+    "generated": "2026-07-18",
     "lastAdded": {
-      "name": "The Winner's Curse",
-      "category": "Economics & Incentives",
-      "date": "2026-07-16"
+      "name": "Groupthink",
+      "category": "Social Dynamics",
+      "date": "2026-07-18"
     }
   }
 }
