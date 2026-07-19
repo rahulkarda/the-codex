@@ -2669,6 +2669,24 @@
       "origin": "Shelly Gable and Harry Reis (2006)"
     },
     {
+      "id": "attachment-theory",
+      "name": "Attachment Theory",
+      "category": "Relationships",
+      "tags": [
+        "attachment",
+        "psychology",
+        "development",
+        "relationships",
+        "security"
+      ],
+      "oneLiner": "Explains how early childhood experiences with caregivers shape an individual's relational patterns, influencing intimacy, trust, and emotional regulation in adulthood.",
+      "description": "Attachment Theory posits that the quality of early interactions with primary caregivers forms internal working models of self and others. These models dictate how individuals perceive and respond to intimacy and separation in later relationships. It identifies different attachment styles (secure, anxious-preoccupied, dismissive-avoidant, fearful-avoidant) that impact relational dynamics.",
+      "example": "A person with a secure attachment style, having experienced consistent and responsive caregiving, is comfortable with both intimacy and independence, trusting their partner and expressing needs openly. Conversely, someone with an anxious-preoccupied style might constantly seek reassurance and fear abandonment due to inconsistent early care.",
+      "howToApply": "1. Identify your own and your partner's primary attachment styles through self-reflection or quizzes. 2. Understand how these styles influence communication patterns, conflict resolution, and intimacy needs. 3. For insecure styles, consciously practice behaviors associated with secure attachment, such as open communication, setting healthy boundaries, and self-soothing. 4. Seek therapy if ingrained insecure patterns are significantly impacting relationship health.",
+      "pitfalls": "Oversimplification: Attachment styles are not rigid labels but rather spectrums, and individuals can exhibit traits from multiple styles or change over time. Determinism: While early experiences are influential, they do not solely determine adult relationships; conscious effort and new experiences can foster \"earned security.\" Blame: Using attachment theory to blame partners or parents without taking personal responsibility for current relational behaviors. Weak Replication (for specific interventions): While the theory itself is robust, the efficacy of specific \"attachment-based\" interventions can vary and requires careful evaluation.",
+      "origin": "John Bowlby (1969) and Mary Ainsworth (1978)"
+    },
+    {
       "id": "bids-for-connection",
       "name": "Bids for Connection",
       "category": "Relationships",
@@ -3575,12 +3593,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 206,
-    "generated": "2026-07-18",
+    "count": 207,
+    "generated": "2026-07-19",
     "lastAdded": {
-      "name": "Groupthink",
-      "category": "Social Dynamics",
-      "date": "2026-07-18"
+      "name": "Attachment Theory",
+      "category": "Relationships",
+      "date": "2026-07-19"
     }
   }
 }
