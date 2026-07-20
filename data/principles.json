@@ -2095,6 +2095,23 @@
       "origin": "John Flavell, 1976"
     },
     {
+      "id": "pre-testing-effect",
+      "name": "Pre-testing Effect",
+      "category": "Learning",
+      "tags": [
+        "memory",
+        "study",
+        "cognition",
+        "retention"
+      ],
+      "oneLiner": "Attempting to retrieve information *before* learning it, even if unsuccessful, significantly improves subsequent learning and long-term retention.",
+      "description": "The pre-testing effect demonstrates that engaging in a retrieval attempt prior to encoding new information, even without prior knowledge, primes the brain. This initial effort highlights knowledge gaps and increases attentional focus, leading to more efficient and deeper processing of the material when it is subsequently presented.",
+      "example": "Before attending a lecture on a complex historical event, a student takes a short quiz covering key figures, dates, and causes. Even though they answer most questions incorrectly, the act of attempting retrieval makes them more attentive during the lecture, better able to connect new information, and ultimately improves their recall on a later exam compared to peers who skipped the pre-test.",
+      "howToApply": "1. Before starting a new learning module, chapter, or topic, spend 5-10 minutes trying to answer relevant questions about it, even if you don't know the answers. 2. Review the questions and your attempted answers to identify specific areas of uncertainty or complete ignorance. 3. Proceed with the actual learning material (reading, lectures, videos), paying close attention to the concepts you struggled with during the pre-test. 4. Use this strategy to prepare for classes, meetings, or when diving into a new skill.",
+      "pitfalls": "Over-reliance on pre-testing without engaging in subsequent learning will not be effective. If the pre-test is excessively difficult or poorly aligned with the learning material, it might lead to frustration or misdirection. While beneficial, it should be integrated as part of a broader study strategy, not as a standalone solution.",
+      "origin": "Metcalfe, J., & Kornell, N. (2007). The pretesting effect: The benefits of failing. Journal of Experimental Psychology: Learning, Memory, and Cognition, 33(2), 406–416."
+    },
+    {
       "id": "self-explanation",
       "name": "Self-Explanation",
       "category": "Learning",
@@ -3593,12 +3610,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 207,
-    "generated": "2026-07-19",
+    "count": 208,
+    "generated": "2026-07-20",
     "lastAdded": {
-      "name": "Attachment Theory",
-      "category": "Relationships",
-      "date": "2026-07-19"
+      "name": "Pre-testing Effect",
+      "category": "Learning",
+      "date": "2026-07-20"
     }
   }
 }
