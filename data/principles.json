@@ -1752,6 +1752,24 @@
       "origin": "Sophie Leroy, 2009 (Ph.D. dissertation, later published in academic journals)"
     },
     {
+      "id": "decision-fatigue",
+      "name": "Decision Fatigue",
+      "category": "Focus & Habits",
+      "tags": [
+        "productivity",
+        "decision-making",
+        "cognitive science",
+        "self-management",
+        "energy management"
+      ],
+      "oneLiner": "The deteriorating quality of decisions after a long session of decision-making, leading to poorer choices, impulsivity, or inaction.",
+      "description": "Decision fatigue describes the psychological phenomenon where making numerous choices drains mental energy, leading to reduced self-control and impaired judgment. As the number of decisions increases, individuals tend to either make impulsive choices, avoid making decisions altogether, or default to easier, less optimal options. This depletion is similar to physical fatigue but affects cognitive resources.",
+      "example": "A judge, after presiding over a full day of complex cases requiring numerous judgments, is more likely to grant parole to prisoners whose cases are heard earlier in the day than those heard later, regardless of the merits of the case. Similarly, shoppers making many choices in a supermarket may end up buying more junk food at the end of their trip.",
+      "howToApply": "Prioritize important decisions for times of peak mental energy, typically earlier in the day. Automate or delegate minor decisions to conserve cognitive resources. Simplify choices by setting default options or creating routines that reduce the need for constant deliberation. Structure your environment to minimize unnecessary decisions.",
+      "pitfalls": "Often conflated with 'ego depletion,' which has faced replication challenges regarding the idea of a single, finite willpower resource. While the *experience* of decision fatigue is widely reported, the precise underlying psychological mechanism is still debated. Over-optimizing for decision avoidance can lead to a lack of spontaneity or missed opportunities for learning and growth.",
+      "origin": "Roy F. Baumeister and Kathleen D. Vohs, 2000s (popularized concept, building on earlier work on self-regulation)"
+    },
+    {
       "id": "deep-work",
       "name": "Deep Work",
       "category": "Focus & Habits",
@@ -3610,12 +3628,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 208,
-    "generated": "2026-07-20",
+    "count": 209,
+    "generated": "2026-07-21",
     "lastAdded": {
-      "name": "Pre-testing Effect",
-      "category": "Learning",
-      "date": "2026-07-20"
+      "name": "Decision Fatigue",
+      "category": "Focus & Habits",
+      "date": "2026-07-21"
     }
   }
 }
