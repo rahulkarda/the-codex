@@ -1165,6 +1165,23 @@
       "origin": "Term coined by Walter Kennedy in 1961; mechanism formalized in pain research by Fabrizio Benedetti starting in the 1990s."
     },
     {
+      "id": "peak-end-rule",
+      "name": "Peak-end Rule",
+      "category": "Psychology Effect",
+      "tags": [
+        "memory",
+        "decision-making",
+        "experience design",
+        "bias"
+      ],
+      "oneLiner": "People judge an experience based on its peak intensity and its end, rather than the sum of all moments or its duration.",
+      "description": "This cognitive bias dictates that our memory of an event is disproportionately influenced by its most intense emotional point (positive or negative) and its conclusion. The duration of the experience, or the sum of all its moments, has less impact on our overall retrospective evaluation. This effect highlights the importance of strong finishes and memorable moments in shaping perceptions.",
+      "example": "A patient undergoing a colonoscopy might report less discomfort overall if the procedure ends with a period of mild discomfort, even if the total duration of discomfort was longer, compared to a shorter procedure ending abruptly with high discomfort. Similarly, a vacation might be remembered fondly if the final days were exceptional, even if earlier parts were mediocre.",
+      "howToApply": "When designing experiences (e.g., customer service, presentations, product usage), focus on optimizing the most intense moments and ensuring a positive, strong ending. For difficult tasks, try to finish with a sense of accomplishment or relief. In personal interactions, aim for a positive conclusion to conversations or events.",
+      "pitfalls": "Can lead to misjudgments of actual total experience, potentially causing people to choose shorter, more intense negative experiences over longer, milder ones if the former has a better 'end.' It can also be exploited in marketing to create a false sense of overall satisfaction by only optimizing peaks and ends. Replication in some complex real-world scenarios might be nuanced.",
+      "origin": "Daniel Kahneman, Barbara L. Fredrickson, Charles A. Schreiber, and Donald A. Redelmeier (1993)"
+    },
+    {
       "id": "placebo-effect",
       "name": "Placebo Effect",
       "category": "Psychology Effect",
@@ -3628,12 +3645,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 209,
-    "generated": "2026-07-21",
+    "count": 210,
+    "generated": "2026-07-22",
     "lastAdded": {
-      "name": "Decision Fatigue",
-      "category": "Focus & Habits",
-      "date": "2026-07-21"
+      "name": "Peak-end Rule",
+      "category": "Psychology Effect",
+      "date": "2026-07-22"
     }
   }
 }
