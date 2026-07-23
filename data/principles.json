@@ -1284,6 +1284,24 @@
       "origin": "Stoic tradition; Marcus Aurelius, Meditations 6.39, 10.6 (~170 CE). Phrase coined by Friedrich Nietzsche, The Gay Science §276 (1882)."
     },
     {
+      "id": "apatheia-stoic-tranquility",
+      "name": "Apatheia (Stoic Tranquility)",
+      "category": "Philosophy & Stoicism",
+      "tags": [
+        "stoicism",
+        "emotion",
+        "tranquility",
+        "virtue",
+        "self-control"
+      ],
+      "oneLiner": "The Stoic ideal of freedom from irrational passions and emotional disturbance, not an absence of feeling but a state of inner calm through reason.",
+      "description": "Apatheia refers to a state of mind where one is free from *pathos* (unhealthy passions or disturbances), achieving tranquility through reason and virtue. It is not apathy, which implies indifference or lack of emotion, but rather a mastery over destructive emotions like excessive fear, anger, or desire. The Stoics believed that true happiness and good judgment arise from this state of emotional equilibrium. It allows for clear thinking and appropriate action in challenging circumstances.",
+      "example": "A CEO facing a sudden market downturn remains calm and rational, focusing on analyzing the situation and formulating a strategic response rather than succumbing to panic or anger. They acknowledge the challenge but do not allow it to disrupt their inner peace or decision-making faculty.",
+      "howToApply": "Practice the Dichotomy of Control to distinguish what is within your power (reactions, judgments) from what is not (external events). Regularly reflect on your emotional responses, challenging irrational beliefs that fuel negative passions. Cultivate virtues like courage and justice, understanding that these actions, regardless of outcome, contribute to apatheia.",
+      "pitfalls": "Misinterpreting apatheia as emotional suppression or indifference can lead to detachment from healthy emotions like joy, empathy, or healthy grief. Some interpretations can foster a cold, unfeeling demeanor, which goes against the Stoic emphasis on social duty and connection. It's about rational control and appropriate emotional response, not an emotional void.",
+      "origin": "Zeno of Citium, founder of Stoicism (c. 300 BCE)"
+    },
+    {
       "id": "assent-to-impressions",
       "name": "Assent to Impressions",
       "category": "Philosophy & Stoicism",
@@ -3645,12 +3663,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 210,
-    "generated": "2026-07-22",
+    "count": 211,
+    "generated": "2026-07-23",
     "lastAdded": {
-      "name": "Peak-end Rule",
-      "category": "Psychology Effect",
-      "date": "2026-07-22"
+      "name": "Apatheia (Stoic Tranquility)",
+      "category": "Philosophy & Stoicism",
+      "date": "2026-07-23"
     }
   }
 }
