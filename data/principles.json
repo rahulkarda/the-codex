@@ -3438,6 +3438,24 @@
       "origin": "Bruce McEwen and Eliot Stellar, 1993"
     },
     {
+      "id": "blue-zones-principles",
+      "name": "Blue Zones Principles",
+      "category": "Health & Longevity",
+      "tags": [
+        "longevity",
+        "lifestyle",
+        "diet",
+        "community",
+        "purpose"
+      ],
+      "oneLiner": "Learn from regions with the highest concentrations of centenarians by adopting their integrated lifestyle factors for health and longevity.",
+      "description": "The Blue Zones represent five distinct regions globally where people live measurably longer and healthier lives. Research by Dan Buettner identifies common lifestyle denominators, including natural movement, plant-based diets, strong social connections, stress reduction, and a sense of purpose. These principles highlight that longevity is not just about individual choices but also about an environment that supports healthy behaviors.",
+      "example": "A person living in a Blue Zone like Okinawa, Japan, naturally incorporates daily walking, eats a diet rich in vegetables and legumes, lives in a multi-generational household, participates in community moai (social support groups), and maintains an ikigai (reason for being). These factors are integrated into their daily life without conscious effort.",
+      "howToApply": "1. Move Naturally: Integrate walking, gardening, and stair-climbing into your daily routine; avoid prolonged sitting. 2. Plant Slant: Prioritize plant-based foods, especially legumes, nuts, and whole grains, making them the cornerstone of your diet. 3. Purpose (Ikigai/Why): Identify your core values and passions, and actively pursue activities that give your life meaning. 4. Belong: Nurture strong social ties with family and friends; participate in community groups or faith-based organizations. 5. Down Shift: Practice stress-reducing techniques like meditation, naps, or social gatherings to manage daily stressors.",
+      "pitfalls": "While the Blue Zones research identifies correlations, it's challenging to isolate causation from specific individual factors; it's a holistic model. Direct replication of all factors may not be feasible in every modern context, and some aspects (e.g., genetic predispositions, specific environmental factors) are not easily transferable. Over-commercialization of 'Blue Zone' products or diets can misrepresent the integrated lifestyle approach.",
+      "origin": "Dan Buettner, 2004 (National Geographic article 'The Secrets of a Long Life')"
+    },
+    {
       "id": "cognitive-reserve",
       "name": "Cognitive Reserve",
       "category": "Health & Longevity",
@@ -3663,12 +3681,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 211,
-    "generated": "2026-07-23",
+    "count": 212,
+    "generated": "2026-07-24",
     "lastAdded": {
-      "name": "Apatheia (Stoic Tranquility)",
-      "category": "Philosophy & Stoicism",
-      "date": "2026-07-23"
+      "name": "Blue Zones Principles",
+      "category": "Health & Longevity",
+      "date": "2026-07-24"
     }
   }
 }
