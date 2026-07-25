@@ -2286,6 +2286,24 @@
       "origin": "Robert Cialdini, 1984 (in \"Influence: The Psychology of Persuasion\")"
     },
     {
+      "id": "communication-accommodation-theory-cat",
+      "name": "Communication Accommodation Theory (CAT)",
+      "category": "Communication",
+      "tags": [
+        "social psychology",
+        "interpersonal",
+        "communication strategy",
+        "adaptation",
+        "rapport"
+      ],
+      "oneLiner": "People adjust their communication behaviors (e.g., speech rate, accent, vocabulary) to either converge with or diverge from their interlocutors, often unconsciously.",
+      "description": "CAT posits that individuals strategically modify their communication to achieve various social goals. Convergence involves adopting similar communication styles to foster rapport and approval, while divergence emphasizes differences to assert identity, power, or distance. These adjustments can be conscious or unconscious and occur across various linguistic and non-linguistic dimensions.",
+      "example": "A doctor might simplify medical jargon and slow their speech when explaining a diagnosis to a patient (convergence). Conversely, a teenager might intentionally use slang and rapid speech when talking to their peers, contrasting with how they speak to their parents (divergence).",
+      "howToApply": "Consciously observe and adapt your communication style to build rapport or clarify understanding with others. To foster connection, mirror aspects like speech rate, tone, or vocabulary. To assert professional authority or maintain boundaries, strategically diverge when appropriate, ensuring clarity over mere imitation.",
+      "pitfalls": "Over-convergence can appear insincere or patronizing, leading to negative perceptions. Unconscious over-accommodation might lead to losing one's authentic voice. Divergence, while useful for identity, can also create barriers, misunderstandings, or be perceived as hostile if not used carefully. Replication of specific aspects of CAT can be complex due to the nuanced, context-dependent nature of accommodation.",
+      "origin": "Howard Giles, 1971 (originally Speech Accommodation Theory, later expanded to CAT)"
+    },
+    {
       "id": "curse-of-knowledge",
       "name": "Curse of Knowledge",
       "category": "Communication",
@@ -3681,12 +3699,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 212,
-    "generated": "2026-07-24",
+    "count": 213,
+    "generated": "2026-07-25",
     "lastAdded": {
-      "name": "Blue Zones Principles",
-      "category": "Health & Longevity",
-      "date": "2026-07-24"
+      "name": "Communication Accommodation Theory (CAT)",
+      "category": "Communication",
+      "date": "2026-07-25"
     }
   }
 }
