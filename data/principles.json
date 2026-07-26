@@ -3158,6 +3158,24 @@
       "origin": "Coined by financial author David Bach in the late 1990s, popularized in 'Smart Women Finish Rich' (1999) and 'The Latte Factor' (2019)."
     },
     {
+      "id": "time-confetti",
+      "name": "Time Confetti",
+      "category": "Money & Time",
+      "tags": [
+        "time management",
+        "productivity",
+        "attention",
+        "fragmentation",
+        "modern work"
+      ],
+      "oneLiner": "Small, fragmented blocks of time, too short for meaningful work, leading to a feeling of busyness without significant accomplishment.",
+      "description": "Time confetti describes the phenomenon where our days are broken into numerous tiny, often unscheduled, segments of time. These fragments are individually too brief to engage in deep work or sustained activities, yet collectively they consume significant portions of our day. This constant fragmentation can hinder progress on important tasks, increase cognitive load, and contribute to feelings of being overwhelmed and unproductive. It highlights the challenge of maintaining focus and achieving flow in an increasingly interrupted world.",
+      "example": "A software developer's day is dotted with 15-minute stand-up meetings, quick Slack messages from colleagues, checking a few emails, and getting pulled into brief discussions. Even though they are at their desk for eight hours, they struggle to make progress on complex coding tasks because they rarely get an uninterrupted hour of focused work.",
+      "howToApply": "Proactively schedule large, uninterrupted blocks of time for focused work and defend them fiercely using 'do not disturb' modes. Batch similar small tasks like email responses or administrative duties into dedicated time slots rather than addressing them as they arise. Communicate boundaries to colleagues and family to minimize instant interruptions, explaining the need for concentrated periods.",
+      "pitfalls": "Over-rigid scheduling can reduce flexibility for urgent issues or spontaneous, valuable collaboration, potentially hindering team dynamics. Some roles inherently require frequent context switching and responsiveness, making complete elimination of 'time confetti' impractical or counterproductive. The focus on individual productivity might overlook systemic issues in organizational culture that drive fragmentation.",
+      "origin": "Popularized by productivity expert Laura Vanderkam in the 2010s."
+    },
+    {
       "id": "time-value-of-money-tvm",
       "name": "Time Value of Money (TVM)",
       "category": "Money & Time",
@@ -3699,12 +3717,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 213,
-    "generated": "2026-07-25",
+    "count": 214,
+    "generated": "2026-07-26",
     "lastAdded": {
-      "name": "Communication Accommodation Theory (CAT)",
-      "category": "Communication",
-      "date": "2026-07-25"
+      "name": "Time Confetti",
+      "category": "Money & Time",
+      "date": "2026-07-26"
     }
   }
 }
