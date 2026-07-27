@@ -2340,6 +2340,24 @@
       "origin": "Paul Graham, 'How to Disagree,' March 2008, paulgraham.com/disagree.html."
     },
     {
+      "id": "grices-cooperative-principle",
+      "name": "Grice's Cooperative Principle",
+      "category": "Communication",
+      "tags": [
+        "linguistics",
+        "pragmatics",
+        "cooperation",
+        "clarity",
+        "truthfulness"
+      ],
+      "oneLiner": "A framework suggesting effective communication relies on speakers and listeners cooperating by adhering to maxims of quantity, quality, relation, and manner.",
+      "description": "Proposed by H.P. Grice, the Cooperative Principle posits that participants in a conversation implicitly agree to cooperate with each other. This cooperation is guided by four maxims: Quantity (be informative but concise), Quality (be truthful), Relation (be relevant), and Manner (be clear and orderly). Violating these maxims can lead to misunderstandings or pragmatic inferences. Understanding them helps diagnose communication breakdowns.",
+      "example": "A colleague asks, 'Did you finish the report?' If you reply, 'I typed up the introduction,' you've violated the maxim of Quantity (not giving the full, expected information) and implicitly communicated that the rest is not done.",
+      "howToApply": "When communicating, consciously review your message for adherence to the maxims. Ask: 'Am I providing enough information (Quantity)? Is it truthful (Quality)? Is it relevant to the topic (Relation)? Is it clear and concise (Manner)?' When listening, consider which maxim might be intentionally or unintentionally violated to infer unstated meanings or identify potential miscommunications.",
+      "pitfalls": "The maxims are descriptive of typical communication, not prescriptive rules for all contexts. They can be culturally relative; what's considered 'polite' or 'relevant' varies significantly across cultures. Deliberate flouting of maxims (e.g., sarcasm, irony, hyperbole) is a common communicative strategy and not necessarily a 'pitfall' but rather an intentional violation for effect, which can be misunderstood if not recognized.",
+      "origin": "H.P. Grice, 1975"
+    },
+    {
       "id": "i-statements",
       "name": "I-Statements",
       "category": "Communication",
@@ -3717,12 +3735,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 214,
-    "generated": "2026-07-26",
+    "count": 215,
+    "generated": "2026-07-27",
     "lastAdded": {
-      "name": "Time Confetti",
-      "category": "Money & Time",
-      "date": "2026-07-26"
+      "name": "Grice's Cooperative Principle",
+      "category": "Communication",
+      "date": "2026-07-27"
     }
   }
 }
