@@ -1407,6 +1407,24 @@
       "origin": "Stoic practice; Seneca, Epistulae Morales 76, 91, 99 (~65 CE); Marcus Aurelius, Meditations 7.27 (~170 CE). Term popularized in modern usage by William Irvine, A Guide to the Good Life (2008)."
     },
     {
+      "id": "oikeiosis-expansion-of-concern",
+      "name": "Oikeiosis (Expansion of Concern)",
+      "category": "Philosophy & Stoicism",
+      "tags": [
+        "stoicism",
+        "ethics",
+        "empathy",
+        "community",
+        "self-improvement"
+      ],
+      "oneLiner": "The Stoic concept of \"appropriation\" or \"familiarization,\" where one's circle of concern gradually expands from self to family, community, and all humanity.",
+      "description": "Oikeiosis describes the natural process by which living beings develop an affinity for their own constitution and then progressively extend this concern outwards. It begins with self-preservation and self-love, recognizing what is proper to oneself, and then through reason, expands to encompass family, friends, fellow citizens, and ultimately all humankind. This expansion forms the basis of Stoic ethics, emphasizing our interconnectedness and duty to others.",
+      "example": "A person initially focuses on their own well-being (health, personal growth). As they mature, their concern naturally extends to their immediate family, ensuring their safety and happiness. Further development leads them to actively participate in local community efforts, and eventually, they might advocate for global humanitarian causes, recognizing a shared humanity with strangers across the world.",
+      "howToApply": "1. Start by acknowledging your innate self-concern and desire for well-being. 2. Deliberately practice empathy and understanding towards those closest to you (family, friends). 3. Engage in acts of service or contribution within your local community. 4. Reflect on shared human experiences and vulnerabilities to foster a sense of kinship with broader humanity. 5. Consider how your actions impact not just yourself, but your community and the world.",
+      "pitfalls": "Misinterpreting Oikeiosis as mere altruism without the foundational self-concern can lead to burnout or neglecting one's own needs. It's a gradual, rational expansion, not a sudden self-sacrifice. Also, it's a descriptive theory of moral development, not a prescriptive command for immediate universal love, which can be difficult to sustain without prior steps.",
+      "origin": "Zeno of Citium (c. 334–262 BC), founder of Stoicism"
+    },
+    {
       "id": "prohairesis-moral-purpose-faculty-of-choice",
       "name": "Prohairesis (Moral Purpose / Faculty of Choice)",
       "category": "Philosophy & Stoicism",
@@ -3735,12 +3753,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 215,
-    "generated": "2026-07-27",
+    "count": 216,
+    "generated": "2026-07-28",
     "lastAdded": {
-      "name": "Grice's Cooperative Principle",
-      "category": "Communication",
-      "date": "2026-07-27"
+      "name": "Oikeiosis (Expansion of Concern)",
+      "category": "Philosophy & Stoicism",
+      "date": "2026-07-28"
     }
   }
 }
