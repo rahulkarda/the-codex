@@ -3404,6 +3404,24 @@
       "origin": "Coined by Austrian economist Friedrich von Wieser in 'Der natürliche Wert' ('Natural Value,' 1889); the underlying logic of forgone alternatives is implicit in classical economics from Adam Smith (1776) onward."
     },
     {
+      "id": "peltzman-effect-risk-compensation",
+      "name": "Peltzman Effect (Risk Compensation)",
+      "category": "Economics & Incentives",
+      "tags": [
+        "behavioral economics",
+        "risk",
+        "incentives",
+        "policy",
+        "unintended consequences"
+      ],
+      "oneLiner": "Increased safety measures can lead individuals to engage in riskier behavior, offsetting some or all of the intended safety benefits.",
+      "description": "The Peltzman Effect posits that people adjust their behavior in response to changes in perceived risk. When safety features are introduced, individuals may feel safer and thus take greater risks, negating the expected reduction in accidents or harm. This behavioral adaptation can partially or completely offset the positive effects of safety interventions.",
+      "example": "After mandatory seatbelt laws were introduced, drivers felt safer, leading some to drive faster or less carefully. While seatbelt use reduced fatalities for those wearing them, the overall accident rate or fatalities for pedestrians/cyclists might not decrease as much, or could even increase, due to the compensatory risky driving.",
+      "howToApply": "When designing safety regulations or interventions, anticipate potential behavioral responses. Consider whether the intervention might inadvertently encourage riskier behavior in other areas. Combine safety measures with awareness campaigns about residual risks, or design systems that make risk-taking inherently more difficult.",
+      "pitfalls": "The magnitude of the Peltzman Effect is debated and varies greatly by context. While some studies show evidence of risk compensation, others find minimal or no effect, especially for highly visible and immediate risks. It's a tendency, not a universal law; it doesn't mean safety measures are useless, but that their full impact might be less than predicted due to human adaptation.",
+      "origin": "Sam Peltzman, 1975"
+    },
+    {
       "id": "principal-agent-problem",
       "name": "Principal-Agent Problem",
       "category": "Economics & Incentives",
@@ -3753,12 +3771,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 216,
-    "generated": "2026-07-28",
+    "count": 217,
+    "generated": "2026-07-29",
     "lastAdded": {
-      "name": "Oikeiosis (Expansion of Concern)",
-      "category": "Philosophy & Stoicism",
-      "date": "2026-07-28"
+      "name": "Peltzman Effect (Risk Compensation)",
+      "category": "Economics & Incentives",
+      "date": "2026-07-29"
     }
   }
 }
