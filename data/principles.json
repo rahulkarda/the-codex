@@ -3159,6 +3159,24 @@
       "origin": "Daniel Kahneman and Amos Tversky, 1979"
     },
     {
+      "id": "return-on-time-invested-roti",
+      "name": "Return on Time Invested (ROTI)",
+      "category": "Money & Time",
+      "tags": [
+        "productivity",
+        "time management",
+        "decision making",
+        "efficiency",
+        "prioritization"
+      ],
+      "oneLiner": "Evaluate activities by comparing the benefits gained (return) against the time spent (investment) to maximize personal and professional effectiveness.",
+      "description": "Return on Time Invested (ROTI) is a metric used to assess the effectiveness and value of how one allocates their time. It encourages individuals to think about time as a finite resource, similar to financial capital, and to prioritize activities that yield the highest return in terms of personal growth, well-being, or desired outcomes. By consciously evaluating the expected ROTI, one can make more strategic decisions about where to direct their efforts.",
+      "example": "A student has two options for studying for an upcoming exam: re-reading all their notes (which takes 8 hours) or doing practice problems and reviewing only difficult concepts (which takes 4 hours). If re-reading notes typically yields a modest improvement, while focused practice problems consistently lead to significant score increases, the latter activity has a higher ROTI, even though it takes less absolute time.",
+      "howToApply": "1. For any significant task or project, explicitly define the desired \"return\" (e.g., skill mastery, project completion, client satisfaction, personal well-being).\n2. Estimate the \"time investment\" required for different approaches or activities to achieve that return.\n3. Compare the potential returns against the time investment for each option, asking \"What's the most valuable outcome I can achieve for the time I put in?\"\n4. Prioritize activities with the highest ROTI, even if they aren't the easiest or most immediately gratifying.",
+      "pitfalls": "Difficulty in quantifying return: It can be challenging to objectively measure or predict the \"return\" of non-monetary activities (e.g., social interactions, hobbies), leading to subjective or inaccurate ROTI calculations. Short-term vs. long-term bias: Focusing too heavily on immediate ROTI might lead to neglecting foundational activities (e.g., learning new skills, building relationships) that have a low short-term ROTI but significant long-term benefits. Over-analysis paralysis: Spending too much time calculating ROTI for every minor task can become counterproductive, consuming time that could be spent on the activity itself. Ignoring intrinsic value: Some activities have intrinsic value (e.g., spending time with loved ones, creative pursuits) that isn't easily captured by a \"return\" metric, yet are crucial for well-being.",
+      "origin": "Popularized in productivity literature in the early 21st century, drawing an analogy from financial 'Return on Investment (ROI)'."
+    },
+    {
       "id": "scarcity-mindset",
       "name": "Scarcity Mindset",
       "category": "Money & Time",
@@ -3771,12 +3789,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 217,
-    "generated": "2026-07-29",
+    "count": 218,
+    "generated": "2026-07-30",
     "lastAdded": {
-      "name": "Peltzman Effect (Risk Compensation)",
-      "category": "Economics & Incentives",
-      "date": "2026-07-29"
+      "name": "Return on Time Invested (ROTI)",
+      "category": "Money & Time",
+      "date": "2026-07-30"
     }
   }
 }
