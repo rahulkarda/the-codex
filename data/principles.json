@@ -2915,6 +2915,24 @@
       "origin": "John Gottman, 1999 (The Seven Principles for Making Marriage Work)"
     },
     {
+      "id": "perspective-taking",
+      "name": "Perspective-Taking",
+      "category": "Relationships",
+      "tags": [
+        "communication",
+        "empathy",
+        "social cognition",
+        "conflict resolution",
+        "interpersonal skills"
+      ],
+      "oneLiner": "The ability to understand a situation or problem from another person's point of view, considering their thoughts, feelings, and motivations.",
+      "description": "Perspective-taking involves cognitively stepping into another person's shoes to grasp their subjective experience. It's distinct from empathy, which is feeling *with* someone, as it focuses more on understanding *why* they feel or act a certain way. This skill is crucial for effective communication, resolving conflicts, and building stronger interpersonal bonds. It helps bridge gaps in understanding by acknowledging diverse internal states.",
+      "example": "During a disagreement about household chores, instead of just stating your own fatigue, you pause to consider why your partner hasn't done their share. You realize they've been overwhelmed with a new work project and are feeling stressed, which helps you approach the conversation with more patience and a focus on solutions rather than blame.",
+      "howToApply": "When facing a disagreement or misunderstanding, consciously ask yourself: 'If I were in their exact situation, with their history, current stresses, and goals, how would I perceive this?' Actively seek out their viewpoint through open-ended questions and attentive listening, rather than assuming you already know. Validate their perspective by acknowledging it, even if you don't agree with it.",
+      "pitfalls": "Can be confused with agreement or condoning negative behavior; understanding a perspective doesn't mean accepting it as right. Over-identification can lead to emotional exhaustion or blurring of personal boundaries. It can also be difficult to accurately take another's perspective, as our own biases and limited information often lead to 'egocentric anchoring,' where we project our own thoughts onto others.",
+      "origin": "Robert Selman (1971) extensively studied social perspective-taking in children and adolescents."
+    },
+    {
       "id": "positive-illusions-in-relationships",
       "name": "Positive Illusions in Relationships",
       "category": "Relationships",
@@ -3789,12 +3807,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 218,
-    "generated": "2026-07-30",
+    "count": 219,
+    "generated": "2026-07-31",
     "lastAdded": {
-      "name": "Return on Time Invested (ROTI)",
-      "category": "Money & Time",
-      "date": "2026-07-30"
+      "name": "Perspective-Taking",
+      "category": "Relationships",
+      "date": "2026-07-31"
     }
   }
 }
