@@ -1736,6 +1736,23 @@
       "origin": "Tom DeMarco, 'Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency' (Broadway Books, 2001). Zvi Mowshowitz, 'Slack,' thezvi.wordpress.com (2017). Mathematical foundation: Agner Erlang's queueing theory (1909) and Kingman's formula."
     },
     {
+      "id": "the-seinfeld-strategy-dont-break-the-chain",
+      "name": "The Seinfeld Strategy (Don't Break the Chain)",
+      "category": "Productivity",
+      "tags": [
+        "habit formation",
+        "consistency",
+        "motivation",
+        "discipline"
+      ],
+      "oneLiner": "Build consistency by marking off each day you complete a task on a calendar, creating a visible chain you're motivated not to break.",
+      "description": "The Seinfeld Strategy, popularized by comedian Jerry Seinfeld, is a simple method for building habits and maintaining consistency. It involves using a calendar to visually track daily progress on a specific task. The goal is to create an unbroken 'chain' of completed days, which serves as a powerful motivator to continue the habit.",
+      "example": "An aspiring writer commits to writing 500 words every day. They hang a large calendar on their wall and, each evening after completing their writing, they mark an 'X' on that day. Seeing the growing chain of 'X's motivates them to keep writing daily, even when they don't feel like it, because they don't want to break the chain.",
+      "howToApply": "Choose one specific, recurring task you want to make a habit. Get a large, visible calendar (physical or digital). Each day you successfully complete the task, mark it with a clear 'X'. Focus on not breaking the chain of 'X's, prioritizing the streak over perfection in any single day's effort.",
+      "pitfalls": "This strategy can lead to 'streak mentality' where the focus shifts from the quality or purpose of the task to merely maintaining the streak, potentially causing burnout or a sense of failure if a day is missed. It also doesn't account for necessary breaks or unforeseen circumstances; missing a day can be demotivating if framed as 'breaking the chain' instead of a minor setback.",
+      "origin": "Jerry Seinfeld, as told to Brad Isaac (early 2000s)"
+    },
+    {
       "id": "time-blocking",
       "name": "Time Blocking",
       "category": "Productivity",
@@ -3807,12 +3824,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 219,
-    "generated": "2026-07-31",
+    "count": 220,
+    "generated": "2026-08-01",
     "lastAdded": {
-      "name": "Perspective-Taking",
-      "category": "Relationships",
-      "date": "2026-07-31"
+      "name": "The Seinfeld Strategy (Don't Break the Chain)",
+      "category": "Productivity",
+      "date": "2026-08-01"
     }
   }
 }
