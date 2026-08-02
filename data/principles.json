@@ -3669,6 +3669,24 @@
       "origin": "Institute of Medicine, *Dietary Reference Intakes for Water, Potassium, Sodium, Chloride, and Sulfate*, 2004; Heinz Valtin, 'Drink at least eight glasses of water a day. Really?' American Journal of Physiology, 2002."
     },
     {
+      "id": "ikigai",
+      "name": "Ikigai",
+      "category": "Health & Longevity",
+      "tags": [
+        "well-being",
+        "purpose",
+        "longevity",
+        "meaning",
+        "philosophy"
+      ],
+      "oneLiner": "The Japanese concept of finding your 'reason for being' by identifying the intersection of passion, mission, vocation, and profession, leading to a sense of purpose.",
+      "description": "Ikigai encourages deep reflection on one's life purpose, emphasizing a sense of meaning and satisfaction. It's often visualized as a Venn diagram, guiding individuals to identify a fulfilling path that integrates passion, mission, vocation, and profession. Cultivating Ikigai is linked to greater well-being, resilience, and longevity, particularly observed in Blue Zones. This sense of purpose provides a powerful intrinsic motivation to live a long and healthy life.",
+      "example": "A retired teacher volunteers at a local community center, sharing her knowledge (what she's good at) and passion for education (what she loves) to help children with their homework (what the world needs), finding deep satisfaction even without financial compensation. This activity embodies her Ikigai.",
+      "howToApply": "Reflect on four key questions: What do I love? What am I good at? What does the world need? What can I be paid for? Seek overlaps between these areas to identify potential paths or activities that bring a sense of purpose and fulfillment, even if not all four aspects are present simultaneously.",
+      "pitfalls": "The popular Venn diagram is a Western interpretation, not directly from traditional Japanese philosophy which emphasizes 'the happiness of always being busy.' Focusing solely on finding a single 'perfect' intersection can lead to paralysis by analysis or dissatisfaction if one aspect (e.g., financial compensation) is not met. It's often a dynamic, evolving process rather than a static discovery.",
+      "origin": "Japanese concept, popularized in the West by authors like Héctor García and Francesc Miralles (2016)."
+    },
+    {
       "id": "intermittent-fasting",
       "name": "Intermittent Fasting",
       "category": "Health & Longevity",
@@ -3824,12 +3842,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 220,
-    "generated": "2026-08-01",
+    "count": 221,
+    "generated": "2026-08-02",
     "lastAdded": {
-      "name": "The Seinfeld Strategy (Don't Break the Chain)",
-      "category": "Productivity",
-      "date": "2026-08-01"
+      "name": "Ikigai",
+      "category": "Health & Longevity",
+      "date": "2026-08-02"
     }
   }
 }
