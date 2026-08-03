@@ -2601,6 +2601,24 @@
       "origin": "Robin Dunbar, 'Neocortex size as a constraint on group size in primates,' Journal of Human Evolution (1992)."
     },
     {
+      "id": "emotional-contagion",
+      "name": "Emotional Contagion",
+      "category": "Social Dynamics",
+      "tags": [
+        "emotions",
+        "empathy",
+        "groups",
+        "influence",
+        "nonverbal"
+      ],
+      "oneLiner": "The unconscious tendency to mimic and synchronize with the emotions and expressions of others, leading to shared emotional states.",
+      "description": "Emotional contagion describes the automatic and often unconscious process where individuals \"catch\" the emotions of those around them. This happens through mimicry of facial expressions, vocalizations, and body language, which then triggers corresponding emotional states in the observer. It's a fundamental mechanism for empathy and social bonding, allowing for rapid transmission of feelings within groups.",
+      "example": "In a team meeting, if the leader enters with a visibly stressed and anxious demeanor, speaking rapidly and with a tense posture, team members may unconsciously begin to feel more stressed and anxious themselves, even if the topic is not inherently stressful. Conversely, a calm and positive leader can diffuse tension and foster a more relaxed atmosphere.",
+      "howToApply": "1. Be mindful of your own emotional state before entering social interactions, especially when leading or influencing. 2. Intentionally project desired emotions (e.g., calm, enthusiasm) through your nonverbal cues and tone of voice. 3. Observe others' nonverbal signals to gauge their emotional state and take a moment to regulate your own feelings to avoid inadvertently catching unwanted emotions.",
+      "pitfalls": "Uncritically absorbing negative emotions from others can lead to burnout or unnecessary distress. It can exacerbate groupthink or collective panic if strong negative emotions spread unchecked through a group. While it fosters empathy, it can also lead to misattributing the source of one's own feelings to the current situation rather than the contagion itself.",
+      "origin": "Elaine Hatfield, John Cacioppo, and Richard Rapson (1993) in \"Emotional Contagion.\""
+    },
+    {
       "id": "fundamental-attribution-error",
       "name": "Fundamental Attribution Error",
       "category": "Social Dynamics",
@@ -3842,12 +3860,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 221,
-    "generated": "2026-08-02",
+    "count": 222,
+    "generated": "2026-08-03",
     "lastAdded": {
-      "name": "Ikigai",
-      "category": "Health & Longevity",
-      "date": "2026-08-02"
+      "name": "Emotional Contagion",
+      "category": "Social Dynamics",
+      "date": "2026-08-03"
     }
   }
 }
