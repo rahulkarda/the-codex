@@ -1874,6 +1874,24 @@
       "origin": "James Clear, 'Atomic Habits' (2018), Chapters 6 & 12; Shawn Achor, 'The Happiness Advantage' (2010); Brian Wansink, 'Mindless Eating' (2006)."
     },
     {
+      "id": "fogg-behavior-model-b-map",
+      "name": "Fogg Behavior Model (B=MAP)",
+      "category": "Focus & Habits",
+      "tags": [
+        "behavior change",
+        "motivation",
+        "ability",
+        "prompts",
+        "habits"
+      ],
+      "oneLiner": "A model stating that behavior (B) occurs when motivation (M), ability (A), and a prompt (P) converge at the same moment.",
+      "description": "Developed by Stanford researcher B.J. Fogg, this model posits that for a target behavior to happen, an individual must have sufficient motivation, adequate ability to perform the behavior, and a timely prompt. If any one of these three elements is missing or too low, the behavior will not occur. It emphasizes that increasing ability (making it easier) is often more effective than trying to increase motivation.",
+      "example": "Someone wants to start flossing daily. Their motivation might be high (better dental health), but their ability is low if they don't have floss readily available or forget. A prompt could be placing the floss directly next to their toothbrush. If the floss is easy to use (high ability), and they are prompted, the behavior is more likely to occur, even with moderate motivation.",
+      "howToApply": "To initiate a new habit, first identify the target behavior. Then, analyze the three components: 1) Prompt: What will trigger this behavior? (e.g., an alarm, an existing habit). 2) Ability: How can you make this behavior as easy as possible? (e.g., reduce steps, acquire necessary tools). 3) Motivation: Is your motivation high enough for the current difficulty? If not, make the behavior even easier rather than trying to force more motivation.",
+      "pitfalls": "Overemphasis on motivation can lead to burnout if the behavior is too difficult. Neglecting any one of the three components will prevent the behavior from forming. The model is a framework for understanding, not a guaranteed solution; individual differences in motivation and perceived ability still play a significant role. It primarily focuses on initiating behavior, less on sustaining it long-term without continuous prompts or intrinsic motivation development.",
+      "origin": "B.J. Fogg, 2009"
+    },
+    {
       "id": "habit-loop-cue-routine-reward",
       "name": "Habit Loop (Cue-Routine-Reward)",
       "category": "Focus & Habits",
@@ -3860,12 +3878,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 222,
-    "generated": "2026-08-03",
+    "count": 223,
+    "generated": "2026-08-04",
     "lastAdded": {
-      "name": "Emotional Contagion",
-      "category": "Social Dynamics",
-      "date": "2026-08-03"
+      "name": "Fogg Behavior Model (B=MAP)",
+      "category": "Focus & Habits",
+      "date": "2026-08-04"
     }
   }
 }
