@@ -2184,6 +2184,23 @@
       "origin": "Shea & Morgan (Journal of Experimental Psychology, 1979) on motor skills; extended to academic learning by Rohrer & Taylor (Instructional Science, 2007) and Doug Rohrer's subsequent math studies."
     },
     {
+      "id": "levels-of-processing-effect",
+      "name": "Levels of Processing Effect",
+      "category": "Learning",
+      "tags": [
+        "memory",
+        "cognitive psychology",
+        "encoding",
+        "learning strategies"
+      ],
+      "oneLiner": "Information processed more deeply (semantically) is remembered better than information processed superficially (structurally or phonemically).",
+      "description": "This principle posits that the depth at which information is processed during encoding affects its memorability. Deeper processing involves semantic analysis and relating new information to existing knowledge, leading to more durable and accessible memories compared to shallow processing, which focuses on surface features like appearance or sound.",
+      "example": "When learning a new vocabulary word, simply reading it aloud (shallow processing) is less effective than using it in a meaningful sentence or relating it to a personal experience (deep processing). The latter creates richer, more interconnected memory traces.",
+      "howToApply": "Instead of rote memorization, actively engage with new material by asking 'why' questions, explaining concepts in your own words, drawing connections to prior knowledge, and generating examples. Focus on understanding the meaning and implications rather than just surface features.",
+      "pitfalls": "While robust, 'depth' can be hard to define objectively, and the effect isn't always linear or perfectly predictable across all tasks. Some studies suggest that the match between encoding and retrieval processes (transfer-appropriate processing) can sometimes outweigh depth, meaning shallowly processed info might be remembered better if the test also requires shallow processing.",
+      "origin": "Craik, F. I. M., & Lockhart, R. S. (1972). Levels of processing: A framework for memory research."
+    },
+    {
       "id": "metacognition",
       "name": "Metacognition",
       "category": "Learning",
@@ -3878,12 +3895,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 223,
-    "generated": "2026-08-04",
+    "count": 224,
+    "generated": "2026-08-05",
     "lastAdded": {
-      "name": "Fogg Behavior Model (B=MAP)",
-      "category": "Focus & Habits",
-      "date": "2026-08-04"
+      "name": "Levels of Processing Effect",
+      "category": "Learning",
+      "date": "2026-08-05"
     }
   }
 }
