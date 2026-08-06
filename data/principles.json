@@ -1250,6 +1250,24 @@
       "origin": "Robert K. Merton, 'The Self-Fulfilling Prophecy,' Antioch Review, 1948; concept rooted in W.I. Thomas's 1928 'Thomas theorem'."
     },
     {
+      "id": "self-serving-bias",
+      "name": "Self-Serving Bias",
+      "category": "Psychology Effect",
+      "tags": [
+        "attribution",
+        "bias",
+        "self-perception",
+        "motivation",
+        "ego"
+      ],
+      "oneLiner": "The tendency to attribute positive outcomes to one's own character or effort and negative outcomes to external factors.",
+      "description": "This cognitive bias protects self-esteem by allowing individuals to take credit for successes while deflecting blame for failures. It's a pervasive human tendency that influences how we interpret events and information related to ourselves. While often unconscious, it serves a psychological function in maintaining a positive self-image.",
+      "example": "A student gets an A on an exam and attributes it to their intelligence and hard work. If they fail the next exam, they might blame the professor's unfair grading, a noisy study environment, or tricky questions.",
+      "howToApply": "1. Practice Self-Awareness: Actively question your attributions for successes and failures, considering if you're being overly generous with yourself. 2. Seek External Feedback: Ask trusted colleagues or friends for their perspective on situations where you're prone to this bias, especially after failures. 3. Focus on Controllable Factors: When evaluating failures, concentrate on what you could have done differently, even if external factors played a role, to foster growth.",
+      "pitfalls": "1. Hindered Learning: Consistently blaming external factors prevents learning from mistakes and improving performance. 2. Damaged Relationships: In team settings or personal relationships, this bias can lead to unfair blame distribution, causing resentment and conflict. 3. Overconfidence: An inflated sense of one's own capabilities due to always taking credit for successes can lead to unrealistic expectations and poor decision-making.",
+      "origin": "Miller & Ross (1975) are often cited for seminal work on the self-serving bias, though earlier work by Heider (1958) on attribution theory laid the groundwork."
+    },
+    {
       "id": "single-tasking-anti-multitasking",
       "name": "Single-Tasking (Anti-Multitasking)",
       "category": "Psychology Effect",
@@ -3895,12 +3913,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 224,
-    "generated": "2026-08-05",
+    "count": 225,
+    "generated": "2026-08-06",
     "lastAdded": {
-      "name": "Levels of Processing Effect",
-      "category": "Learning",
-      "date": "2026-08-05"
+      "name": "Self-Serving Bias",
+      "category": "Psychology Effect",
+      "date": "2026-08-06"
     }
   }
 }
