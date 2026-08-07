@@ -2323,6 +2323,24 @@
       "origin": "Edward Thorndike and Robert Woodworth (1901) conducted pioneering research on \"transfer of training,\" particularly their theory of identical elements."
     },
     {
+      "id": "zone-of-proximal-development-zpd",
+      "name": "Zone of Proximal Development (ZPD)",
+      "category": "Learning",
+      "tags": [
+        "learning",
+        "development",
+        "education",
+        "scaffolding",
+        "vygotsky"
+      ],
+      "oneLiner": "The sweet spot where a learner can achieve more with guidance than alone, facilitating optimal learning and skill acquisition.",
+      "description": "The Zone of Proximal Development (ZPD) describes the difference between what a learner can do without help and what they can achieve with the support of a more knowledgeable other. It's the optimal learning space where new concepts are challenging but not impossible, requiring scaffolding to bridge the gap. Learning within the ZPD maximizes engagement and skill development by providing just enough assistance. It emphasizes the social and collaborative nature of learning.",
+      "example": "A child learning to ride a bike. Initially, they might struggle to balance and pedal simultaneously. A parent holding the back of the seat provides scaffolding, allowing the child to practice pedaling and steering without falling. As the child gains confidence and skill, the parent gradually lessens their grip, eventually letting go completely when the child can ride independently.",
+      "howToApply": "1. Assess Current Ability: Identify what the learner can do independently. 2. Identify Next Challenge: Determine tasks slightly beyond their current independent capability. 3. Provide Scaffolding: Offer targeted support (hints, demonstrations, partial solutions, breaking down tasks) that allows them to succeed. 4. Gradually Withdraw Support: As the learner progresses, slowly reduce assistance, empowering them towards independent mastery.",
+      "pitfalls": "Presenting tasks too far outside the ZPD leads to frustration and disengagement. Conversely, offering tasks that are too easy or providing excessive scaffolding for simple tasks hinders genuine learning and independence. Over-scaffolding can prevent learners from developing critical problem-solving skills and self-reliance. Underestimating a learner's prior knowledge can also be demotivating.",
+      "origin": "Lev Vygotsky, 1978 (conceptualized in the 1930s, published posthumously in English)"
+    },
+    {
       "id": "active-listening",
       "name": "Active Listening",
       "category": "Communication",
@@ -3913,12 +3931,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 225,
-    "generated": "2026-08-06",
+    "count": 226,
+    "generated": "2026-08-07",
     "lastAdded": {
-      "name": "Self-Serving Bias",
-      "category": "Psychology Effect",
-      "date": "2026-08-06"
+      "name": "Zone of Proximal Development (ZPD)",
+      "category": "Learning",
+      "date": "2026-08-07"
     }
   }
 }
