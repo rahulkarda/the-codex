@@ -1046,6 +1046,24 @@
       "origin": "Benjamin Franklin's autobiography (c. 1791); experimentally tested by Jon Jecker and David Landy, Human Relations (1969)."
     },
     {
+      "id": "cognitive-dissonance",
+      "name": "Cognitive Dissonance",
+      "category": "Psychology Effect",
+      "tags": [
+        "cognition",
+        "bias",
+        "motivation",
+        "consistency",
+        "self-perception"
+      ],
+      "oneLiner": "The discomfort experienced when holding conflicting beliefs, attitudes, or behaviors, motivating a change to reduce the inconsistency.",
+      "description": "Cognitive dissonance arises from a psychological tension when an individual simultaneously holds two or more contradictory cognitions (ideas, beliefs, values, or emotional reactions). This discomfort motivates the person to reduce the dissonance, often by changing one of the conflicting cognitions, adding new ones, or altering the perceived importance of the inconsistency. It explains why people rationalize their choices and beliefs, even when evidence contradicts them. This effect is a fundamental aspect of human motivation and decision-making.",
+      "example": "Someone who believes in environmental protection (cognition 1) buys a gas-guzzling SUV (behavior/cognition 2). To reduce dissonance, they might rationalize their purchase by saying 'I need a big car for safety' or 'one SUV won't make a difference,' or they might start recycling more diligently to compensate.",
+      "howToApply": "Recognize when you or others are rationalizing or defending inconsistent actions/beliefs; this indicates dissonance. To resolve it, consciously re-evaluate the conflicting elements, seeking to align actions with values or adjust values based on new information, rather than just dismissing discomfort. Embrace the discomfort as a signal for potential growth or necessary change.",
+      "pitfalls": "Can lead to self-deception and resistance to new information, as people prefer to maintain internal consistency rather than face uncomfortable truths. It's often exploited in persuasion, where small commitments are leveraged to create dissonance, leading to larger changes. Be wary of justifying poor decisions simply to reduce the psychological discomfort.",
+      "origin": "Leon Festinger, 1957"
+    },
+    {
       "id": "ego-depletion",
       "name": "Ego Depletion",
       "category": "Psychology Effect",
@@ -3931,12 +3949,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 226,
-    "generated": "2026-08-07",
+    "count": 227,
+    "generated": "2026-08-08",
     "lastAdded": {
-      "name": "Zone of Proximal Development (ZPD)",
-      "category": "Learning",
-      "date": "2026-08-07"
+      "name": "Cognitive Dissonance",
+      "category": "Psychology Effect",
+      "date": "2026-08-08"
     }
   }
 }
