@@ -3354,6 +3354,24 @@
       "origin": "Coined by financial author David Bach in the late 1990s, popularized in 'Smart Women Finish Rich' (1999) and 'The Latte Factor' (2019)."
     },
     {
+      "id": "time-affluence",
+      "name": "Time Affluence",
+      "category": "Money & Time",
+      "tags": [
+        "time management",
+        "well-being",
+        "mindset",
+        "productivity",
+        "psychology"
+      ],
+      "oneLiner": "The subjective feeling of having sufficient discretionary time, distinct from actual hours, influencing well-being and decision-making.",
+      "description": "Time affluence describes the psychological state where individuals perceive they have enough time for their desired activities, free from the constant pressure of scarcity. It's not merely about the quantity of free hours but the quality and control over one's time, leading to greater life satisfaction and reduced stress. This feeling can be influenced by how one structures their life and allocates resources, including money.",
+      "example": "Sarah, a freelance graphic designer, earns a good income but constantly feels rushed and stressed. She spends her money on convenience (eating out, cleaning services) but still works long hours. Mark, a former colleague, earns slightly less but intentionally structures his workweek to have Fridays off, even if it means slightly less income. Mark experiences higher time affluence because he feels more in control and less rushed, despite potentially having less raw 'free time' during the week.",
+      "howToApply": "1. Audit your time: Track how you spend your time for a week, identifying activities that drain or energize you. 2. Prioritize discretionary time: Actively schedule 'free time' or buffer periods into your calendar as non-negotiables. 3. Automate or outsource low-value tasks: Use money strategically to free up time for high-value activities (e.g., automated bill payments, grocery delivery). 4. Practice saying 'no': Protect your time from commitments that don't align with your priorities or contribute to your sense of control. 5. Re-evaluate 'busyness' as a status symbol: Challenge the societal pressure to constantly be busy and instead value thoughtful allocation of time.",
+      "pitfalls": "Confusing quantity with quality: Simply having more free hours doesn't guarantee time affluence if those hours are filled with guilt, indecision, or low-value activities. Over-optimization leading to stress: Trying too hard to 'optimize' every minute can ironically lead to more stress and a feeling of time pressure. Ignoring financial realities: For those in genuine financial hardship, time affluence can be a luxury, as time is often traded directly for survival. Lifestyle creep in time: As with money, one can adapt to having more free time and still feel 'time poor' if expectations for leisure or productivity increase.",
+      "origin": "Juliet Schor (1992), further developed by behavioral economists like Mogilner, Chance, & Norton."
+    },
+    {
       "id": "time-confetti",
       "name": "Time Confetti",
       "category": "Money & Time",
@@ -3949,12 +3967,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 227,
-    "generated": "2026-08-08",
+    "count": 228,
+    "generated": "2026-08-09",
     "lastAdded": {
-      "name": "Cognitive Dissonance",
-      "category": "Psychology Effect",
-      "date": "2026-08-08"
+      "name": "Time Affluence",
+      "category": "Money & Time",
+      "date": "2026-08-09"
     }
   }
 }
