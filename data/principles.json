@@ -3145,6 +3145,24 @@
       "origin": "Irwin Altman and Dalmas Taylor, 1973"
     },
     {
+      "id": "triangular-theory-of-love",
+      "name": "Triangular Theory of Love",
+      "category": "Relationships",
+      "tags": [
+        "love",
+        "intimacy",
+        "commitment",
+        "passion",
+        "relationships"
+      ],
+      "oneLiner": "Robert Sternberg's theory posits that love comprises three components—intimacy, passion, and commitment—which combine to form different types of love.",
+      "description": "This theory describes love as a dynamic interplay of three elements: Intimacy (feelings of closeness, connectedness, and bondedness), Passion (drives that lead to romance, physical attraction, and sexual consummation), and Commitment (the decision to love someone and maintain that love). The absence or presence and strength of these components determine the type of love experienced, ranging from liking to consummate love. Understanding these components helps analyze and navigate the complexities of romantic relationships.",
+      "example": "A couple who have been married for 50 years might exhibit high intimacy and commitment but lower passion, representing companionate love. Conversely, a whirlwind romance filled with intense physical attraction but lacking deep connection or long-term plans would be infatuated love (high passion, low intimacy/commitment).",
+      "howToApply": "Reflect on your own relationships, identifying the relative strengths of intimacy, passion, and commitment within them. To strengthen a relationship, consciously cultivate the missing or weaker components; for instance, increase intimacy through shared vulnerability, rekindle passion through novel experiences, and reinforce commitment through explicit declarations and future planning.",
+      "pitfalls": "The theory is a descriptive model, not a prescriptive guide for 'perfect' love, and the ideal balance can vary between individuals and relationship stages. It can oversimplify the complex, evolving nature of human connection, and focusing too rigidly on 'scoring' components might detract from organic relationship growth. It also doesn't explicitly account for external factors like life stress or individual differences in love expression.",
+      "origin": "Robert J. Sternberg, 1986."
+    },
+    {
       "id": "compound-interest",
       "name": "Compound Interest",
       "category": "Money & Time",
@@ -3967,12 +3985,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 228,
-    "generated": "2026-08-09",
+    "count": 229,
+    "generated": "2026-08-10",
     "lastAdded": {
-      "name": "Time Affluence",
-      "category": "Money & Time",
-      "date": "2026-08-09"
+      "name": "Triangular Theory of Love",
+      "category": "Relationships",
+      "date": "2026-08-10"
     }
   }
 }
