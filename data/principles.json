@@ -2831,6 +2831,24 @@
       "origin": "Holt-Lunstad, Smith & Layton, PLOS Medicine, 2010; Harvard Study of Adult Development, founded 1938 (Glueck/Grant studies), now directed by Robert Waldinger; Dan Buettner, *The Blue Zones*, 2008."
     },
     {
+      "id": "social-identity-theory",
+      "name": "Social Identity Theory",
+      "category": "Social Dynamics",
+      "tags": [
+        "social psychology",
+        "group dynamics",
+        "identity",
+        "bias",
+        "intergroup relations"
+      ],
+      "oneLiner": "People derive self-esteem and identity from their group memberships, leading to in-group favoritism and out-group derogation.",
+      "description": "This theory posits that individuals categorize themselves and others into social groups, and their self-concept is partly defined by these group affiliations. To enhance self-esteem, people strive to achieve or maintain a positive social identity, often by favoring their own group (in-group) and sometimes disparaging other groups (out-groups). This process can explain various intergroup phenomena, from cooperation to conflict.",
+      "example": "During a major sporting event, fans of one team (the in-group) often exhibit strong loyalty, wear team colors, and celebrate victories intensely, while simultaneously expressing negative opinions or jeering at the opposing team (the out-group), even if they have no personal animosity towards individual players or fans.",
+      "howToApply": "1. Recognize when group identities are salient in a situation. 2. Highlight superordinate goals that require cooperation across existing group boundaries to reduce intergroup bias. 3. Foster diverse group memberships for individuals, allowing them to identify with multiple groups and reduce exclusive in-group focus. 4. Challenge negative stereotypes associated with out-groups by promoting intergroup contact under favorable conditions.",
+      "pitfalls": "Over-reliance on group identity can lead to extreme tribalism, prejudice, and discrimination, potentially escalating into conflict. While useful for understanding group dynamics, it doesn't fully account for individual differences in susceptibility to group influence or the nuances of personal identity. Critics also note that some aspects, particularly the direct link between social identity and self-esteem, have mixed empirical support.",
+      "origin": "Henri Tajfel and John Turner, 1979"
+    },
+    {
       "id": "social-loafing",
       "name": "Social Loafing",
       "category": "Social Dynamics",
@@ -3985,12 +4003,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 229,
-    "generated": "2026-08-10",
+    "count": 230,
+    "generated": "2026-08-11",
     "lastAdded": {
-      "name": "Triangular Theory of Love",
-      "category": "Relationships",
-      "date": "2026-08-10"
+      "name": "Social Identity Theory",
+      "category": "Social Dynamics",
+      "date": "2026-08-11"
     }
   }
 }
