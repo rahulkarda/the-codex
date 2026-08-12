@@ -2517,6 +2517,24 @@
       "origin": "Joseph Luft and Harry Ingham, 1955"
     },
     {
+      "id": "meta-communication",
+      "name": "Meta-communication",
+      "category": "Communication",
+      "tags": [
+        "interpersonal",
+        "conflict resolution",
+        "clarity",
+        "relationships",
+        "feedback"
+      ],
+      "oneLiner": "Talking about how we're talking; it's communication about the communication process itself, clarifying intentions, rules, and relationship dynamics.",
+      "description": "Meta-communication involves discussing the underlying context, intent, or style of a conversation rather than just its content. It helps clarify unspoken rules, assumptions, and emotional states that influence interactions. By stepping outside the immediate topic, participants can address misunderstandings and improve the effectiveness of their exchange.",
+      "example": "During a heated discussion about household chores, one partner says, \"It feels like we're both just trying to win this argument instead of finding a solution. Can we pause and talk about how we're approaching this?\" This shifts the focus from the chore list to the communication dynamic itself.",
+      "howToApply": "When a conversation feels stuck, tense, or confusing, explicitly state your observations about the communication process. Use \"I\" statements to describe your feelings or perceptions, e.g., \"I feel like we're talking past each other,\" or \"My intention was X, but it seems to be coming across as Y.\" Ask clarifying questions about the other person's intent or their perception of the interaction.",
+      "pitfalls": "Can be perceived as avoiding the original topic if not framed carefully. Overuse can lead to excessive self-consciousness or analysis paralysis in communication. It requires a certain level of trust and psychological safety; in low-trust environments, meta-communication attempts might be dismissed or seen as manipulative.",
+      "origin": "Gregory Bateson, 1950s"
+    },
+    {
       "id": "nonviolent-communication-nvc",
       "name": "Nonviolent Communication (NVC)",
       "category": "Communication",
@@ -4003,12 +4021,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 230,
-    "generated": "2026-08-11",
+    "count": 231,
+    "generated": "2026-08-12",
     "lastAdded": {
-      "name": "Social Identity Theory",
-      "category": "Social Dynamics",
-      "date": "2026-08-11"
+      "name": "Meta-communication",
+      "category": "Communication",
+      "date": "2026-08-12"
     }
   }
 }
