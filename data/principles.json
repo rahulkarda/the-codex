@@ -1703,6 +1703,24 @@
       "origin": "Term popularized in design and engineering contexts; often attributed to human factors engineering and Don Norman's 'The Design of Everyday Things' (1988), though the concept of pre-commitment devices has ancient roots."
     },
     {
+      "id": "getting-things-done-gtd",
+      "name": "Getting Things Done (GTD)",
+      "category": "Productivity",
+      "tags": [
+        "task management",
+        "organization",
+        "workflow",
+        "mindfulness",
+        "stress reduction"
+      ],
+      "oneLiner": "A comprehensive personal productivity system for capturing, clarifying, organizing, reflecting on, and engaging with all commitments and information.",
+      "description": "GTD advocates for offloading all open loops from one's mind into an external, trusted system. This reduces mental clutter, allowing for focused work and clear decision-making about what to do next. The methodology involves five key steps: Capture, Clarify, Organize, Reflect, and Engage. By regularly processing inputs and reviewing commitments, individuals maintain a sense of control and clarity.",
+      "example": "A consultant feels overwhelmed by emails, project tasks, and personal to-dos. They implement GTD by first capturing everything into an inbox. Then, they clarify each item's nature and next action, organize them into relevant lists (e.g., 'calls,' 'errands,' 'waiting for'), and regularly review these lists to choose what to engage with based on context and energy.",
+      "howToApply": "1. **Capture:** Collect all ideas, tasks, and commitments into a single inbox. 2. **Clarify:** For each item, determine if it's actionable; if so, define the 'next action' and desired outcome. 3. **Organize:** Place actionable items into project lists or context-based lists (e.g., @office, @home, @calls). Non-actionable items are trashed, archived, or put into a 'someday/maybe' list. 4. **Reflect:** Conduct weekly reviews to update lists, clear the inbox, and ensure alignment with goals. 5. **Engage:** Choose the most appropriate next action based on context, time available, energy levels, and priority.",
+      "pitfalls": "GTD can be complex and time-consuming to set up and maintain, leading to 'tool paralysis' or abandonment. Over-optimization of the system itself can become a distraction from actual work. It primarily focuses on managing existing commitments rather than strategic goal setting or prioritizing what *not* to do, which can still lead to an overloaded system if not combined with other prioritization methods.",
+      "origin": "David Allen, 2001"
+    },
+    {
       "id": "ivy-lee-method",
       "name": "Ivy Lee Method",
       "category": "Productivity",
@@ -4021,12 +4039,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 231,
-    "generated": "2026-08-12",
+    "count": 232,
+    "generated": "2026-08-13",
     "lastAdded": {
-      "name": "Meta-communication",
-      "category": "Communication",
-      "date": "2026-08-12"
+      "name": "Getting Things Done (GTD)",
+      "category": "Productivity",
+      "date": "2026-08-13"
     }
   }
 }
