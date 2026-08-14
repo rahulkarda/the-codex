@@ -1946,6 +1946,24 @@
       "origin": "B.J. Fogg, 2009"
     },
     {
+      "id": "goal-setting-theory",
+      "name": "Goal Setting Theory",
+      "category": "Focus & Habits",
+      "tags": [
+        "motivation",
+        "goals",
+        "productivity",
+        "performance",
+        "psychology"
+      ],
+      "oneLiner": "Setting specific, measurable, achievable, relevant, and time-bound (SMART) goals significantly enhances task performance and motivation.",
+      "description": "This theory posits that specific and challenging goals, coupled with appropriate feedback, lead to higher performance than vague or easy goals. It suggests that goals direct attention, mobilize effort, increase persistence, and encourage the development of task-relevant strategies. The clarity and difficulty of goals are key drivers of motivation and achievement.",
+      "example": "A software developer aims to \"reduce bug reports by 15% for module X by the end of the quarter\" instead of \"write better code.\" This specific goal provides a clear target, allows for measurement, and directs their efforts towards specific improvements.",
+      "howToApply": "When undertaking a task or project, define your objective using the SMART criteria: make it Specific, Measurable, Achievable, Relevant, and Time-bound. Regularly review progress towards your goals and adjust strategies as needed, ensuring feedback loops are in place. Break down large goals into smaller, manageable sub-goals to maintain momentum and track progress.",
+      "pitfalls": "Overly challenging goals can lead to demotivation or unethical behavior if resources are insufficient or the pressure is too high. Focusing solely on outcome goals can neglect process goals, which are crucial for skill development. Furthermore, external goal setting without internal buy-in can reduce intrinsic motivation.",
+      "origin": "Edwin A. Locke and Gary P. Latham, 1968"
+    },
+    {
       "id": "habit-loop-cue-routine-reward",
       "name": "Habit Loop (Cue-Routine-Reward)",
       "category": "Focus & Habits",
@@ -4039,12 +4057,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 232,
-    "generated": "2026-08-13",
+    "count": 233,
+    "generated": "2026-08-14",
     "lastAdded": {
-      "name": "Getting Things Done (GTD)",
-      "category": "Productivity",
-      "date": "2026-08-13"
+      "name": "Goal Setting Theory",
+      "category": "Focus & Habits",
+      "date": "2026-08-14"
     }
   }
 }
