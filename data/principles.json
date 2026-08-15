@@ -1479,6 +1479,24 @@
       "origin": "Epictetus (c. 50–135 CE)"
     },
     {
+      "id": "prosoche-stoic-attention",
+      "name": "Prosoche (Stoic Attention)",
+      "category": "Philosophy & Stoicism",
+      "tags": [
+        "stoicism",
+        "attention",
+        "mindfulness",
+        "self-awareness",
+        "presence"
+      ],
+      "oneLiner": "The continuous, vigilant attention to one's own thoughts, judgments, and actions to ensure they align with reason and virtue.",
+      "description": "Prosoche is the fundamental Stoic practice of constant self-awareness and self-scrutiny. It involves maintaining a watchful guard over one's inner state, particularly one's impressions and assent to them, to prevent unreasoned judgments and emotional reactions. This sustained attention allows one to live in accordance with nature and exercise one's faculty of choice virtuously. It is the bedrock for applying all other Stoic principles.",
+      "example": "Before reacting angrily to a colleague's critical email, a practitioner of Prosoche pauses. They observe their rising irritation, question the impression that the email is an attack, and choose to formulate a calm, rational response instead of an impulsive, emotional one, thus aligning their action with their values of professionalism and fairness.",
+      "howToApply": "1. Daily Reflection: Begin and end each day by reviewing your impressions, judgments, and actions, identifying instances where you lost vigilance and how you could have responded differently.\n2. Momentary Pauses: Throughout the day, practice short 'check-ins' where you pause, observe your current thoughts and feelings, and ask if your present state aligns with your reasoned principles.\n3. Pre-meditation: Before engaging in potentially challenging situations, mentally rehearse maintaining your attention and responding virtuously, anticipating common triggers for unreasoned reactions.",
+      "pitfalls": "Over-analysis leading to paralysis: Excessive introspection without action can lead to indecision or anxiety rather than virtuous living. Self-criticism, not self-correction: Focusing solely on past mistakes without learning and moving forward can foster guilt rather than growth. Confusing with passive observation: Prosoche is an active, evaluative process, not merely observing thoughts without judgment, as in some forms of mindfulness, but demands a moral assessment.",
+      "origin": "Epictetus, Discourses (c. 108 AD)"
+    },
+    {
       "id": "the-obstacle-is-the-way",
       "name": "The Obstacle Is the Way",
       "category": "Philosophy & Stoicism",
@@ -4057,12 +4075,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 233,
-    "generated": "2026-08-14",
+    "count": 234,
+    "generated": "2026-08-15",
     "lastAdded": {
-      "name": "Goal Setting Theory",
-      "category": "Focus & Habits",
-      "date": "2026-08-14"
+      "name": "Prosoche (Stoic Attention)",
+      "category": "Philosophy & Stoicism",
+      "date": "2026-08-15"
     }
   }
 }
