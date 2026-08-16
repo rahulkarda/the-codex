@@ -3867,6 +3867,24 @@
       "origin": "Paluch, Bajpai, Bassett et al., Lancet Public Health, 2022; the 10,000-step myth traces to Yamasa's 1965 Manpo-kei pedometer."
     },
     {
+      "id": "general-adaptation-syndrome-gas",
+      "name": "General Adaptation Syndrome (GAS)",
+      "category": "Health & Longevity",
+      "tags": [
+        "stress",
+        "adaptation",
+        "physiology",
+        "resilience",
+        "health"
+      ],
+      "oneLiner": "Describes the body's three-stage physiological response to stress: alarm, resistance, and exhaustion, impacting health and longevity.",
+      "description": "Proposed by Hans Selye, GAS outlines how the body reacts to any stressor, whether physical or psychological. The initial \"alarm reaction\" triggers fight-or-flight, followed by a \"stage of resistance\" where the body attempts to cope and adapt. If the stressor persists, the \"stage of exhaustion\" ensues, leading to depleted resources, reduced immunity, and increased vulnerability to illness.",
+      "example": "A student facing intense exam pressure initially experiences an alarm reaction (increased heart rate, anxiety). They then enter resistance, studying hard and managing stress, perhaps pulling all-nighters. If this high-stress period continues for weeks without adequate recovery, they may reach exhaustion, manifesting as burnout, frequent colds, or chronic fatigue.",
+      "howToApply": "1. Identify chronic stressors in your life and categorize them (physical, mental, emotional). 2. Prioritize recovery and stress reduction techniques during the resistance phase to prevent exhaustion. This includes adequate sleep, nutrition, exercise, and mindfulness. 3. Actively remove or mitigate persistent stressors that cannot be adapted to, recognizing that prolonged resistance is unsustainable.",
+      "pitfalls": "Oversimplification: GAS is a general model; individual responses to stress vary greatly based on genetics, coping mechanisms, and perceived control. Ignoring positive stress: While GAS primarily focuses on negative outcomes of chronic stress, not all stress is detrimental; eustress (positive stress) can be motivating and growth-promoting. Blaming the individual: The model can sometimes imply that exhaustion is solely due to an individual's failure to adapt, overlooking systemic stressors or lack of resources.",
+      "origin": "Hans Selye, 1936"
+    },
+    {
       "id": "gut-microbiome-health",
       "name": "Gut Microbiome Health",
       "category": "Health & Longevity",
@@ -4075,12 +4093,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 234,
-    "generated": "2026-08-15",
+    "count": 235,
+    "generated": "2026-08-16",
     "lastAdded": {
-      "name": "Prosoche (Stoic Attention)",
-      "category": "Philosophy & Stoicism",
-      "date": "2026-08-15"
+      "name": "General Adaptation Syndrome (GAS)",
+      "category": "Health & Longevity",
+      "date": "2026-08-16"
     }
   }
 }
