@@ -3725,6 +3725,24 @@
       "origin": "Kenneth Arrow (1963); formalized by Michael Jensen and William Meckling, 'Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure,' Journal of Financial Economics (1976)."
     },
     {
+      "id": "prospect-theory",
+      "name": "Prospect Theory",
+      "category": "Economics & Incentives",
+      "tags": [
+        "behavioral economics",
+        "decision making",
+        "risk",
+        "psychology",
+        "bias"
+      ],
+      "oneLiner": "Describes how individuals make decisions under risk and uncertainty, positing that people evaluate potential outcomes relative to a reference point, showing loss aversion and diminishing sensitivity.",
+      "description": "Prospect Theory, developed by Kahneman and Tversky, challenges expected utility theory by demonstrating that people assess gains and losses differently. It posits that individuals are more sensitive to losses than equivalent gains (loss aversion) and that the psychological impact of additional gains or losses diminishes as their magnitude increases (diminishing sensitivity). Decisions are made based on the potential value of losses and gains rather than the final outcome.",
+      "example": "An investor who bought a stock at $100 is more upset when it drops to $90 (a $10 loss) than they are happy when it rises to $110 (a $10 gain). They might hold onto a losing stock longer, hoping it recovers to their original purchase price (their reference point), even if objective analysis suggests selling.",
+      "howToApply": "1. Identify your reference points: Understand what baseline you're comparing outcomes against, as this heavily influences your perception of gains and losses. 2. Frame choices carefully: Present options in terms of gains to encourage adoption, or highlight potential losses to deter undesirable behavior. 3. Mitigate loss aversion: When considering a decision, consciously reframe potential losses as simply smaller gains or opportunity costs to reduce emotional bias. 4. Bundle losses, separate gains: Present multiple losses as a single event to soften the blow, but present multiple gains separately to maximize perceived positive impact.",
+      "pitfalls": "The principles can be used unethically to frame options in ways that exploit cognitive biases rather than inform rational decisions. Real-world decision-making is complex and influenced by many factors beyond just gains and losses, such as social context and personal values. The reference point can shift, making predictions difficult; what's a gain today might be a loss tomorrow if expectations change. While the core tenets (loss aversion, diminishing sensitivity) are robust, some specific applications or nuances might have weaker empirical support across all contexts.",
+      "origin": "Daniel Kahneman and Amos Tversky, 1979"
+    },
+    {
       "id": "signaling-theory",
       "name": "Signaling Theory",
       "category": "Economics & Incentives",
@@ -4093,12 +4111,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 235,
-    "generated": "2026-08-16",
+    "count": 236,
+    "generated": "2026-08-17",
     "lastAdded": {
-      "name": "General Adaptation Syndrome (GAS)",
-      "category": "Health & Longevity",
-      "date": "2026-08-16"
+      "name": "Prospect Theory",
+      "category": "Economics & Incentives",
+      "date": "2026-08-17"
     }
   }
 }
