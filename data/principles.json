@@ -2693,6 +2693,24 @@
       "origin": "Friedemann Schulz von Thun, 1981"
     },
     {
+      "id": "authority-principle",
+      "name": "Authority Principle",
+      "category": "Social Dynamics",
+      "tags": [
+        "social influence",
+        "persuasion",
+        "obedience",
+        "hierarchy",
+        "psychology"
+      ],
+      "oneLiner": "People tend to comply with requests or advice from perceived authority figures, often regardless of the content of the request.",
+      "description": "This principle describes the human tendency to defer to individuals or symbols of authority, such as titles, uniforms, or expert credentials. It's a heuristic that helps us navigate complex social structures and make decisions efficiently, assuming authorities possess superior knowledge or legitimate power. However, this deference can lead to uncritical obedience, even when actions are questionable or unethical.",
+      "example": "In the Milgram experiment, participants administered what they believed were painful electric shocks to a learner when instructed by an experimenter in a lab coat, demonstrating extreme obedience to perceived authority. In everyday life, people often follow medical advice from doctors without much question or trust financial advice from a certified expert.",
+      "howToApply": "When seeking compliance, clearly display relevant credentials, experience, or symbols of authority if genuinely possessed. When evaluating information or requests, consciously question the basis of authority rather than blindly accepting it; ask: 'Is this person truly an expert in this specific domain and is their advice relevant?' For leaders, establish legitimate authority through demonstrated competence, integrity, and clear communication, not just position.",
+      "pitfalls": "Blind obedience to authority can lead to unethical actions, poor decisions, and a lack of critical thinking, as demonstrated by historical events and psychological experiments. The perceived authority might be illegitimate, irrelevant, or manipulated through superficial cues (e.g., expensive suits, jargon without substance). While Milgram's full shock levels are ethically difficult to replicate, similar effects in modified paradigms persist.",
+      "origin": "Stanley Milgram (1963) famously demonstrated obedience to authority; Robert Cialdini later popularized it as a principle of persuasion (1984)."
+    },
+    {
       "id": "bandwagon-effect-social-proof",
       "name": "Bandwagon Effect (Social Proof)",
       "category": "Social Dynamics",
@@ -4111,12 +4129,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 236,
-    "generated": "2026-08-17",
+    "count": 237,
+    "generated": "2026-08-18",
     "lastAdded": {
-      "name": "Prospect Theory",
-      "category": "Economics & Incentives",
-      "date": "2026-08-17"
+      "name": "Authority Principle",
+      "category": "Social Dynamics",
+      "date": "2026-08-18"
     }
   }
 }
