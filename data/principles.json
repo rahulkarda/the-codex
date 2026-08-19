@@ -1582,6 +1582,24 @@
       "origin": "Laozi (trad. attribution), Tao Te Ching, esp. chs. 37, 48, 63, 78 (~4th century BCE); Zhuangzi, esp. chs. 3 and 19 (~3rd century BCE); contemporary analysis in Edward Slingerland, Effortless Action (2003) and Trying Not to Try (2014)."
     },
     {
+      "id": "activation-energy-task-initiation",
+      "name": "Activation Energy (Task Initiation)",
+      "category": "Productivity",
+      "tags": [
+        "procrastination",
+        "task management",
+        "habits",
+        "motivation",
+        "energy"
+      ],
+      "oneLiner": "Minimize the initial effort required to start a task, reducing procrastination and making productive actions easier to begin.",
+      "description": "Drawing from chemistry, activation energy is the minimum energy required to initiate a chemical reaction. In productivity, it refers to the psychological friction or effort needed to begin a task. Lowering this \"activation energy\" makes it significantly easier to overcome inertia and start working, even on undesirable tasks.",
+      "example": "A writer struggling with procrastination might prepare their workspace the night before: opening the document, charging their laptop, and having a cup of coffee ready. This reduces the activation energy needed to start writing in the morning.",
+      "howToApply": "Identify tasks you procrastinate on. Break down the first step into the smallest possible action, making it almost impossible not to start. Prepare your environment in advance to remove obstacles. For example, lay out gym clothes the night before, or open the relevant software before you sit down to work.",
+      "pitfalls": "Over-optimizing small tasks can lead to \"productivity theater\" without addressing deeper issues. It's also possible to reduce activation energy for distractions, making them too easy to start. This strategy is less effective for tasks requiring significant sustained mental effort beyond the initial push.",
+      "origin": "Adapted from the chemical concept (Svante Arrhenius, 1889) to describe the initial effort for human tasks, popularized in habit formation literature."
+    },
+    {
       "id": "aggregation-of-marginal-gains",
       "name": "Aggregation of Marginal Gains",
       "category": "Productivity",
@@ -4129,12 +4147,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 237,
-    "generated": "2026-08-18",
+    "count": 238,
+    "generated": "2026-08-19",
     "lastAdded": {
-      "name": "Authority Principle",
-      "category": "Social Dynamics",
-      "date": "2026-08-18"
+      "name": "Activation Energy (Task Initiation)",
+      "category": "Productivity",
+      "date": "2026-08-19"
     }
   }
 }
