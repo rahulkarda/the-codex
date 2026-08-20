@@ -4010,6 +4010,23 @@
       "origin": "Popularized in modern scientific discourse by researchers like Dr. Valter Longo and Dr. Satchidananda Panda (early 2000s)."
     },
     {
+      "id": "movement-snacks",
+      "name": "Movement Snacks",
+      "category": "Health & Longevity",
+      "tags": [
+        "physical activity",
+        "longevity",
+        "metabolism",
+        "habit formation"
+      ],
+      "oneLiner": "Incorporating short, frequent bursts of physical activity throughout the day to counteract sedentary behavior and improve metabolic health and overall well-being.",
+      "description": "Movement snacks involve breaking up prolonged sitting with brief periods of light-to-moderate physical activity, typically lasting 1-5 minutes. This strategy aims to mitigate the negative health impacts of sedentary lifestyles, even for individuals who meet daily exercise recommendations. Regular movement snacks can improve blood sugar regulation, circulation, and overall energy levels, contributing to better long-term health.",
+      "example": "A software engineer working from home sets a timer to stand up every hour and perform 20 squats, 10 push-ups against a wall, or walk up and down a flight of stairs for two minutes before returning to their desk.",
+      "howToApply": "Set a recurring reminder (e.g., hourly) to interrupt sedentary periods. Choose simple, compound movements that can be done anywhere, such as squats, lunges, brisk walking, or stretching. Start with 1-2 minute sessions and gradually increase duration or intensity as tolerated.",
+      "pitfalls": "May not fully replace the benefits of dedicated longer exercise sessions, especially for cardiovascular fitness. The perceived effort might deter consistency if not made easy and integrated into routine. Some research suggests the intensity needs to be moderate-to-vigorous, not just light movement, for significant metabolic benefits.",
+      "origin": "Popularized in the 2010s by researchers like Dr. John Buckley and Dr. James Levine, emphasizing frequent movement breaks."
+    },
+    {
       "id": "non-exercise-activity-thermogenesis-neat",
       "name": "Non-Exercise Activity Thermogenesis (NEAT)",
       "category": "Health & Longevity",
@@ -4147,12 +4164,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 238,
-    "generated": "2026-08-19",
+    "count": 239,
+    "generated": "2026-08-20",
     "lastAdded": {
-      "name": "Activation Energy (Task Initiation)",
-      "category": "Productivity",
-      "date": "2026-08-19"
+      "name": "Movement Snacks",
+      "category": "Health & Longevity",
+      "date": "2026-08-20"
     }
   }
 }
