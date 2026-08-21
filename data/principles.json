@@ -3779,6 +3779,24 @@
       "origin": "Daniel Kahneman and Amos Tversky, 1979"
     },
     {
+      "id": "rational-ignorance",
+      "name": "Rational Ignorance",
+      "category": "Economics & Incentives",
+      "tags": [
+        "decision-making",
+        "information",
+        "incentives",
+        "public policy",
+        "behavioral economics"
+      ],
+      "oneLiner": "It's rational to remain uninformed when the cost of acquiring information outweighs the expected benefits of making a better decision.",
+      "description": "Rational ignorance describes situations where the cost of obtaining complete information to make an optimal decision is higher than the potential benefits of that decision. Individuals or groups may rationally choose to remain uninformed when their individual impact on an outcome is negligible. This often applies to complex political issues, consumer choices with numerous options, or highly specialized fields where expertise is costly to acquire.",
+      "example": "A voter might not thoroughly research every candidate's stance on every obscure policy for a local election. The time and effort required to become fully informed on complex municipal budgets or zoning laws may far exceed the perceived benefit of casting a slightly more informed vote, especially if their single vote is unlikely to change the outcome.",
+      "howToApply": "1. Recognize situations where your individual influence is minimal, such as large-scale elections or collective action problems. 2. Prioritize information gathering for decisions where your direct impact is significant or the stakes are personally high. 3. Accept that others may also be rationally ignorant, influencing how you communicate or design systems for public engagement.",
+      "pitfalls": "Rational ignorance can lead to suboptimal collective outcomes, as a large number of uninformed individuals can result in poor aggregate decisions (e.g., electing unqualified leaders). It can also be exploited by those who benefit from public disengagement or lack of oversight. This principle is not an excuse for willful ignorance in areas where one *should* be informed for ethical or professional reasons.",
+      "origin": "Anthony Downs, An Economic Theory of Democracy (1957)"
+    },
+    {
       "id": "signaling-theory",
       "name": "Signaling Theory",
       "category": "Economics & Incentives",
@@ -4164,12 +4182,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 239,
-    "generated": "2026-08-20",
+    "count": 240,
+    "generated": "2026-08-21",
     "lastAdded": {
-      "name": "Movement Snacks",
-      "category": "Health & Longevity",
-      "date": "2026-08-20"
+      "name": "Rational Ignorance",
+      "category": "Economics & Incentives",
+      "date": "2026-08-21"
     }
   }
 }
