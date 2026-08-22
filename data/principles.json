@@ -3481,6 +3481,24 @@
       "origin": "Sendhil Mullainathan and Eldar Shafir, 2013 (in their book 'Scarcity: Why Having Too Little Means So Much')"
     },
     {
+      "id": "scarcity-trap",
+      "name": "Scarcity Trap",
+      "category": "Money & Time",
+      "tags": [
+        "scarcity",
+        "cognitive bias",
+        "decision making",
+        "poverty",
+        "time management"
+      ],
+      "oneLiner": "The cognitive burden of insufficient resources (time, money) impairs decision-making, leading to a 'trap' where scarcity perpetuates itself.",
+      "description": "When individuals experience scarcity of resources like money or time, their cognitive capacity becomes intensely focused on managing the immediate lack. This 'tunnel vision,' while adaptive for urgent needs, reduces mental bandwidth for other tasks, leading to poorer long-term planning, impulse control, and problem-solving. The Scarcity Trap describes how this cognitive load creates a self-perpetuating cycle where scarcity leads to suboptimal decisions, which in turn deepens the scarcity.",
+      "example": "A low-income individual, constantly worried about making rent and affording food, might struggle to focus on job training or saving for a child's education. The mental energy spent managing daily financial crises leaves little room for strategic planning, potentially leading to taking high-interest loans for immediate needs, further entrenching their financial precarity.",
+      "howToApply": "Recognize when you or others are operating under a scarcity mindset; proactively create buffers (e.g., emergency fund, scheduled downtime) to alleviate immediate pressure and free up cognitive bandwidth. Delegate or automate non-critical tasks to reduce the mental load. Seek external support or advice when feeling overwhelmed by scarcity to access clearer thinking and broader perspectives.",
+      "pitfalls": "Over-attributing all poor decisions to scarcity, ignoring other contributing factors like lack of knowledge, motivation, or systemic barriers. The effect can be exaggerated; individuals experiencing scarcity can still make rational and effective choices. Interventions based solely on increasing resources without addressing the cognitive patterns and behaviors fostered by scarcity may not be fully effective.",
+      "origin": "Eldar Shafir, Sendhil Mullainathan, and Jiaying Zhao (2013) - \"Scarcity: Why Having Too Little Means So Much.\""
+    },
+    {
       "id": "the-latte-factor",
       "name": "The Latte Factor",
       "category": "Money & Time",
@@ -4182,12 +4200,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 240,
-    "generated": "2026-08-21",
+    "count": 241,
+    "generated": "2026-08-22",
     "lastAdded": {
-      "name": "Rational Ignorance",
-      "category": "Economics & Incentives",
-      "date": "2026-08-21"
+      "name": "Scarcity Trap",
+      "category": "Money & Time",
+      "date": "2026-08-22"
     }
   }
 }
