@@ -3147,6 +3147,24 @@
       "origin": "Concept formalized in Anne Katherine's 'Boundaries: Where You End and I Begin' (1991) and Cloud & Townsend's 'Boundaries' (1992); Nina Brown's typology (soft/spongy/rigid/flexible) elaborated it."
     },
     {
+      "id": "investment-model-of-commitment",
+      "name": "Investment Model of Commitment",
+      "category": "Relationships",
+      "tags": [
+        "commitment",
+        "relationship psychology",
+        "long-term relationships",
+        "social psychology",
+        "decision-making"
+      ],
+      "oneLiner": "Commitment to a relationship is determined by satisfaction, quality of alternatives, and the magnitude of personal investments made over time.",
+      "description": "The Investment Model proposes that an individual's commitment to a relationship is influenced by three factors: satisfaction with the relationship, the perceived quality of alternative partners or situations, and the cumulative resources (time, effort, shared history) invested. High commitment arises from high satisfaction, few appealing alternatives, and substantial investments. This framework helps explain why people may remain in relationships even when satisfaction wanes or alternatives appear. It provides a robust psychological explanation for relationship persistence.",
+      "example": "A couple has built a life together over a decade, including purchasing a home, raising children, and developing a shared social circle. Even if one partner experiences a period of decreased personal satisfaction or notices an attractive new acquaintance, their significant investments in the relationship and the high cost of dissolving it (poor alternatives) often maintain their commitment.",
+      "howToApply": "To foster stronger commitment, actively cultivate shared experiences and future goals that increase mutual investments. Consciously acknowledge and appreciate the value of the current relationship to reduce the perceived appeal of alternatives. Regularly communicate about satisfaction to address issues proactively and maintain a positive relational state.",
+      "pitfalls": "This model can inadvertently justify staying in unhealthy or abusive relationships due to high investments or lack of perceived alternatives, overlooking personal well-being. It primarily describes commitment rather than prescribing healthy relational dynamics, and doesn't fully account for external shocks or evolving personal values. Over-reliance on investment can lead to a 'sunk cost' mentality rather than genuine connection.",
+      "origin": "Caryl Rusbult, 1980"
+    },
+    {
       "id": "love-maps",
       "name": "Love Maps",
       "category": "Relationships",
@@ -4200,12 +4218,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 241,
-    "generated": "2026-08-22",
+    "count": 242,
+    "generated": "2026-08-23",
     "lastAdded": {
-      "name": "Scarcity Trap",
-      "category": "Money & Time",
-      "date": "2026-08-22"
+      "name": "Investment Model of Commitment",
+      "category": "Relationships",
+      "date": "2026-08-23"
     }
   }
 }
