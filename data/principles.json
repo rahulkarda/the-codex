@@ -2258,6 +2258,24 @@
       "origin": "A core concept in cognitive psychology, extensively researched by scholars including Pressley, McDaniel, and Weinstein in the 1980s and 90s."
     },
     {
+      "id": "encoding-specificity-principle",
+      "name": "Encoding Specificity Principle",
+      "category": "Learning",
+      "tags": [
+        "memory",
+        "context",
+        "recall",
+        "learning",
+        "environment"
+      ],
+      "oneLiner": "Information is best recalled when the conditions present during encoding (learning) are similar to those during retrieval (recall).",
+      "description": "This principle states that memory is most effective when the retrieval cues match the cues present during the encoding of the information. It highlights how external environments, internal states, and cognitive processes at the time of learning become part of the memory trace. A mismatch between encoding and retrieval contexts can significantly hinder recall, even if the memory itself is strong.",
+      "example": "A student studies for an exam in a quiet, cool classroom. If they take the actual exam in the same quiet, cool classroom, they are more likely to recall the learned material than if they take it in a noisy, hot auditorium.",
+      "howToApply": "1. Whenever possible, study or practice in an environment that closely mimics the actual retrieval situation (e.g., test room, presentation venue). 2. During recall, mentally reconstruct the original learning context, including sensory details, emotions, and thoughts, to activate relevant cues. 3. For critical information, identify and consistently use specific environmental cues during encoding that can be easily recreated during retrieval.",
+      "pitfalls": "Strict reliance on a single encoding context can hinder recall if the retrieval environment differs significantly or is unpredictable. The effect is generally stronger for free recall tasks than for recognition tasks, where cues are already present. While useful for specific recall, it doesn't inherently promote deeper understanding or transfer of knowledge to novel situations. The benefits might be less pronounced than other robust learning strategies like active recall or elaborative rehearsal.",
+      "origin": "Tulving and Thomson (1973)"
+    },
+    {
       "id": "feynman-technique",
       "name": "Feynman Technique",
       "category": "Learning",
@@ -4218,12 +4236,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 242,
-    "generated": "2026-08-23",
+    "count": 243,
+    "generated": "2026-08-24",
     "lastAdded": {
-      "name": "Investment Model of Commitment",
-      "category": "Relationships",
-      "date": "2026-08-23"
+      "name": "Encoding Specificity Principle",
+      "category": "Learning",
+      "date": "2026-08-24"
     }
   }
 }
