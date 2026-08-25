@@ -2729,6 +2729,24 @@
       "origin": "Friedemann Schulz von Thun, 1981"
     },
     {
+      "id": "uncertainty-reduction-theory",
+      "name": "Uncertainty Reduction Theory",
+      "category": "Communication",
+      "tags": [
+        "communication",
+        "relationships",
+        "social psychology",
+        "first impressions",
+        "anxiety"
+      ],
+      "oneLiner": "People communicate to reduce anxiety and predict behavior, especially in initial interactions, by seeking information about others.",
+      "description": "This theory posits that when individuals encounter strangers, they experience uncertainty and a desire to reduce it. Communication serves as the primary means to gather information, predict behavior, and thereby decrease cognitive and behavioral uncertainty, fostering a sense of comfort and predictability. The drive to reduce uncertainty is often linked to the desire for future interaction or potential rewards.",
+      "example": "When starting a new job, you might ask colleagues about team norms, their work styles, or company culture. This information-seeking helps you understand what to expect from them and how to behave yourself, reducing your anxiety about fitting in and performing well.",
+      "howToApply": "In new social or professional settings, actively ask open-ended questions about the other person's background, interests, or perspectives. Share relevant, appropriate information about yourself to encourage reciprocity. Observe nonverbal cues and context to fill in gaps, aiming to build a more complete picture of the other person and the situation.",
+      "pitfalls": "Over-reliance on questioning can feel like an interrogation, increasing rather than reducing uncertainty for the other person. Premature self-disclosure can be off-putting or create an imbalance. Initial judgments based on limited information can lead to confirmation bias, where subsequent interactions are interpreted through a pre-existing, potentially inaccurate, lens.",
+      "origin": "Charles R. Berger and Richard J. Calabrese, 1975"
+    },
+    {
       "id": "authority-principle",
       "name": "Authority Principle",
       "category": "Social Dynamics",
@@ -4236,12 +4254,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 243,
-    "generated": "2026-08-24",
+    "count": 244,
+    "generated": "2026-08-25",
     "lastAdded": {
-      "name": "Encoding Specificity Principle",
-      "category": "Learning",
-      "date": "2026-08-24"
+      "name": "Uncertainty Reduction Theory",
+      "category": "Communication",
+      "date": "2026-08-25"
     }
   }
 }
