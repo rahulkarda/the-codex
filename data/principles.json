@@ -1912,6 +1912,24 @@
       "origin": "Sophie Leroy, 2009 (Ph.D. dissertation, later published in academic journals)"
     },
     {
+      "id": "commitment-device",
+      "name": "Commitment Device",
+      "category": "Focus & Habits",
+      "tags": [
+        "self-control",
+        "behavioral economics",
+        "decision-making",
+        "willpower",
+        "habits"
+      ],
+      "oneLiner": "A pre-commitment strategy to lock yourself into a desired future action, overcoming present bias and improving self-control against temptations.",
+      "description": "Commitment devices are voluntary choices made in the present that restrict future options, making it easier to stick to long-term goals. They leverage the understanding that willpower can be unreliable by creating external incentives or disincentives. This strategy helps bridge the gap between intentions and actions, especially when facing temptations or procrastination.",
+      "example": "A student struggling with procrastination uses an app that blocks distracting websites for a set period, making it impossible to access social media during study time. This digital restriction acts as a commitment device for focused work.",
+      "howToApply": "1. Identify a specific goal where your present self often undermines your future self (e.g., saving money, exercising, avoiding unhealthy food). 2. Design a mechanism that makes it harder or more costly to deviate from your goal, such as financial penalties, public declarations, or automatic systems. 3. Implement the device, ensuring it has real consequences or significant friction to overcome if you try to revert.",
+      "pitfalls": "Over-commitment can lead to rigidity and missed opportunities if circumstances change significantly, making it difficult to adapt. The device might be too weak to be effective, or too strong, leading to resentment and abandonment. Some studies show mixed results on their long-term effectiveness, particularly if the initial motivation for the commitment wanes.",
+      "origin": "Thomas Schelling, 1984 (formalized in 'Choice and Consequence')"
+    },
+    {
       "id": "decision-fatigue",
       "name": "Decision Fatigue",
       "category": "Focus & Habits",
@@ -4254,12 +4272,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 244,
-    "generated": "2026-08-25",
+    "count": 245,
+    "generated": "2026-08-26",
     "lastAdded": {
-      "name": "Uncertainty Reduction Theory",
-      "category": "Communication",
-      "date": "2026-08-25"
+      "name": "Commitment Device",
+      "category": "Focus & Habits",
+      "date": "2026-08-26"
     }
   }
 }
