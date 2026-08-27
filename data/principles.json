@@ -1497,6 +1497,24 @@
       "origin": "Epictetus, Discourses (c. 108 AD)"
     },
     {
+      "id": "sympatheia-cosmic-interconnectedness",
+      "name": "Sympatheia (Cosmic Interconnectedness)",
+      "category": "Philosophy & Stoicism",
+      "tags": [
+        "stoicism",
+        "interconnectedness",
+        "philosophy",
+        "ethics",
+        "cosmology"
+      ],
+      "oneLiner": "The Stoic principle recognizing the fundamental unity and interdependence of all things in the cosmos, fostering universal kinship and responsibility.",
+      "description": "Sympatheia is the understanding that all parts of the universe are interconnected and mutually dependent, forming a single, harmonious whole. This cosmic interconnectedness implies that what affects one part affects all, urging individuals to act with a sense of universal fellowship and shared destiny. It encourages perceiving oneself not as an isolated entity but as an integral component of a larger, living system.",
+      "example": "When witnessing a natural disaster in a distant country, feeling a genuine sense of sorrow and a desire to help, recognizing that the suffering of others is, in a profound sense, also a part of one's own human experience and the shared fate of the planet.",
+      "howToApply": "1. Practice perspective-taking by regularly contemplating your place in the vastness of the universe and the interconnectedness of all life. 2. Cultivate empathy and compassion for all beings, recognizing shared vulnerabilities and aspirations. 3. Engage in acts of service or environmental stewardship, understanding that contributing to the well-being of the whole benefits yourself. 4. Reflect on how your actions, however small, ripple through your community and the wider world.",
+      "pitfalls": "Can lead to a sense of overwhelming responsibility or fatalism if misinterpreted as individual powerlessness against cosmic forces. It's crucial to balance this understanding with the Dichotomy of Control, focusing on what is within one's sphere of influence rather than becoming paralyzed by global issues. Some might use it to justify inaction, claiming \"everything happens for a reason,\" which misrepresents the Stoic call to virtuous action within the interconnected system.",
+      "origin": "Ancient Greek Stoic philosophers, notably expressed by Marcus Aurelius in *Meditations* (c. 161–180 CE)."
+    },
+    {
       "id": "the-obstacle-is-the-way",
       "name": "The Obstacle Is the Way",
       "category": "Philosophy & Stoicism",
@@ -4272,12 +4290,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 245,
-    "generated": "2026-08-26",
+    "count": 246,
+    "generated": "2026-08-27",
     "lastAdded": {
-      "name": "Commitment Device",
-      "category": "Focus & Habits",
-      "date": "2026-08-26"
+      "name": "Sympatheia (Cosmic Interconnectedness)",
+      "category": "Philosophy & Stoicism",
+      "date": "2026-08-27"
     }
   }
 }
