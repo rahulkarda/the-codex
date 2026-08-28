@@ -1183,6 +1183,24 @@
       "origin": "Term coined by Walter Kennedy in 1961; mechanism formalized in pain research by Fabrizio Benedetti starting in the 1990s."
     },
     {
+      "id": "overjustification-effect",
+      "name": "Overjustification Effect",
+      "category": "Psychology Effect",
+      "tags": [
+        "motivation",
+        "rewards",
+        "intrinsic",
+        "extrinsic",
+        "psychology"
+      ],
+      "oneLiner": "External rewards can decrease intrinsic motivation for activities previously enjoyed for their own sake.",
+      "description": "The Overjustification Effect occurs when an expected external incentive, like money or prizes, decreases a person's intrinsic motivation to perform a task. Individuals begin to attribute their engagement to the external reward rather than their inherent interest. This can lead to a reduction in the activity's appeal once the external reward is removed, thereby undermining internal drive.",
+      "example": "A child who loves reading for pleasure starts receiving a dollar for every book they finish. Initially, they read more, but over time, their genuine love for reading diminishes, and they may only read when a reward is offered, or stop reading altogether if the money ceases.",
+      "howToApply": "For tasks where intrinsic motivation is desired, minimize or avoid offering expected tangible rewards upfront. Instead, use unexpected, non-controlling verbal praise or rewards given after completion as recognition. Focus on fostering autonomy, competence, and relatedness to maintain intrinsic interest.",
+      "pitfalls": "This effect is most pronounced for activities already high in intrinsic interest; for uninteresting or mundane tasks, extrinsic rewards can be effective. Rewards perceived as feedback on competence rather than as controlling are less likely to undermine intrinsic motivation. Misapplying this can lead to under-utilizing effective motivational strategies for tasks lacking inherent appeal.",
+      "origin": "Edward Deci (1971)"
+    },
+    {
       "id": "peak-end-rule",
       "name": "Peak-end Rule",
       "category": "Psychology Effect",
@@ -4290,12 +4308,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 246,
-    "generated": "2026-08-27",
+    "count": 247,
+    "generated": "2026-08-28",
     "lastAdded": {
-      "name": "Sympatheia (Cosmic Interconnectedness)",
-      "category": "Philosophy & Stoicism",
-      "date": "2026-08-27"
+      "name": "Overjustification Effect",
+      "category": "Psychology Effect",
+      "date": "2026-08-28"
     }
   }
 }
