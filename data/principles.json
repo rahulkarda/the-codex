@@ -4206,6 +4206,24 @@
       "origin": "Momma, Kawakami, Honda et al., British Journal of Sports Medicine, 2022; foundational sarcopenia work by Irwin Rosenberg (1989)."
     },
     {
+      "id": "self-efficacy",
+      "name": "Self-Efficacy",
+      "category": "Health & Longevity",
+      "tags": [
+        "psychology",
+        "behavior change",
+        "motivation",
+        "health",
+        "resilience"
+      ],
+      "oneLiner": "Belief in one's capacity to successfully execute behaviors needed to achieve specific goals, significantly influencing health behavior adoption and persistence.",
+      "description": "Self-efficacy, a central concept in Albert Bandura's Social Cognitive Theory, is an individual's confidence in their ability to succeed in specific situations or accomplish a task. In health and longevity, high self-efficacy predicts a greater likelihood of initiating and sustaining healthy habits like regular exercise, mindful eating, or stress management. It dictates the effort expended, persistence through challenges, and resilience after setbacks. This belief is crucial for navigating the demands of long-term health maintenance.",
+      "example": "A person with high self-efficacy for managing their chronic condition might confidently adhere to their medication schedule and dietary restrictions, even when feeling unwell or facing social pressure. In contrast, someone with low self-efficacy might feel overwhelmed and give up on their health regimen after a minor deviation, believing they lack the ability to maintain it.",
+      "howToApply": "Build self-efficacy by achieving small, incremental successes (mastery experiences) in the desired behavior. Observe others successfully performing the desired behavior (vicarious learning) to see it's possible. Seek verbal encouragement and constructive feedback from credible sources. Learn to interpret physiological and emotional states (e.g., fatigue, stress) as normal challenges rather than signs of inability.",
+      "pitfalls": "Overestimating self-efficacy without adequate skills or resources can lead to failure and subsequent demoralization. It's domain-specific; confidence in one area doesn't automatically translate to others. Relying solely on self-efficacy without addressing environmental barriers or actual skill deficits can be ineffective, as belief alone isn't sufficient for success.",
+      "origin": "Albert Bandura, 1977 (Social Learning Theory)"
+    },
+    {
       "id": "sleep-hygiene-7-9-hours-circadian-alignment",
       "name": "Sleep Hygiene (7–9 hours, Circadian Alignment)",
       "category": "Health & Longevity",
@@ -4308,12 +4326,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 247,
-    "generated": "2026-08-28",
+    "count": 248,
+    "generated": "2026-08-29",
     "lastAdded": {
-      "name": "Overjustification Effect",
-      "category": "Psychology Effect",
-      "date": "2026-08-28"
+      "name": "Self-Efficacy",
+      "category": "Health & Longevity",
+      "date": "2026-08-29"
     }
   }
 }
