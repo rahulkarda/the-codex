@@ -976,6 +976,24 @@
       "origin": "Articulated by Jeff Bezos in Amazon's 2015 and 2016 Letters to Shareholders ('Day 1' framing); the underlying option-theory intuition predates him in real options analysis (Dixit & Pindyck, 'Investment Under Uncertainty,' 1994)."
     },
     {
+      "id": "satisficing",
+      "name": "Satisficing",
+      "category": "Decision-Making",
+      "tags": [
+        "decision-making",
+        "heuristics",
+        "efficiency",
+        "bounded rationality",
+        "psychology"
+      ],
+      "oneLiner": "Making a 'good enough' decision or choice that meets minimum acceptable criteria, rather than seeking the optimal or best possible outcome.",
+      "description": "Coined by Herbert A. Simon, satisficing describes a decision-making strategy where an individual chooses the first option that meets a predefined set of criteria, instead of expending excessive resources to find the absolute best option. It acknowledges the limits of human rationality (bounded rationality) and the costs associated with exhaustive search and optimization. This approach aims for sufficiency rather than perfection, conserving cognitive effort.",
+      "example": "When buying a new laptop, a satisficer might set criteria like 'at least 16GB RAM, 512GB SSD, under $1200.' They then purchase the first laptop found that meets all these requirements, without spending hours comparing every single model on the market to find the absolute best deal or most powerful machine.",
+      "howToApply": "Define your minimum acceptable criteria for a decision or purchase *before* you start searching. As soon as you find an option that meets all your criteria, stop searching and commit to that option. Apply this especially to decisions with many options or diminishing returns for extra effort, freeing up cognitive resources for more critical choices.",
+      "pitfalls": "While efficient, satisficing can lead to suboptimal outcomes if initial criteria are too low or if a genuinely superior option was easily accessible. Discovering a significantly better option shortly after a satisficing decision can lead to regret or buyer's remorse. Consistently setting low 'good enough' thresholds can also prevent personal or professional growth, leading to mediocrity, especially in high-stakes or irreversible contexts where a more maximizing approach might be warranted.",
+      "origin": "Herbert A. Simon, 1956"
+    },
+    {
       "id": "schelling-point",
       "name": "Schelling Point",
       "category": "Decision-Making",
@@ -4326,12 +4344,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 248,
-    "generated": "2026-08-29",
+    "count": 249,
+    "generated": "2026-08-30",
     "lastAdded": {
-      "name": "Self-Efficacy",
-      "category": "Health & Longevity",
-      "date": "2026-08-29"
+      "name": "Satisficing",
+      "category": "Decision-Making",
+      "date": "2026-08-30"
     }
   }
 }
