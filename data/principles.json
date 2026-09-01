@@ -2433,6 +2433,24 @@
       "origin": "Metcalfe, J., & Kornell, N. (2007). The pretesting effect: The benefits of failing. Journal of Experimental Psychology: Learning, Memory, and Cognition, 33(2), 406–416."
     },
     {
+      "id": "scaffolding",
+      "name": "Scaffolding",
+      "category": "Learning",
+      "tags": [
+        "instructional design",
+        "education",
+        "support",
+        "development",
+        "pedagogy"
+      ],
+      "oneLiner": "Providing temporary, adjustable support to learners, gradually removing it as their competence grows to foster independent mastery.",
+      "description": "Scaffolding is an instructional technique where educators provide targeted assistance to help learners master tasks just beyond their current independent capabilities. This support, akin to a building scaffold, is adjusted and gradually withdrawn as the learner develops greater understanding and skill. It aims to bridge the gap between what a learner can do and what they can achieve with guidance. The process empowers learners to eventually perform tasks independently that they initially could not.",
+      "example": "A coding instructor first provides complete code snippets, then partially completed ones, then just pseudocode, and finally only problem descriptions, gradually reducing direct assistance as students learn to write full programs independently.",
+      "howToApply": "1. Assess the learner's current skill level and identify their Zone of Proximal Development for the target task. 2. Provide explicit, temporary support such as direct instruction, modeling, hints, or breaking down complex tasks into smaller steps. 3. Continuously monitor the learner's progress and adjust the level of support, gradually reducing it as they demonstrate increasing competence. 4. Encourage independent problem-solving and critical thinking, allowing the learner to take ownership of the learning process.",
+      "pitfalls": "Over-scaffolding can create dependency, preventing learners from developing independent problem-solving skills. Conversely, under-scaffolding or removing support too quickly can lead to frustration and failure, hindering learning and motivation. The effectiveness heavily relies on accurate assessment of the learner's needs and flexible adaptation of support, making it challenging to implement perfectly in diverse group settings.",
+      "origin": "Jerome Bruner (1976), building on the work of Lev Vygotsky."
+    },
+    {
       "id": "self-explanation",
       "name": "Self-Explanation",
       "category": "Learning",
@@ -4344,12 +4362,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 249,
-    "generated": "2026-08-30",
+    "count": 250,
+    "generated": "2026-09-01",
     "lastAdded": {
-      "name": "Satisficing",
-      "category": "Decision-Making",
-      "date": "2026-08-30"
+      "name": "Scaffolding",
+      "category": "Learning",
+      "date": "2026-09-01"
     }
   }
 }
