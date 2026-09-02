@@ -1287,6 +1287,24 @@
       "origin": "Robert Rosenthal and Lenore Jacobson, 'Pygmalion in the Classroom' (1968); name from George Bernard Shaw's play."
     },
     {
+      "id": "reactance-theory",
+      "name": "Reactance Theory",
+      "category": "Psychology Effect",
+      "tags": [
+        "persuasion",
+        "motivation",
+        "autonomy",
+        "resistance",
+        "freedom"
+      ],
+      "oneLiner": "When perceived freedoms are threatened, individuals experience an aversive motivational state, leading them to resist and restore their autonomy.",
+      "description": "Reactance Theory posits that people react strongly against perceived threats to their behavioral freedoms. This aversive state motivates them to reassert their freedom, often by performing the forbidden behavior or rejecting the influence attempt. It explains why direct persuasion or restrictive rules can backfire, leading to increased defiance.",
+      "example": "A teenager whose parents forbid them from seeing a certain friend might become even more determined to spend time with that friend, viewing the prohibition as an infringement on their personal choice and autonomy.",
+      "howToApply": "Instead of direct commands, use indirect suggestions or offer choices to maintain a sense of autonomy. Frame requests as opportunities rather than obligations. Emphasize shared goals or benefits rather than imposing rules.",
+      "pitfalls": "Over-reliance on indirect methods can be seen as manipulative or unclear. Reactance can be confused with simple stubbornness; it specifically relates to perceived threats to freedom. The effect's strength varies significantly based on the importance of the threatened freedom and the perceived legitimacy of the threat.",
+      "origin": "Jack Brehm, 1966"
+    },
+    {
       "id": "self-fulfilling-prophecy",
       "name": "Self-Fulfilling Prophecy",
       "category": "Psychology Effect",
@@ -4362,12 +4380,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 250,
-    "generated": "2026-09-01",
+    "count": 251,
+    "generated": "2026-09-02",
     "lastAdded": {
-      "name": "Scaffolding",
-      "category": "Learning",
-      "date": "2026-09-01"
+      "name": "Reactance Theory",
+      "category": "Psychology Effect",
+      "date": "2026-09-02"
     }
   }
 }
