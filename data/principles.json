@@ -1586,6 +1586,24 @@
       "origin": "Marcus Aurelius, Meditations 5.20 (~170 CE); modern restatement and title from Ryan Holiday, The Obstacle Is the Way (2014)."
     },
     {
+      "id": "the-three-disciplines-of-stoicism",
+      "name": "The Three Disciplines of Stoicism",
+      "category": "Philosophy & Stoicism",
+      "tags": [
+        "stoicism",
+        "philosophy",
+        "self-mastery",
+        "ethics",
+        "virtue"
+      ],
+      "oneLiner": "A framework of three interconnected practices—Desire, Action, and Assent—for living a virtuous life aligned with nature and reason.",
+      "description": "This core Stoic framework, primarily from Epictetus, outlines three areas of practice: the Discipline of Desire (accepting what is beyond our control), the Discipline of Action (acting justly and effectively in the world), and the Discipline of Assent (carefully evaluating and responding to impressions). Together, they guide the practitioner towards wisdom, courage, justice, and temperance.",
+      "example": "When faced with a difficult work project (external event), you apply the Discipline of Desire by accepting the challenge's inherent difficulty, rather than wishing it away. You then use the Discipline of Action to diligently break down tasks and collaborate fairly with colleagues. Finally, you apply the Discipline of Assent by questioning initial impressions of frustration or overwhelm, choosing instead to focus on what is within your power to do.",
+      "howToApply": "1. Discipline of Desire: Regularly reflect on what is truly within your control (your judgments, impulses, desires) versus what is not (external events, other people's actions). Practice accepting external circumstances with equanimity.\n2. Discipline of Action: Before acting, consider if your actions align with virtue (wisdom, justice, courage, temperance) and benefit the common good. Act deliberately and effectively.\n3. Discipline of Assent: Pause before reacting to impressions or thoughts. Ask: \"Is this impression accurate? Is this judgment useful? Is it truly within my control?\" Withhold assent to unexamined or harmful judgments.",
+      "pitfalls": "Misinterpreting \"acceptance\" as passivity; the disciplines are active practices, not an excuse for inaction. Over-intellectualizing without consistent practice can lead to theoretical understanding without practical benefit. Can be difficult to integrate all three simultaneously without dedicated effort.",
+      "origin": "Epictetus, Discourses and Enchiridion (1st-2nd Century CE)"
+    },
+    {
       "id": "view-from-above",
       "name": "View From Above",
       "category": "Philosophy & Stoicism",
@@ -4380,12 +4398,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 251,
-    "generated": "2026-09-02",
+    "count": 252,
+    "generated": "2026-09-03",
     "lastAdded": {
-      "name": "Reactance Theory",
-      "category": "Psychology Effect",
-      "date": "2026-09-02"
+      "name": "The Three Disciplines of Stoicism",
+      "category": "Philosophy & Stoicism",
+      "date": "2026-09-03"
     }
   }
 }
