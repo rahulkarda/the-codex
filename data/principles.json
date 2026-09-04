@@ -1864,6 +1864,24 @@
       "origin": "Ivy Ledbetter Lee, advising Charles M. Schwab of Bethlehem Steel, circa 1918; the story was widely circulated after Schwab reportedly paid Lee $25,000 (about $475,000 in 2025 dollars) for the method."
     },
     {
+      "id": "makers-schedule-managers-schedule",
+      "name": "Maker's Schedule, Manager's Schedule",
+      "category": "Productivity",
+      "tags": [
+        "time management",
+        "focus",
+        "deep work",
+        "scheduling",
+        "interruptions"
+      ],
+      "oneLiner": "Distinguish between uninterrupted blocks for creative 'maker' work and fragmented time for 'manager' tasks like meetings, to maximize deep focus.",
+      "description": "Paul Graham proposed two fundamental types of schedules: the 'maker's schedule' for those doing creative work who need long, uninterrupted blocks of time, and the 'manager's schedule' for those with many meetings and frequent interruptions. Trying to mix these schedules without clear boundaries leads to inefficiency and frustration for makers. The core idea is to protect large, contiguous blocks of time for demanding intellectual work, minimizing context switching.",
+      "example": "A software developer (maker) schedules all team meetings and administrative tasks for Tuesday and Thursday afternoons. Monday, Wednesday, and Friday mornings are completely blocked off for coding and design, with no meetings or interruptions allowed. This allows them to enter a flow state and make significant progress on complex projects.",
+      "howToApply": "1. Identify if your primary role requires 'maker' (creative, deep work) or 'manager' (coordination, communication) time. 2. If you're a maker, aggressively block out large, uninterrupted segments (e.g., 3-4 hours) in your calendar for your most important work. 3. Consolidate all meetings, emails, and administrative tasks into specific, shorter blocks, ideally on separate days or distinct parts of the day. 4. Communicate your 'maker time' boundaries to colleagues and stakeholders, explaining the need for uninterrupted focus.",
+      "pitfalls": "This model can be challenging to implement in highly collaborative or responsive roles where constant availability is expected. It may not fit roles that inherently blend both types of work throughout the day (e.g., a product manager who needs to both strategize deeply and attend many meetings). Over-rigid adherence might lead to missed urgent communications or a perception of being unapproachable.",
+      "origin": "Paul Graham, 2009"
+    },
+    {
       "id": "mere-urgency-effect",
       "name": "Mere Urgency Effect",
       "category": "Productivity",
@@ -4398,12 +4416,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 252,
-    "generated": "2026-09-03",
+    "count": 253,
+    "generated": "2026-09-04",
     "lastAdded": {
-      "name": "The Three Disciplines of Stoicism",
-      "category": "Philosophy & Stoicism",
-      "date": "2026-09-03"
+      "name": "Maker's Schedule, Manager's Schedule",
+      "category": "Productivity",
+      "date": "2026-09-04"
     }
   }
 }
