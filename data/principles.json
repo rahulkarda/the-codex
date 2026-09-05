@@ -2263,6 +2263,24 @@
       "origin": "Popularized by James Clear in Atomic Habits (2018), drawing on Mihaly Csikszentmihalyi's work on Flow State and optimal challenge."
     },
     {
+      "id": "ultradian-rhythms",
+      "name": "Ultradian Rhythms",
+      "category": "Focus & Habits",
+      "tags": [
+        "productivity",
+        "focus",
+        "energy management",
+        "time management",
+        "habits"
+      ],
+      "oneLiner": "Leverage natural 90-120 minute cycles of peak alertness and rest to optimize work, focus, and energy throughout the day.",
+      "description": "Ultradian rhythms are biological cycles shorter than 24 hours, notably the 90-120 minute cycles of alertness and fatigue our bodies naturally experience. By aligning work sprints with these high-energy periods and incorporating short breaks during low-energy phases, individuals can sustain focus and productivity while avoiding burnout. This principle suggests that continuous work beyond these cycles leads to diminishing returns and increased stress.",
+      "example": "A software engineer plans their morning to tackle complex coding tasks for 90 minutes, followed by a 20-minute walk or meditation break. They then resume another focused 90-minute session on a different task, rather than pushing through 3-4 hours non-stop and feeling drained by lunchtime.",
+      "howToApply": "1. Observe your own energy patterns to identify your personal 90-120 minute peak focus windows. 2. Schedule demanding, high-concentration tasks for these peak periods. 3. Plan short, restorative breaks (15-30 minutes) after each intense work block to allow for mental recovery. 4. Use these breaks for non-work activities like stretching, walking, light conversation, or mindful relaxation.",
+      "pitfalls": "While the existence of ultradian rhythms in physiological processes is well-established, specific prescriptive work-rest ratios (e.g., exactly 90 mins work, 20 mins rest) are more of an applied interpretation than a universally validated scientific finding for optimal cognitive performance. Individuals should experiment to find their personal best rhythm, as rigidity can be counterproductive. Over-reliance while neglecting other factors like sleep or nutrition can also lead to burnout.",
+      "origin": "Nathaniel Kleitman, Basic Rest-Activity Cycle (BRAC), 1963"
+    },
+    {
       "id": "variable-reward-and-hooked-model-risk",
       "name": "Variable Reward (and Hooked-Model Risk)",
       "category": "Focus & Habits",
@@ -4416,12 +4434,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 253,
-    "generated": "2026-09-04",
+    "count": 254,
+    "generated": "2026-09-05",
     "lastAdded": {
-      "name": "Maker's Schedule, Manager's Schedule",
-      "category": "Productivity",
-      "date": "2026-09-04"
+      "name": "Ultradian Rhythms",
+      "category": "Focus & Habits",
+      "date": "2026-09-05"
     }
   }
 }
