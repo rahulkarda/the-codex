@@ -4049,6 +4049,24 @@
       "origin": "Michael Spence, 1973 (for job market signaling)"
     },
     {
+      "id": "status-quo-bias",
+      "name": "Status Quo Bias",
+      "category": "Economics & Incentives",
+      "tags": [
+        "cognitive bias",
+        "decision making",
+        "behavioral economics",
+        "change management",
+        "inertia"
+      ],
+      "oneLiner": "A preference for the current state of affairs; perceived losses from changing outweigh potential gains, leading to resistance to change.",
+      "description": "Status Quo Bias describes the human tendency to favor existing conditions over proposed changes, even when the changes might be beneficial. This bias stems from a combination of loss aversion, making potential losses from changing feel more significant than potential gains, and cognitive effort, as evaluating new options requires mental energy. It creates significant inertia in decision-making processes. This often leads individuals and organizations to stick with familiar options despite superior alternatives.",
+      "example": "Many people remain subscribed to streaming services they rarely use or keep outdated software, simply because the effort of canceling or migrating to a new solution seems too high, or they fear missing out on something familiar. Similarly, employees might stick with a suboptimal retirement plan default rather than actively choosing a better one.",
+      "howToApply": "When advocating for change, frame the current status quo as having hidden costs or risks, rather than solely highlighting the new option's benefits. Minimize the perceived risk and cognitive load associated with adopting the change, making it easy to transition. Personally, regularly audit your subscriptions, habits, and tools to challenge defaults and consider the opportunity cost of inaction.",
+      "pitfalls": "This bias can lead to missed opportunities for improvement, innovation, or personal growth, entrenching suboptimal systems or habits. It can also be exploited by entities that benefit from customer inertia, making it difficult for consumers to switch providers or products. Overcoming it requires significant effort in communication, clear value propositions, and sometimes external prompts to break the cycle.",
+      "origin": "William Samuelson and Richard Zeckhauser, 1988."
+    },
+    {
       "id": "the-winners-curse",
       "name": "The Winner's Curse",
       "category": "Economics & Incentives",
@@ -4434,12 +4452,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 254,
-    "generated": "2026-09-05",
+    "count": 255,
+    "generated": "2026-09-06",
     "lastAdded": {
-      "name": "Ultradian Rhythms",
-      "category": "Focus & Habits",
-      "date": "2026-09-05"
+      "name": "Status Quo Bias",
+      "category": "Economics & Incentives",
+      "date": "2026-09-06"
     }
   }
 }
