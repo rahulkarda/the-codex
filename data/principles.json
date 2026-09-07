@@ -2804,6 +2804,24 @@
       "origin": "Marshall Rosenberg, formalized in training manuals from 1972 and the book 'Nonviolent Communication: A Language of Life' (1999, 2003)."
     },
     {
+      "id": "politeness-theory",
+      "name": "Politeness Theory",
+      "category": "Communication",
+      "tags": [
+        "face-saving",
+        "social interaction",
+        "interpersonal",
+        "conflict resolution",
+        "respect"
+      ],
+      "oneLiner": "Explains how people manage 'face' (public self-image) during communication to maintain social harmony and avoid offense.",
+      "description": "Politeness Theory posits that individuals have both positive face (desire to be liked/approved) and negative face (desire for autonomy/freedom from imposition). Communicators employ politeness strategies to mitigate \"face-threatening acts\" (FTAs) that might damage their own or others' face. These strategies vary based on the perceived social distance, power difference, and imposition level of the FTA.",
+      "example": "Imagine you need to ask a busy colleague for a significant favor. Instead of saying, \"Do this for me now,\" you might say, \"I know you're swamped, and I hate to ask, but would you possibly have a moment to help me with this urgent task? No pressure if you can't.\" This uses negative politeness (acknowledging imposition, offering options) and positive politeness (expressing understanding/solidarity).",
+      "howToApply": "Identify potential \"face-threatening acts\" in your communication, both for yourself and the other person. Assess the social context: How well do you know them? What's the power dynamic? How big is the request? Choose appropriate politeness strategies: Use positive politeness (compliments, shared ground) to affirm positive face, or negative politeness (apologies, hedges, indirectness) to respect autonomy. Phrase requests or criticisms carefully, offering options or explanations to soften the impact.",
+      "pitfalls": "Over-politeness can be perceived as insincere, sarcastic, or evasive, especially in cultures that value directness. Conversely, under-politeness can lead to misunderstandings, offense, and damaged relationships. Cultural differences in what constitutes politeness are significant; strategies effective in one culture might be rude or ineffective in another.",
+      "origin": "Penelope Brown and Stephen C. Levinson, 1978"
+    },
+    {
       "id": "rapoports-rules",
       "name": "Rapoport's Rules",
       "category": "Communication",
@@ -4452,12 +4470,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 255,
-    "generated": "2026-09-06",
+    "count": 256,
+    "generated": "2026-09-07",
     "lastAdded": {
-      "name": "Status Quo Bias",
-      "category": "Economics & Incentives",
-      "date": "2026-09-06"
+      "name": "Politeness Theory",
+      "category": "Communication",
+      "date": "2026-09-07"
     }
   }
 }
