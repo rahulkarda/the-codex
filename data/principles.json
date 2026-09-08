@@ -3068,6 +3068,24 @@
       "origin": "Irving L. Janis, 1972."
     },
     {
+      "id": "just-world-hypothesis",
+      "name": "Just-World Hypothesis",
+      "category": "Social Dynamics",
+      "tags": [
+        "bias",
+        "social psychology",
+        "justice",
+        "victim blaming",
+        "cognition"
+      ],
+      "oneLiner": "The cognitive bias to believe that the world is inherently fair, leading people to assume that individuals get what they deserve, often blaming victims.",
+      "description": "This hypothesis posits that people have a psychological need to believe that the world is just and orderly, where good actions are rewarded and bad actions are punished. This belief provides a sense of security and control, making the world seem predictable. When confronted with evidence of undeserved suffering, individuals may rationalize it by finding fault with the victim, preserving their belief in a just world. This can lead to victim-blaming and a lack of empathy for those who experience misfortune.",
+      "example": "After a natural disaster, some people might subtly or overtly suggest that the victims \"should have known better\" or \"were not prepared,\" rather than acknowledging the random and devastating nature of the event. Another common example is blaming a sexual assault survivor for their attire or behavior, implying they \"brought it upon themselves.\"",
+      "howToApply": "Actively challenge assumptions about why bad things happen to people by considering systemic factors, randomness, or pure misfortune. Practice empathy by imagining yourself in the victim's shoes without seeking to assign blame. When hearing stories of hardship, consciously avoid the impulse to find fault with the individual involved and instead focus on support.",
+      "pitfalls": "Can perpetuate victim-blaming and reduce empathy, hindering effective support for those in need. It can also lead to a false sense of security, causing individuals to underestimate their own vulnerability to misfortune. Over-reliance on this belief can foster a punitive rather than rehabilitative approach to justice, assuming all suffering is deserved.",
+      "origin": "Melvin J. Lerner, 1966"
+    },
+    {
       "id": "mirroring-and-behavioral-mimicry",
       "name": "Mirroring and Behavioral Mimicry",
       "category": "Social Dynamics",
@@ -4470,12 +4488,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 256,
-    "generated": "2026-09-07",
+    "count": 257,
+    "generated": "2026-09-08",
     "lastAdded": {
-      "name": "Politeness Theory",
-      "category": "Communication",
-      "date": "2026-09-07"
+      "name": "Just-World Hypothesis",
+      "category": "Social Dynamics",
+      "date": "2026-09-08"
     }
   }
 }
