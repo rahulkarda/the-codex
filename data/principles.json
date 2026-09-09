@@ -3312,6 +3312,24 @@
       "origin": "John Gottman, 'The Relationship Cure' (2001) and Love Lab research from the 1990s."
     },
     {
+      "id": "communal-vs-exchange-relationships",
+      "name": "Communal vs. Exchange Relationships",
+      "category": "Relationships",
+      "tags": [
+        "psychology",
+        "relationships",
+        "social psychology",
+        "communication",
+        "reciprocity"
+      ],
+      "oneLiner": "Differentiates relationships where benefits are given based on need without immediate return (communal) from those expecting direct, comparable repayment (exchange).",
+      "description": "This model, proposed by Margaret Clark and Judson Mills, posits two fundamental types of relationships. Communal relationships are characterized by a concern for the other's welfare, where benefits are given in response to needs and without expecting immediate, specific repayment. Exchange relationships, in contrast, involve a strict accounting of inputs and outputs, where benefits are given with the expectation of receiving comparable benefits in return. Understanding this distinction helps manage expectations and maintain relationship health.",
+      "example": "In a communal relationship, like a close friendship, you might help a friend move apartments without expecting them to immediately help you back, but rather because they need help. In an exchange relationship, like a business partnership, if you contribute capital, you expect a proportional share of profits or a specific return on investment.",
+      "howToApply": "Identify the primary nature (communal or exchange) of your relationships to set appropriate expectations for giving and receiving. For communal relationships, focus on responding to needs and expressing care rather than tracking favors. For exchange relationships, ensure transparency and clear agreements on reciprocity to avoid misunderstandings.",
+      "pitfalls": "Misattributing an exchange dynamic to a communal relationship can lead to resentment if favors are strictly tracked. Conversely, treating an exchange relationship communally can result in being exploited or failing to secure fair compensation. Expecting communal norms from casual acquaintances or professional contacts can also lead to disappointment.",
+      "origin": "Margaret S. Clark and Judson Mills, 1979"
+    },
+    {
       "id": "equity-theory",
       "name": "Equity Theory",
       "category": "Relationships",
@@ -4488,12 +4506,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 257,
-    "generated": "2026-09-08",
+    "count": 258,
+    "generated": "2026-09-09",
     "lastAdded": {
-      "name": "Just-World Hypothesis",
-      "category": "Social Dynamics",
-      "date": "2026-09-08"
+      "name": "Communal vs. Exchange Relationships",
+      "category": "Relationships",
+      "date": "2026-09-09"
     }
   }
 }
