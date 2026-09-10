@@ -3576,6 +3576,24 @@
       "origin": "Formalized in medieval European banking; Albert Einstein is popularly (but apocryphally) credited; Benjamin Franklin demonstrated it via his 1790 bequest to Boston and Philadelphia, which compounded for 200 years."
     },
     {
+      "id": "cost-of-delay",
+      "name": "Cost of Delay",
+      "category": "Money & Time",
+      "tags": [
+        "economics",
+        "decision-making",
+        "productivity",
+        "project management",
+        "value"
+      ],
+      "oneLiner": "Quantifying the financial impact of postponing a decision or action to help prioritize work and understand the economic value of speed.",
+      "description": "Cost of Delay (CoD) is an economic model that quantifies the financial consequences of delaying the delivery of value, whether it's a product feature, a project, or a personal financial decision. It helps in making informed prioritization decisions by weighing the benefits of acting sooner against the costs incurred by waiting. This framework encourages a shift from merely \"doing work\" to understanding the tangible economic impact of delivery timelines. By making these costs explicit, organizations and individuals can make better trade-offs.",
+      "example": "A startup is debating whether to launch a minimum viable product (MVP) in two months or wait four months to include more features. They estimate the MVP could generate $50,000 in monthly revenue. The Cost of Delay for waiting an extra two months is $100,000 ($50,000/month * 2 months), which helps them decide to launch the MVP sooner and iterate later.",
+      "howToApply": "1. Identify the value stream: Clearly define the benefit (e.g., revenue, cost savings, risk reduction) associated with a specific action, project, or feature. 2. Estimate the value per unit of time: Quantify how much value is gained or lost for each day, week, or month of delay. 3. Use this cost to prioritize: When faced with multiple options, choose the one with the highest Cost of Delay to address first, or use it to justify investing more resources to accelerate delivery.",
+      "pitfalls": "Difficulty in accurate quantification: Estimating future revenue, cost savings, or intangible benefits can be speculative, leading to inaccurate Cost of Delay figures. Overemphasis on speed: Focusing solely on minimizing CoD can lead to rushed decisions, poor quality, or neglecting important but harder-to-quantify benefits like strategic alignment or employee well-being. Neglecting other factors: CoD is a tool for prioritization, not the sole criterion; factors like risk, feasibility, dependencies, and resource availability must also be considered.",
+      "origin": "Donald G. Reinertsen popularized the concept in the context of product development and lean manufacturing (Reinertsen, 1997/2009)."
+    },
+    {
       "id": "dollar-cost-averaging-dca",
       "name": "Dollar-Cost Averaging (DCA)",
       "category": "Money & Time",
@@ -4506,12 +4524,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 258,
-    "generated": "2026-09-09",
+    "count": 259,
+    "generated": "2026-09-10",
     "lastAdded": {
-      "name": "Communal vs. Exchange Relationships",
-      "category": "Relationships",
-      "date": "2026-09-09"
+      "name": "Cost of Delay",
+      "category": "Money & Time",
+      "date": "2026-09-10"
     }
   }
 }
