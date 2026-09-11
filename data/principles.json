@@ -1934,6 +1934,24 @@
       "origin": "Tom DeMarco, 'Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency' (Broadway Books, 2001). Zvi Mowshowitz, 'Slack,' thezvi.wordpress.com (2017). Mathematical foundation: Agner Erlang's queueing theory (1909) and Kingman's formula."
     },
     {
+      "id": "smart-goals",
+      "name": "SMART Goals",
+      "category": "Productivity",
+      "tags": [
+        "goal setting",
+        "planning",
+        "task management",
+        "effectiveness",
+        "project management"
+      ],
+      "oneLiner": "A framework for setting goals that are Specific, Measurable, Achievable, Relevant, and Time-bound, increasing clarity and success rates.",
+      "description": "SMART goals provide a clear structure for defining objectives, making them actionable and trackable. This framework helps prevent vague aspirations from becoming stalled projects by ensuring each goal has defined parameters for success and completion, fostering a higher likelihood of achievement.",
+      "example": "Instead of a vague goal like 'I want to write more,' a SMART goal would be: 'I will write 500 words for my novel every weekday morning before 9 AM for the next 12 weeks, completing the first draft by December 15th.'",
+      "howToApply": "When setting any goal, ensure it meets the SMART criteria: Is it Specific (what exactly?), Measurable (how will I track progress?), Achievable (is it realistic with available resources?), Relevant (does it align with my broader objectives?), and Time-bound (when will it be completed?).",
+      "pitfalls": "Over-focusing on measurability can lead to 'goodharting' (measuring the wrong thing, distorting the original intent). Can stifle creativity if too rigidly applied, especially for exploratory or complex projects. The 'Achievable' aspect might sometimes lead to setting less ambitious goals than one is capable of.",
+      "origin": "George T. Doran, \"There's a S.M.A.R.T. Way to Write Management's Goals and Objectives,\" 1981"
+    },
+    {
       "id": "the-seinfeld-strategy-dont-break-the-chain",
       "name": "The Seinfeld Strategy (Don't Break the Chain)",
       "category": "Productivity",
@@ -4524,12 +4542,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 259,
-    "generated": "2026-09-10",
+    "count": 260,
+    "generated": "2026-09-11",
     "lastAdded": {
-      "name": "Cost of Delay",
-      "category": "Money & Time",
-      "date": "2026-09-10"
+      "name": "SMART Goals",
+      "category": "Productivity",
+      "date": "2026-09-11"
     }
   }
 }
