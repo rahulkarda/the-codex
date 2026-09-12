@@ -1064,6 +1064,24 @@
       "origin": "Benjamin Franklin's autobiography (c. 1791); experimentally tested by Jon Jecker and David Landy, Human Relations (1969)."
     },
     {
+      "id": "choice-overload",
+      "name": "Choice Overload",
+      "category": "Psychology Effect",
+      "tags": [
+        "decision-making",
+        "cognitive bias",
+        "psychology",
+        "consumer behavior",
+        "choice architecture"
+      ],
+      "oneLiner": "When presented with too many options, people experience decision paralysis, reduced satisfaction, and are less likely to make a choice, even a good one.",
+      "description": "This effect describes the cognitive burden and negative emotional state that arises when individuals are faced with an excessive number of choices. Instead of increasing freedom, an abundance of options can lead to decision fatigue, anxiety, and a higher probability of deferring or avoiding a decision altogether. Even when a choice is made, the sheer number of unchosen alternatives can diminish post-decision satisfaction, as people tend to ruminate on missed opportunities.",
+      "example": "A customer walks into a supermarket aisle to buy jam. They find one brand offering 24 different flavors. Overwhelmed, they either spend a long time agonizing over the decision and leave feeling less satisfied with their eventual choice, or they simply walk away without buying any jam at all. In contrast, an aisle with only 6 flavors often leads to quicker decisions and higher purchase rates.",
+      "howToApply": "1. Curate Options: When presenting choices to others (or yourself), limit them to a manageable number, typically 3-7, to facilitate decision-making. 2. Highlight Key Differences: Clearly articulate the distinct benefits or features of each limited option to help differentiate them and guide the decision. 3. Provide a Default: Offer a recommended default option to reduce cognitive load, allowing people to opt-out if they prefer another choice.",
+      "pitfalls": "1. Over-Simplification: Reducing choices too much can sometimes alienate customers who genuinely value variety or specific niche options. 2. Perceived Loss of Freedom: If the reduction in choices is perceived as restrictive rather than helpful, it can trigger reactance, making people resistant. 3. Context Dependency: The optimal number of choices varies significantly by context; a simple purchase (jam) tolerates fewer options than a complex, high-stakes decision (car). Replication studies have shown mixed results, suggesting the effect is not universal and depends on factors like choice complexity, decision-maker expertise, and motivation.",
+      "origin": "Iyengar, S. S., & Lepper, M. R. (2000). When choice is demotivating: Can one desire too much of a good thing? Journal of Personality and Social Psychology, 79(6), 995–1006."
+    },
+    {
       "id": "cognitive-dissonance",
       "name": "Cognitive Dissonance",
       "category": "Psychology Effect",
@@ -4542,12 +4560,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 260,
-    "generated": "2026-09-11",
+    "count": 261,
+    "generated": "2026-09-12",
     "lastAdded": {
-      "name": "SMART Goals",
-      "category": "Productivity",
-      "date": "2026-09-11"
+      "name": "Choice Overload",
+      "category": "Psychology Effect",
+      "date": "2026-09-12"
     }
   }
 }
