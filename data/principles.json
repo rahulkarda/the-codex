@@ -3823,6 +3823,24 @@
       "origin": "Eldar Shafir, Sendhil Mullainathan, and Jiaying Zhao (2013) - \"Scarcity: Why Having Too Little Means So Much.\""
     },
     {
+      "id": "temporal-construal-theory",
+      "name": "Temporal Construal Theory",
+      "category": "Money & Time",
+      "tags": [
+        "cognition",
+        "decision making",
+        "time management",
+        "financial planning",
+        "psychology"
+      ],
+      "oneLiner": "Explains how the psychological distance of an event (especially time) influences our thoughts and decisions, making distant events abstract and near events concrete.",
+      "description": "When events are psychologically distant (e.g., far in the future), we tend to represent them in abstract, high-level terms, focusing on desirability. Conversely, when events are psychologically near (e.g., immediate), we represent them in concrete, low-level terms, focusing on feasibility. This shift in construal level impacts our preferences, evaluations, and behaviors related to time and money, often leading to different choices over time.",
+      "example": "A person planning for retirement years in advance might focus on the abstract goal of financial security and freedom, making it easier to commit to savings. However, when faced with an immediate opportunity to buy a new gadget, the concrete details of the purchase and immediate gratification often override the abstract long-term goal, making it harder to save.",
+      "howToApply": "To promote commitment to long-term goals, frame them in abstract, high-level terms (e.g., 'achieve financial independence' instead of 'save $X per month'). For immediate tasks or temptations that hinder long-term goals, try to make the negative consequences of inaction or indulgence more concrete and immediate. Conversely, to tackle immediate, unpleasant tasks, focus on their higher-level benefits or how they contribute to a larger abstract goal.",
+      "pitfalls": "Over-abstracting immediate tasks can lead to procrastination if feasibility details are ignored, making tasks seem less urgent or manageable. Conversely, focusing too concretely on distant goals can make them seem overwhelming, less appealing, or too difficult to start. The theory describes a cognitive bias, not a universal prescriptive solution for all decision-making contexts.",
+      "origin": "Yaacov Trope and Nira Liberman, primarily starting in the late 1990s and early 2000s."
+    },
+    {
       "id": "the-latte-factor",
       "name": "The Latte Factor",
       "category": "Money & Time",
@@ -4560,12 +4578,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 261,
-    "generated": "2026-09-12",
+    "count": 262,
+    "generated": "2026-09-13",
     "lastAdded": {
-      "name": "Choice Overload",
-      "category": "Psychology Effect",
-      "date": "2026-09-12"
+      "name": "Temporal Construal Theory",
+      "category": "Money & Time",
+      "date": "2026-09-13"
     }
   }
 }
