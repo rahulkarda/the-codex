@@ -2577,6 +2577,24 @@
       "origin": "Chi, M. T. H., Bassok, M., Lewis, M. W., Reimann, P., & Glaser, R. (1989). Self-explanations: How students study and use examples in learning to solve problems. Cognitive Science, 13(2), 145-182."
     },
     {
+      "id": "self-regulated-learning-srl",
+      "name": "Self-Regulated Learning (SRL)",
+      "category": "Learning",
+      "tags": [
+        "self-improvement",
+        "education",
+        "psychology",
+        "metacognition",
+        "autonomy"
+      ],
+      "oneLiner": "The process where learners actively guide their own learning through goal setting, strategy use, self-monitoring, and adapting behaviors to achieve academic or personal objectives.",
+      "description": "Self-Regulated Learning involves a cyclical process of forethought (planning and goal setting), performance (executing strategies and self-monitoring), and self-reflection (evaluating outcomes and adjusting future approaches). It empowers individuals to become active participants in their educational journey rather than passive recipients. This framework highlights the importance of intrinsic motivation and strategic self-management for effective knowledge acquisition and skill development.",
+      "example": "A student preparing for a challenging exam first sets clear study goals, then chooses specific learning strategies like active recall and spaced repetition. During study sessions, they monitor their understanding and adjust their approach if they encounter difficulties. After a practice test, they reflect on their performance, identify weak areas, and revise their study plan for the remaining time.",
+      "howToApply": "1. Set Clear Goals: Define specific, measurable learning objectives for each study session or project. 2. Plan Strategies: Before starting, select appropriate learning strategies (e.g., active recall, elaboration, practice problems) based on the task. 3. Monitor Progress: Regularly check your understanding and performance (e.g., using self-quizzing, summarizing, explaining concepts aloud). 4. Adapt and Adjust: If you're not meeting your goals or understanding material, modify your strategies, seek help, or adjust your study environment. 5. Reflect and Evaluate: After completing a learning task, assess what worked well, what didn't, and how you can improve your self-regulation for future learning.",
+      "pitfalls": "Learners might over-rely on familiar but suboptimal strategies if not taught effective alternatives. Without accurate metacognitive awareness, individuals may misjudge their understanding, leading to superficial learning. A lack of motivation or self-efficacy can hinder consistent application of SRL skills. Developing these skills can also initially increase cognitive load, potentially discouraging learners who prefer more external guidance.",
+      "origin": "Barry J. Zimmerman (1986, 2000)"
+    },
+    {
       "id": "spaced-repetition",
       "name": "Spaced Repetition",
       "category": "Learning",
@@ -4578,12 +4596,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 262,
-    "generated": "2026-09-13",
+    "count": 263,
+    "generated": "2026-09-14",
     "lastAdded": {
-      "name": "Temporal Construal Theory",
-      "category": "Money & Time",
-      "date": "2026-09-13"
+      "name": "Self-Regulated Learning (SRL)",
+      "category": "Learning",
+      "date": "2026-09-14"
     }
   }
 }
