@@ -2734,6 +2734,24 @@
       "origin": "Howard Giles, 1971 (originally Speech Accommodation Theory, later expanded to CAT)"
     },
     {
+      "id": "communication-privacy-management-theory-cpm",
+      "name": "Communication Privacy Management Theory (CPM)",
+      "category": "Communication",
+      "tags": [
+        "relationships",
+        "privacy",
+        "boundaries",
+        "trust",
+        "disclosure"
+      ],
+      "oneLiner": "Explains how individuals manage the revelation and concealment of private information within relationships by establishing and negotiating privacy boundaries.",
+      "description": "CPM theory posits that people own their private information and make decisions about when, how, and to whom they disclose it. These decisions are guided by privacy rules, which are influenced by five criteria: cultural expectations, gender, motivation, context, and risk/benefit ratio. When co-owners of private information don't coordinate their privacy rules, boundary turbulence can occur, leading to conflict.",
+      "example": "A friend confides in you about a sensitive family issue, explicitly asking you not to tell anyone else. You agree, establishing a shared privacy boundary. However, later, you mention a vague detail of the situation to another mutual friend, thinking it's harmless. This act violates the established boundary, potentially causing 'boundary turbulence' and damaging the trust in your initial friendship.",
+      "howToApply": "When receiving private information, clarify the explicit and implicit privacy rules with the discloser, asking 'Who else can know this?' or 'What are the limits of sharing this information?'. When disclosing your own private information, clearly state your expectations for privacy and delineate the boundaries of sharing to prevent misunderstandings and maintain control over your information. Regularly renegotiate boundaries as relationships evolve.",
+      "pitfalls": "Over-reliance on explicit boundary negotiation can feel overly formal or mistrustful in close relationships where implicit understanding is common. People often assume shared privacy rules, leading to unintentional boundary violations and conflict when expectations differ. Cultural variations in privacy norms can also lead to miscommunication, as what is considered private or shareable varies significantly across different backgrounds.",
+      "origin": "Sandra Petronio, 1991"
+    },
+    {
       "id": "curse-of-knowledge",
       "name": "Curse of Knowledge",
       "category": "Communication",
@@ -4596,12 +4614,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 263,
-    "generated": "2026-09-14",
+    "count": 264,
+    "generated": "2026-09-15",
     "lastAdded": {
-      "name": "Self-Regulated Learning (SRL)",
-      "category": "Learning",
-      "date": "2026-09-14"
+      "name": "Communication Privacy Management Theory (CPM)",
+      "category": "Communication",
+      "date": "2026-09-15"
     }
   }
 }
