@@ -3210,6 +3210,24 @@
       "origin": "Robert Cialdini, Influence: The Psychology of Persuasion (1984); roots in Marcel Mauss, The Gift (1925) and Alvin Gouldner's 'norm of reciprocity' (1960)."
     },
     {
+      "id": "self-verification-theory",
+      "name": "Self-Verification Theory",
+      "category": "Social Dynamics",
+      "tags": [
+        "self-concept",
+        "identity",
+        "social interaction",
+        "relationships",
+        "feedback"
+      ],
+      "oneLiner": "People seek and prefer interactions that confirm their self-views, even if those self-views are negative, to maintain a stable sense of self.",
+      "description": "This theory posits that individuals are motivated to maintain a consistent and coherent sense of self. To achieve this, they actively seek out and interpret information, as well as interact with others, in ways that confirm their existing self-conceptions. This drive for self-verification can sometimes override the desire for positive feedback, especially for those with negative self-views.",
+      "example": "A person who believes they are introverted might choose to spend time with friends who acknowledge and respect their need for solitude, rather than friends who constantly try to push them into large social gatherings. Even if a new acquaintance praises their \"extroverted energy,\" they might subtly correct or distance themselves from that person to maintain their self-perception.",
+      "howToApply": "When interacting with others, especially in close relationships, recognize that people often seek validation of their self-views. Provide feedback that acknowledges their self-concept, even while offering constructive criticism. For personal growth, be aware of how you might be unconsciously seeking to confirm limiting self-beliefs and actively challenge them.",
+      "pitfalls": "This can lead to self-handicapping or stagnation if one's self-concept is negative or limiting; individuals might avoid opportunities for growth or positive change if it contradicts their established self-view. It can also create friction in relationships if partners struggle to verify each other's differing self-concepts, or if one partner tries too hard to \"fix\" the other's negative self-view.",
+      "origin": "William B. Swann, Jr. (1983)"
+    },
+    {
       "id": "social-comparison-theory",
       "name": "Social Comparison Theory",
       "category": "Social Dynamics",
@@ -4614,12 +4632,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 264,
-    "generated": "2026-09-15",
+    "count": 265,
+    "generated": "2026-09-16",
     "lastAdded": {
-      "name": "Communication Privacy Management Theory (CPM)",
-      "category": "Communication",
-      "date": "2026-09-15"
+      "name": "Self-Verification Theory",
+      "category": "Social Dynamics",
+      "date": "2026-09-16"
     }
   }
 }
