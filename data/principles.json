@@ -3613,6 +3613,24 @@
       "origin": "Arthur Aron and Elaine N. Aron, 1986"
     },
     {
+      "id": "social-exchange-theory",
+      "name": "Social Exchange Theory",
+      "category": "Relationships",
+      "tags": [
+        "social psychology",
+        "relationships",
+        "decision making",
+        "reciprocity",
+        "costs-benefits"
+      ],
+      "oneLiner": "Relationships are viewed as economic transactions where individuals seek to maximize rewards and minimize costs, evaluating alternatives.",
+      "description": "This theory posits that people evaluate their relationships based on a cost-benefit analysis, similar to economic exchanges. Individuals continuously assess the rewards (e.g., companionship, support) versus the costs (e.g., effort, conflict) of a relationship. Satisfaction and commitment depend on the perceived balance, comparison level, and comparison level for alternatives. Relationships are maintained when rewards outweigh costs and better alternatives are not readily available.",
+      "example": "A person might stay in a long-term friendship despite occasional disagreements because the rewards of shared history and emotional support significantly outweigh the costs. However, if a new social group offers more consistent positive interactions with fewer demands, the individual might re-evaluate the old friendship and potentially invest less time and energy into it.",
+      "howToApply": "Regularly reflect on the balance of effort and benefit in your key relationships, ensuring mutual value and satisfaction. Communicate openly about unmet needs or disproportionate burdens to rebalance the exchange and prevent resentment. Actively invest in behaviors that increase rewards for both parties (e.g., appreciation, support) and address sources of conflict or cost.",
+      "pitfalls": "Critiques argue it oversimplifies human connection, reducing love and altruism to a cold calculation. It may not fully account for long-term commitment where initial costs are high but future rewards are uncertain, or for relationships built on deep emotional bonds rather than purely transactional logic. Its predictive power can be limited by the subjective and often unconscious definitions of 'rewards' and 'costs'.",
+      "origin": "George Homans (1958) and John Thibaut & Harold Kelley (1959) are key founders."
+    },
+    {
       "id": "social-penetration-theory",
       "name": "Social Penetration Theory",
       "category": "Relationships",
@@ -4632,12 +4650,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 265,
-    "generated": "2026-09-16",
+    "count": 266,
+    "generated": "2026-09-17",
     "lastAdded": {
-      "name": "Self-Verification Theory",
-      "category": "Social Dynamics",
-      "date": "2026-09-16"
+      "name": "Social Exchange Theory",
+      "category": "Relationships",
+      "date": "2026-09-17"
     }
   }
 }
