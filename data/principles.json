@@ -2230,6 +2230,24 @@
       "origin": "James Clear, 'Atomic Habits' (2018), Chapter 2 ('How Your Habits Shape Your Identity'); influenced by Carol Dweck's 'Mindset' (2006) and self-perception theory (Daryl Bem, 1972)."
     },
     {
+      "id": "structured-procrastination",
+      "name": "Structured Procrastination",
+      "category": "Focus & Habits",
+      "tags": [
+        "productivity",
+        "procrastination",
+        "task management",
+        "time management",
+        "strategy"
+      ],
+      "oneLiner": "Strategically postpone high-priority tasks by doing less important but still productive tasks, leveraging your natural inclination to procrastinate.",
+      "description": "Structured procrastination is an artful strategy where one exploits their tendency to procrastinate by having a hierarchy of tasks and working on the second-most important task when avoiding the most important. This method allows individuals to feel productive while putting off a daunting primary task, ensuring that *something* gets done rather than nothing. It reframes procrastination from a vice into a tool for productivity. The core idea is to always have several important tasks on your to-do list, allowing you to procrastinate on the most important one by doing another important one.",
+      "example": "A student has a massive thesis due but can't bring themselves to start. Instead of doing nothing or mindlessly browsing the internet, they decide to 'procrastinate' on the thesis by organizing their research notes, responding to important emails, or cleaning their workspace. These are all productive tasks that needed doing, and the student feels a sense of accomplishment, which can sometimes even build momentum for the thesis later.",
+      "howToApply": "1. Identify your absolute highest-priority task that you're most likely to procrastinate on. 2. Create a list of genuinely useful, but lower-priority, tasks that you've also been putting off. 3. When you feel the urge to avoid the top-priority task, consciously choose to work on one of the lower-priority, productive tasks instead of engaging in genuinely unproductive activities. 4. Regularly review your 'productive procrastination' list to ensure you're still making progress on valuable work.",
+      "pitfalls": "The main pitfall is mistaking genuine procrastination (doing nothing or truly unproductive things) for structured procrastination. It can also lead to perpetually delaying the most important tasks, creating significant stress or missed deadlines if not managed carefully. It's a tactic for getting *some* useful work done, not a substitute for tackling critical priorities directly when necessary.",
+      "origin": "John Perry, 1995 (Stanford University)"
+    },
+    {
       "id": "temptation-bundling",
       "name": "Temptation Bundling",
       "category": "Focus & Habits",
@@ -4650,12 +4668,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 266,
-    "generated": "2026-09-17",
+    "count": 267,
+    "generated": "2026-09-18",
     "lastAdded": {
-      "name": "Social Exchange Theory",
-      "category": "Relationships",
-      "date": "2026-09-17"
+      "name": "Structured Procrastination",
+      "category": "Focus & Habits",
+      "date": "2026-09-18"
     }
   }
 }
