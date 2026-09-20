@@ -942,6 +942,24 @@
       "origin": "Expected value formalized by Blaise Pascal and Pierre de Fermat in correspondence (1654); modern decision-theoretic form developed by von Neumann and Morgenstern in 'Theory of Games and Economic Behavior' (1944). Popularized for general audiences by Annie Duke ('Thinking in Bets,' 2018)."
     },
     {
+      "id": "reason-based-choice",
+      "name": "Reason-Based Choice",
+      "category": "Decision-Making",
+      "tags": [
+        "decision theory",
+        "justification",
+        "cognitive bias",
+        "rationality",
+        "choice architecture"
+      ],
+      "oneLiner": "People often make decisions by constructing reasons to justify a particular choice, rather than solely by maximizing utility or expected value.",
+      "description": "This theory posits that individuals tend to choose options for which they can readily articulate compelling reasons, even if those reasons don't strictly align with objective utility. It suggests that decision-making is often a process of finding a defensible argument for a preferred option, especially under uncertainty or conflict. This can lead to choices that appear irrational when viewed through a purely economic lens.",
+      "example": "When choosing between two equally priced laptops with slightly different features, a person might pick the one with a slightly better screen resolution because 'it's better for watching movies,' even if they rarely watch movies. The ease of justifying this specific feature becomes the driver for the choice, rather than a holistic assessment of their actual needs.",
+      "howToApply": "To make better decisions, explicitly list and weigh the objective pros and cons of each option, challenging the initial 'reasons' that come to mind. When presenting options to others, frame them with clear, objective benefits to guide their reasoning towards optimal choices rather than superficial justifications.",
+      "pitfalls": "This can lead to suboptimal decisions when the easily articulated reasons are not genuinely important or are misleading. Marketers often exploit this by highlighting easily justifiable features, even if they add little real value. It can also cause decision paralysis if too many equally justifiable options exist.",
+      "origin": "Eldar Shafir, Itamar Simonson, and Amos Tversky (1993)"
+    },
+    {
       "id": "regret-minimization-framework",
       "name": "Regret Minimization Framework",
       "category": "Decision-Making",
@@ -4686,12 +4704,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 268,
-    "generated": "2026-09-19",
+    "count": 269,
+    "generated": "2026-09-20",
     "lastAdded": {
-      "name": "Metabolic Health",
-      "category": "Health & Longevity",
-      "date": "2026-09-19"
+      "name": "Reason-Based Choice",
+      "category": "Decision-Making",
+      "date": "2026-09-20"
     }
   }
 }
