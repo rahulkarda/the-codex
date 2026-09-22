@@ -4161,6 +4161,24 @@
       "origin": "Amos Tversky and Daniel Kahneman, 1981 (in \"The Framing of Decisions and the Psychology of Choice\")"
     },
     {
+      "id": "free-rider-problem",
+      "name": "Free Rider Problem",
+      "category": "Economics & Incentives",
+      "tags": [
+        "collective action",
+        "public goods",
+        "incentives",
+        "game theory",
+        "market failure"
+      ],
+      "oneLiner": "When individuals benefit from public goods without contributing, leading to the under-provision or collapse of those goods due to insufficient collective effort.",
+      "description": "The Free Rider Problem occurs when a public good, which is non-excludable and non-rivalrous, is provided. Individuals can enjoy the benefits of the good without paying for or contributing to its provision. This creates an incentive for individuals to 'free ride' on the contributions of others, often resulting in the good being under-provided or not provided at all, as no single person has enough incentive to bear the full cost.",
+      "example": "A neighborhood wants to install streetlights. Each resident benefits from increased safety and visibility, regardless of whether they contribute to the cost. If enough residents decide to 'free ride' and hope others will pay, the streetlights may never be installed, or only a few will be installed, leaving the neighborhood darker and less safe than it could be.",
+      "howToApply": "To mitigate free riding, implement mechanisms that link contribution to benefit or introduce selective incentives. For public goods, consider mandatory contributions (e.g., taxes, homeowner association fees) or social pressure. For team projects, clearly define individual responsibilities and make contributions visible and accountable to foster a sense of shared ownership.",
+      "pitfalls": "Assuming all non-contributors are purely selfish; sometimes people genuinely cannot contribute. Over-relying on punitive measures can erode trust and cooperation, rather than fostering collective action. The problem is less severe in small, tight-knit groups where social pressure and reputation effects are stronger, making large-scale collective action harder to organize without formal institutions.",
+      "origin": "Mancur Olson, 1965, *The Logic of Collective Action: Public Goods and the Theory of Groups*"
+    },
+    {
       "id": "moral-hazard",
       "name": "Moral Hazard",
       "category": "Economics & Incentives",
@@ -4722,12 +4740,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 270,
-    "generated": "2026-09-21",
+    "count": 271,
+    "generated": "2026-09-22",
     "lastAdded": {
-      "name": "The Inner Citadel",
-      "category": "Philosophy & Stoicism",
-      "date": "2026-09-21"
+      "name": "Free Rider Problem",
+      "category": "Economics & Incentives",
+      "date": "2026-09-22"
     }
   }
 }
