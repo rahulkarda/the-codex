@@ -2824,6 +2824,23 @@
       "origin": "Camerer, C., Loewenstein, G., & Weber, M. (1989), 'The Curse of Knowledge in Economic Settings: An Experimental Analysis,' Journal of Political Economy 97(5), 1232-1254. Newton, E. L. (1990), 'The Rocky Road from Actions to Intentions,' Stanford PhD dissertation. Popularized in Chip and Dan Heath, 'Made to Stick' (2007), and Steven Pinker, 'The Sense of Style' (2014)."
     },
     {
+      "id": "expectancy-violations-theory",
+      "name": "Expectancy Violations Theory",
+      "category": "Communication",
+      "tags": [
+        "interpersonal",
+        "nonverbal",
+        "social psychology",
+        "communication theory"
+      ],
+      "oneLiner": "Explains how people react when others' behaviors deviate from expected norms, influencing communication outcomes and relationship dynamics.",
+      "description": "Expectancy Violations Theory (EVT) posits that individuals develop expectations about others' verbal and nonverbal communication based on social norms, previous interactions, and relationship type. When these expectations are violated, the recipient experiences arousal and evaluates the violation, interpreting it as positive or negative. This interpretation is heavily influenced by the violator's 'communicator reward valence' (e.g., attractiveness, status, power), which then determines the overall communication outcome.",
+      "example": "At a formal business dinner, a new colleague unexpectedly tells a very personal, off-color joke. This violates social expectations for professional conduct. If the colleague is highly respected and otherwise charming (high communicator reward valence), others might laugh awkwardly and quickly dismiss it. However, if the colleague is already disliked or seen as unprofessional (low reward valence), the same joke would be interpreted much more negatively, potentially damaging their reputation and professional standing.",
+      "howToApply": "1. Be aware of social and relational expectations in different contexts to avoid unintentional negative violations. 2. Strategically violate expectations positively (e.g., an unexpected compliment, a thoughtful gesture) to enhance your communicator reward valence and improve relationships. 3. When someone violates your expectations, consciously assess their 'communicator reward valence' before reacting, to understand how your interpretation might be biased.",
+      "pitfalls": "Over-reliance on 'communicator reward valence' can lead to excusing bad behavior from attractive or high-status individuals, reinforcing biases. Deliberate positive violations can backfire if perceived as manipulative or insincere, especially without an established positive relationship. The theory primarily focuses on the receiver's interpretation, potentially overlooking the violator's intent or significant cultural differences in expectations.",
+      "origin": "Judee K. Burgoon, 1978"
+    },
+    {
       "id": "grahams-hierarchy-of-disagreement-dh0-dh6",
       "name": "Graham's Hierarchy of Disagreement (DH0–DH6)",
       "category": "Communication",
@@ -4740,12 +4757,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 271,
-    "generated": "2026-09-22",
+    "count": 272,
+    "generated": "2026-09-23",
     "lastAdded": {
-      "name": "Free Rider Problem",
-      "category": "Economics & Incentives",
-      "date": "2026-09-22"
+      "name": "Expectancy Violations Theory",
+      "category": "Communication",
+      "date": "2026-09-23"
     }
   }
 }
