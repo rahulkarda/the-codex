@@ -2249,6 +2249,24 @@
       "origin": "Francesco Cirillo, developed in the late 1980s as a university student in Italy; formalized in his book The Pomodoro Technique (2006)."
     },
     {
+      "id": "premack-principle",
+      "name": "Premack Principle",
+      "category": "Focus & Habits",
+      "tags": [
+        "motivation",
+        "behavior",
+        "reinforcement",
+        "self-control",
+        "productivity"
+      ],
+      "oneLiner": "Use a preferred activity as a reward for completing a less preferred one, making \"first work, then play\" an effective habit-builder.",
+      "description": "This principle states that a high-probability behavior (something you enjoy and do often) can be used to reinforce a low-probability behavior (something you're less inclined to do). By making access to the preferred activity contingent on completing the less preferred one, you increase the likelihood of the latter. It's a powerful tool for self-management and habit formation.",
+      "example": "A student might tell themselves, \"If I finish my calculus homework, then I can play video games for an hour.\" A professional might commit to, \"After I clear my email inbox, I'll allow myself to browse social media.\"",
+      "howToApply": "Identify a task you frequently avoid (the low-probability behavior). Next, identify a highly enjoyable activity you do regularly (the high-probability behavior). Formulate a clear \"if-then\" rule: \"If I complete [low-probability behavior], then I get to do [high-probability behavior].\" Ensure the reward is truly motivating and immediately accessible.",
+      "pitfalls": "The chosen high-probability behavior must be genuinely desirable and not something that can be easily accessed without completing the low-probability task. If the \"work\" is too difficult or the \"reward\" is too weak, the contingency may fail. Over-reliance can make formerly enjoyable activities feel like chores if they are always tied to work.",
+      "origin": "David Premack, 1965"
+    },
+    {
       "id": "streaks-vs-identity-im-a-runner-beats-i-run",
       "name": "Streaks vs Identity ('I'm a runner' beats 'I run')",
       "category": "Focus & Habits",
@@ -4757,12 +4775,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 272,
-    "generated": "2026-09-23",
+    "count": 273,
+    "generated": "2026-09-24",
     "lastAdded": {
-      "name": "Expectancy Violations Theory",
-      "category": "Communication",
-      "date": "2026-09-23"
+      "name": "Premack Principle",
+      "category": "Focus & Habits",
+      "date": "2026-09-24"
     }
   }
 }
