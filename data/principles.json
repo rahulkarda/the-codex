@@ -1065,6 +1065,24 @@
       "origin": "Nassim Nicholas Taleb, 'Skin in the Game: Hidden Asymmetries in Daily Life' (Random House, 2018). Earlier articulations across Taleb's Incerto series ('Antifragile,' 'The Black Swan'); ancient roots in Hammurabi's Code (the builder is liable if the house collapses)."
     },
     {
+      "id": "system-1-and-system-2-thinking",
+      "name": "System 1 and System 2 Thinking",
+      "category": "Decision-Making",
+      "tags": [
+        "psychology",
+        "cognition",
+        "heuristics",
+        "bias",
+        "decision-making"
+      ],
+      "oneLiner": "Describes two distinct modes of thought: fast, intuitive (System 1) and slow, deliberate (System 2), influencing our judgments and decisions.",
+      "description": "System 1 is automatic, effortless, associative, and often emotional, quickly generating impressions and feelings. System 2 is slower, more effortful, logical, and reflective, monitoring and correcting System 1's impulses. Most decisions are influenced by System 1, with System 2 intervening only when necessary or prompted to override initial intuitions.",
+      "example": "When asked to solve '2+2=?', System 1 provides an instant answer. However, for '17x24=?', System 2 is engaged, requiring conscious effort, calculation, and sequential thought to arrive at the solution.",
+      "howToApply": "Recognize when critical decisions demand System 2 engagement, especially in novel, complex, or high-stakes situations. Challenge initial System 1 intuitions by consciously seeking disconfirming evidence or alternative perspectives. Design environments to support System 2 thinking for important tasks by minimizing distractions and allocating sufficient time.",
+      "pitfalls": "Over-reliance on System 1 can lead to biases and errors, while excessive System 2 use can cause decision fatigue and analysis paralysis. The model is a metaphor, not distinct brain systems; the interaction is more complex than a simple switch. It can be misused to dismiss intuition entirely or to oversimplify nuanced cognitive processes.",
+      "origin": "Daniel Kahneman, \"Thinking, Fast and Slow\" (2011), building on earlier work by Keith Stanovich and Richard West."
+    },
+    {
       "id": "ben-franklin-effect",
       "name": "Ben Franklin Effect",
       "category": "Psychology Effect",
@@ -4775,12 +4793,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 273,
-    "generated": "2026-09-24",
+    "count": 274,
+    "generated": "2026-09-25",
     "lastAdded": {
-      "name": "Premack Principle",
-      "category": "Focus & Habits",
-      "date": "2026-09-24"
+      "name": "System 1 and System 2 Thinking",
+      "category": "Decision-Making",
+      "date": "2026-09-25"
     }
   }
 }
