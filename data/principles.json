@@ -3843,6 +3843,24 @@
       "origin": "The phrase 'fuck-you money' appears in James Clavell's novel 'Tai-Pan' (1966) and Humphrey Bogart lore; the modern FIRE movement traces to Vicki Robin and Joe Dominguez's 'Your Money or Your Life' (1992) and Pete Adeney's 'Mr. Money Mustache' blog (2011)."
     },
     {
+      "id": "future-self-continuity",
+      "name": "Future Self Continuity",
+      "category": "Money & Time",
+      "tags": [
+        "psychology",
+        "decision making",
+        "long-term planning",
+        "self-control",
+        "identity"
+      ],
+      "oneLiner": "The degree to which individuals feel connected to their future selves significantly impacts long-term decision-making, especially regarding savings and health.",
+      "description": "This concept describes the psychological connectedness or perceived similarity between one's present self and one's future self. A higher sense of continuity leads to greater willingness to make sacrifices in the present for future benefits, influencing choices like saving for retirement, pursuing education, or maintaining health. Conversely, a low sense of continuity can lead to impulsive decisions and underinvestment in one's future.",
+      "example": "Someone with high future self continuity might consistently contribute to their retirement fund, even if it means foregoing immediate luxuries, because they strongly identify with and care for their older self. In contrast, someone with low continuity might spend impulsively, feeling their future self is almost a stranger whose problems aren't their own.",
+      "howToApply": "Visualize your future self vividly through journaling or meditation, considering their goals and challenges. Use aging apps or write a letter to your future self to foster a stronger connection and empathy. Frame future goals in terms of identity ('I am a saver') rather than just actions to reinforce this bond.",
+      "pitfalls": "Over-identification with a rigid future self can lead to inflexibility or burnout if current sacrifices become too extreme or future circumstances change. While the concept is robust, direct causal interventions to reliably increase continuity and produce specific behaviors have mixed results and often require sustained effort. It's a psychological construct, not a guaranteed pathway to specific financial or health outcomes.",
+      "origin": "Hershfield, H. E. (2011). Future self-continuity: How envisioning the future self impacts ethical decisions. Organizational Behavior and Human Decision Processes, 115(2), 320-330."
+    },
+    {
       "id": "hedonic-adaptation-hedonic-treadmill",
       "name": "Hedonic Adaptation (Hedonic Treadmill)",
       "category": "Money & Time",
@@ -4793,12 +4811,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 274,
-    "generated": "2026-09-25",
+    "count": 275,
+    "generated": "2026-09-26",
     "lastAdded": {
-      "name": "System 1 and System 2 Thinking",
-      "category": "Decision-Making",
-      "date": "2026-09-25"
+      "name": "Future Self Continuity",
+      "category": "Money & Time",
+      "date": "2026-09-26"
     }
   }
 }
