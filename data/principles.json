@@ -4372,6 +4372,24 @@
       "origin": "Anthony Downs, An Economic Theory of Democracy (1957)"
     },
     {
+      "id": "rent-seeking",
+      "name": "Rent-Seeking",
+      "category": "Economics & Incentives",
+      "tags": [
+        "economics",
+        "incentives",
+        "public policy",
+        "corruption",
+        "competition"
+      ],
+      "oneLiner": "The pursuit of economic gain by manipulating the economic environment, rather than by creating new wealth or value for society.",
+      "description": "Rent-seeking occurs when an individual or entity expends resources to obtain an economic gain from others without reciprocating any benefits to society through wealth creation. This often involves lobbying for government subsidies, tariffs, or regulations that favor one's own interests at the expense of competition or consumers. It diverts resources from productive activities, leading to inefficiency and reduced overall economic welfare.",
+      "example": "A powerful industry lobby spends millions influencing legislation to impose burdensome environmental regulations that disproportionately affect smaller, potential competitors. This allows the incumbent firm to protect its market share and pricing power, increasing its profits without improving product quality or fostering innovation for the consumer.",
+      "howToApply": "Identify situations where effort is directed towards capturing existing value rather than creating new value. Advocate for policies that promote competition and reduce opportunities for regulatory capture. Support transparency in lobbying and political donations to minimize hidden rent-seeking activities.",
+      "pitfalls": "It can be challenging to distinguish legitimate advocacy or competition from rent-seeking, as many activities have mixed motives. Accusing an entity of rent-seeking without clear evidence can be unfair and counterproductive. Sometimes, regulations or subsidies are genuinely intended for public good, even if they inadvertently create opportunities for rent-seeking.",
+      "origin": "Anne O. Krueger, 1974 (though the concept has roots in earlier economic thought)"
+    },
+    {
       "id": "signaling-theory",
       "name": "Signaling Theory",
       "category": "Economics & Incentives",
@@ -4811,12 +4829,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 275,
-    "generated": "2026-09-26",
+    "count": 276,
+    "generated": "2026-09-27",
     "lastAdded": {
-      "name": "Future Self Continuity",
-      "category": "Money & Time",
-      "date": "2026-09-26"
+      "name": "Rent-Seeking",
+      "category": "Economics & Incentives",
+      "date": "2026-09-27"
     }
   }
 }
