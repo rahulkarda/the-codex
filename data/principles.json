@@ -4657,6 +4657,24 @@
       "origin": "The concept of metabolic health and the criteria for metabolic syndrome were largely formalized in the late 20th and early 21st centuries by organizations like the World Health Organization (1998) and the National Cholesterol Education Program (NCEP) Adult Treatment Panel III (ATP III) (2001)."
     },
     {
+      "id": "mitochondrial-health",
+      "name": "Mitochondrial Health",
+      "category": "Health & Longevity",
+      "tags": [
+        "longevity",
+        "cellular health",
+        "energy",
+        "exercise",
+        "nutrition"
+      ],
+      "oneLiner": "Focus on optimizing cellular energy production through healthy mitochondria to enhance vitality, resilience, and extend healthy lifespan.",
+      "description": "Mitochondria are the \"powerhouses\" of our cells, converting nutrients into ATP, the energy currency of the body. Their health is critical for virtually every bodily function, from brain cognition to muscle performance and immune response. Dysfunctional mitochondria contribute to aging and numerous chronic diseases, making their optimization a cornerstone of longevity.",
+      "example": "An individual who regularly engages in Zone 2 cardio, incorporates resistance training, practices time-restricted eating, and consumes a nutrient-dense diet is actively supporting their mitochondrial health. They experience sustained energy levels, better cognitive function, and enhanced recovery, contributing to a longer, healthier life compared to someone with a sedentary lifestyle and poor diet.",
+      "howToApply": "1. Engage in Zone 2 Cardio: Perform moderate-intensity aerobic exercise (e.g., brisk walking, cycling) where you can hold a conversation but are slightly out of breath, for 150-300 minutes per week.\n2. Incorporate Resistance Training: Build muscle mass and improve mitochondrial biogenesis through strength training 2-3 times per week.\n3. Prioritize Nutrient-Dense Foods: Consume a diet rich in antioxidants, healthy fats, and micronutrients from whole foods (e.g., colorful vegetables, berries, fatty fish, nuts).\n4. Consider Time-Restricted Eating: Allow for daily periods of fasting (e.g., 12-16 hours) to promote mitochondrial repair and efficiency.\n5. Manage Stress and Sleep: Chronic stress and poor sleep impair mitochondrial function; prioritize stress reduction techniques and consistent, quality sleep.",
+      "pitfalls": "Over-reliance on supplements: While some supplements may support mitochondrial function, they are not a substitute for foundational lifestyle interventions like exercise and diet. Ignoring other health factors: Mitochondrial health is interconnected with other systems; neglecting sleep, stress, or social connection can still undermine overall longevity efforts. Focusing solely on biogenesis: While creating new mitochondria is important, optimizing the function of existing mitochondria through efficient fuel utilization and reducing oxidative stress is equally crucial.",
+      "origin": "The critical role of mitochondria in energy, aging, and disease has been elucidated through decades of cell biology and biochemistry research, with key insights from scientists like Douglas C. Wallace and David Sinclair."
+    },
+    {
       "id": "movement-snacks",
       "name": "Movement Snacks",
       "category": "Health & Longevity",
@@ -4829,12 +4847,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 276,
-    "generated": "2026-09-27",
+    "count": 277,
+    "generated": "2026-09-28",
     "lastAdded": {
-      "name": "Rent-Seeking",
-      "category": "Economics & Incentives",
-      "date": "2026-09-27"
+      "name": "Mitochondrial Health",
+      "category": "Health & Longevity",
+      "date": "2026-09-28"
     }
   }
 }
