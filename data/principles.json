@@ -1187,6 +1187,23 @@
       "origin": "Mihaly Csikszentmihalyi, Beyond Boredom and Anxiety (1975) and Flow: The Psychology of Optimal Experience (1990)."
     },
     {
+      "id": "foot-in-the-door-technique",
+      "name": "Foot-in-the-Door Technique",
+      "category": "Psychology Effect",
+      "tags": [
+        "social psychology",
+        "persuasion",
+        "influence",
+        "commitment"
+      ],
+      "oneLiner": "A persuasion technique where agreement to a small request increases the likelihood of agreeing to a larger, related request later.",
+      "description": "This technique leverages the principle of consistency. Once an individual complies with a minor request, they are more likely to comply with a subsequent, larger request because they want to maintain a consistent self-perception as a helpful or agreeable person. The initial small commitment changes their self-perception, making them more susceptible to further requests.",
+      "example": "A charity first asks people to sign a petition to support a cause (a small, easy request). A few days later, they contact the same people to ask for a donation to that cause. Those who signed the petition are more likely to donate than those who were only asked for a donation initially.",
+      "howToApply": "To influence behavior, start with a very small, easy-to-agree-to request that aligns with your ultimate goal. Once that initial commitment is made, gradually escalate to larger, related requests. Ensure the initial request is genuinely small and the subsequent requests are logically connected to the first.",
+      "pitfalls": "The effect can diminish if the initial request is too large or too trivial, or if the time between requests is too long. People may also become aware of the manipulation and resist. Overuse can lead to distrust, and replication studies have shown varying effect sizes, indicating it's not universally effective across all contexts or cultures.",
+      "origin": "Jonathan L. Freedman & Scott C. Fraser, 1966"
+    },
+    {
       "id": "growth-mindset",
       "name": "Growth Mindset",
       "category": "Psychology Effect",
@@ -4847,12 +4864,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 277,
-    "generated": "2026-09-28",
+    "count": 278,
+    "generated": "2026-09-29",
     "lastAdded": {
-      "name": "Mitochondrial Health",
-      "category": "Health & Longevity",
-      "date": "2026-09-28"
+      "name": "Foot-in-the-Door Technique",
+      "category": "Psychology Effect",
+      "date": "2026-09-29"
     }
   }
 }
