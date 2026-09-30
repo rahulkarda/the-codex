@@ -2075,6 +2075,24 @@
       "origin": "Practiced by Benjamin Franklin in his 1791 Autobiography (his hourly daily schedule); popularized in modern form by Cal Newport (Deep Work, 2016) and treated formally in his Time-Block Planner (2020)."
     },
     {
+      "id": "timeboxing",
+      "name": "Timeboxing",
+      "category": "Productivity",
+      "tags": [
+        "time management",
+        "focus",
+        "task management",
+        "agile",
+        "project management"
+      ],
+      "oneLiner": "Allocate a fixed, maximum time limit for a task or activity, compelling focused effort and preventing overruns.",
+      "description": "Timeboxing involves setting a strict, non-negotiable duration for a specific task or project component. When the timebox expires, work on that item stops, regardless of completion, forcing a decision on next steps. This technique helps manage scope, reduce procrastination, and improve estimation by enforcing a constraint.",
+      "example": "A software development team allocates a two-week 'sprint' (a timebox) to develop a set of features. At the end of two weeks, whatever is done is reviewed, and any unfinished work is re-prioritized for future sprints, preventing indefinite feature development.",
+      "howToApply": "1. Identify a specific task or activity to work on. 2. Determine a realistic, fixed time limit (e.g., 30 minutes, 2 hours, 1 week) for that task. 3. Set a timer and work exclusively on the task until the timebox expires. 4. When the timer rings, stop working. Evaluate progress and decide whether to create a new timebox for remaining work, or consider the task 'done enough' for now.",
+      "pitfalls": "Can lead to rushed, low-quality output if timeboxes are consistently too short or estimations are poor. May cause anxiety if the 'stop at all costs' rule is too rigidly applied to critical, incomplete work. Ineffective for tasks with highly unpredictable durations or those requiring deep, uninterrupted concentration for extended periods beyond typical timebox lengths. Not a substitute for proper planning; requires good task breakdown and realistic time estimates to be effective.",
+      "origin": "James Martin, Rapid Application Development (1991), though the concept predates this formalization in project management."
+    },
+    {
       "id": "two-minute-rule",
       "name": "Two-Minute Rule",
       "category": "Productivity",
@@ -4864,12 +4882,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 278,
-    "generated": "2026-09-29",
+    "count": 279,
+    "generated": "2026-09-30",
     "lastAdded": {
-      "name": "Foot-in-the-Door Technique",
-      "category": "Psychology Effect",
-      "date": "2026-09-29"
+      "name": "Timeboxing",
+      "category": "Productivity",
+      "date": "2026-09-30"
     }
   }
 }
