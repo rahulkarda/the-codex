@@ -3352,6 +3352,24 @@
       "origin": "Robert Cialdini, Influence: The Psychology of Persuasion (1984); roots in Marcel Mauss, The Gift (1925) and Alvin Gouldner's 'norm of reciprocity' (1960)."
     },
     {
+      "id": "self-perception-theory",
+      "name": "Self-Perception Theory",
+      "category": "Social Dynamics",
+      "tags": [
+        "psychology",
+        "self-awareness",
+        "attitude formation",
+        "behavior",
+        "social psychology"
+      ],
+      "oneLiner": "We infer our own attitudes, beliefs, and emotions by observing our past behavior and the situations in which it occurred, especially when internal cues are weak.",
+      "description": "Proposed by Daryl Bem, this theory suggests that people determine their attitudes and preferences by interpreting their own overt behavior and the circumstances under which it occurs. When internal states are ambiguous or weak, individuals act as outside observers, attributing motives and feelings to themselves based on their actions. This process is particularly relevant for new or weakly held attitudes.",
+      "example": "A person who isn't sure if they like classical music attends a few concerts because a friend invited them. Afterward, they might conclude, \"I must like classical music, because I keep going to concerts and spending money on tickets.\" Their observed behavior (attending concerts) informs their attitude.",
+      "howToApply": "1. To change an attitude, start by changing a related behavior, even a small one. 2. When unsure about a preference, engage in exploratory behaviors and then reflect on your actions to infer your true feelings. 3. Encourage desired attitudes in others by facilitating small, voluntary actions consistent with those attitudes.",
+      "pitfalls": "The theory is less applicable when internal cues (strong emotions, clear prior attitudes) are readily available. It can also lead to misattribution if external circumstances strongly compel a behavior, yet the individual incorrectly attributes it to an internal preference. Critics argue it may not fully explain attitude formation but rather how we become aware of existing attitudes.",
+      "origin": "Daryl J. Bem, 1967."
+    },
+    {
       "id": "self-verification-theory",
       "name": "Self-Verification Theory",
       "category": "Social Dynamics",
@@ -4882,12 +4900,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 279,
-    "generated": "2026-09-30",
+    "count": 280,
+    "generated": "2026-10-01",
     "lastAdded": {
-      "name": "Timeboxing",
-      "category": "Productivity",
-      "date": "2026-09-30"
+      "name": "Self-Perception Theory",
+      "category": "Social Dynamics",
+      "date": "2026-10-01"
     }
   }
 }
