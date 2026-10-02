@@ -2545,6 +2545,23 @@
       "origin": "Robert A. Bjork, term coined in 'Memory and Metamemory Considerations in the Training of Human Beings' (1994); developed further in Bjork & Bjork, 'Making Things Hard on Yourself, but in a Good Way' (2011)."
     },
     {
+      "id": "dual-coding-theory",
+      "name": "Dual Coding Theory",
+      "category": "Learning",
+      "tags": [
+        "memory",
+        "visualization",
+        "cognition",
+        "instructional design"
+      ],
+      "oneLiner": "Learning is enhanced when information is presented both verbally and visually, creating two separate mental representations that reinforce each other.",
+      "description": "This theory posits that humans process information through two distinct channels: one for verbal information (words, text) and another for non-verbal information (images, sounds). When both channels are engaged simultaneously with related content, it leads to richer, more robust memory traces, making recall and understanding easier. It reduces cognitive load by distributing the processing across different modalities.",
+      "example": "When learning about the water cycle, a student benefits more from a diagram showing evaporation, condensation, and precipitation with corresponding labels and explanatory text, rather than just reading a description or just viewing an unlabeled diagram. The visual and verbal elements work together to build a comprehensive mental model.",
+      "howToApply": "When studying or teaching, actively seek or create visual representations (diagrams, charts, infographics, sketches) that directly correspond to the verbal information (notes, lectures, text). Avoid merely decorating content; ensure visuals are integral to meaning. For complex topics, break down information into manageable visual-verbal pairs.",
+      "pitfalls": "Simply adding decorative images that don't directly support the verbal content can increase cognitive load without improving learning. Overloading either channel with too much information can also be detrimental. The quality and relevance of the visual-verbal connection are crucial; merely presenting both doesn't guarantee enhanced learning if they aren't integrated meaningfully.",
+      "origin": "Allan Paivio, 1971"
+    },
+    {
       "id": "elaborative-interrogation",
       "name": "Elaborative Interrogation",
       "category": "Learning",
@@ -4900,12 +4917,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 280,
-    "generated": "2026-10-01",
+    "count": 281,
+    "generated": "2026-10-02",
     "lastAdded": {
-      "name": "Self-Perception Theory",
-      "category": "Social Dynamics",
-      "date": "2026-10-01"
+      "name": "Dual Coding Theory",
+      "category": "Learning",
+      "date": "2026-10-02"
     }
   }
 }
