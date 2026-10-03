@@ -1534,6 +1534,23 @@
       "origin": "Zeno of Citium (c. 300 BCE), a foundational concept in Stoic philosophy."
     },
     {
+      "id": "judgment-as-the-source-of-distress",
+      "name": "Judgment as the Source of Distress",
+      "category": "Philosophy & Stoicism",
+      "tags": [
+        "stoicism",
+        "psychology",
+        "emotion regulation",
+        "cognitive reframing"
+      ],
+      "oneLiner": "Our distress comes not from external events themselves, but from our subjective judgments and interpretations of those events, which are within our control.",
+      "description": "This core Stoic principle asserts that external circumstances are inherently neutral ('indifferent'). It is our internal judgments—our beliefs, evaluations, and opinions about these circumstances—that determine whether we experience distress, anger, or fear. By shifting our perspective and challenging our interpretations, we can alter our emotional responses and maintain tranquility. This idea forms a cornerstone of cognitive behavioral approaches to emotional regulation.",
+      "example": "Imagine missing an important flight due to heavy traffic. One person might become furious, blaming the traffic and feeling their day is ruined, experiencing significant distress. Another might see it as an inconvenience, an unexpected opportunity to catch up on reading, or a chance to re-evaluate their schedule, remaining calm and proactive. The event (missing the flight) is the same; the emotional outcome differs due to their judgment.",
+      "howToApply": "When experiencing strong negative emotions, pause and explicitly separate the external event from your internal judgment about it. Question your judgment: 'Is this truly bad, or am I interpreting it as such based on my expectations or desires?' Seek alternative, more neutral or even positive interpretations, remembering that the event itself is just a fact, not inherently good or bad.",
+      "pitfalls": "This principle can be misinterpreted as denying legitimate suffering or avoiding necessary action. It does not mean ignoring problems, suppressing emotions, or becoming indifferent to injustice, but rather understanding the origin of distress to respond more effectively. Over-applying it to situations requiring empathy or systemic change can lead to victim-blaming or inaction, dismissing valid external causes of suffering.",
+      "origin": "Epictetus, Enchiridion (c. 108 AD)"
+    },
+    {
       "id": "memento-mori",
       "name": "Memento Mori",
       "category": "Philosophy & Stoicism",
@@ -4917,12 +4934,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 281,
-    "generated": "2026-10-02",
+    "count": 282,
+    "generated": "2026-10-03",
     "lastAdded": {
-      "name": "Dual Coding Theory",
-      "category": "Learning",
-      "date": "2026-10-02"
+      "name": "Judgment as the Source of Distress",
+      "category": "Philosophy & Stoicism",
+      "date": "2026-10-03"
     }
   }
 }
