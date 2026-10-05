@@ -3596,6 +3596,24 @@
       "origin": "John Gottman, 'The Relationship Cure' (2001) and Love Lab research from the 1990s."
     },
     {
+      "id": "common-ingroup-identity-model",
+      "name": "Common Ingroup Identity Model",
+      "category": "Relationships",
+      "tags": [
+        "social psychology",
+        "group dynamics",
+        "conflict resolution",
+        "identity",
+        "cohesion"
+      ],
+      "oneLiner": "Reducing intergroup bias and conflict by fostering a superordinate identity that includes former outgroup members as part of a new, larger \"we.\"",
+      "description": "This model proposes that if members of different groups can perceive themselves as belonging to a single, more inclusive group, their intergroup biases and prejudices will diminish. It involves creating a shared, superordinate identity that encompasses all individuals, shifting from an an \"us vs. them\" mindset to a unified \"we.\" This process facilitates more positive intergroup attitudes and behaviors, leading to greater cooperation and reduced conflict.",
+      "example": "Two rival departments within a company, often competing for resources, are tasked with a critical company-wide project that requires their full collaboration. By emphasizing their shared company goals, creating a unified project team name, and celebrating collective successes, the company can foster a common ingroup identity, reducing prior departmental animosity and improving overall project outcomes.",
+      "howToApply": "Identify existing group boundaries and shared goals that transcend them. Emphasize common values, threats, or aspirations that affect all parties. Create symbols, rituals, or language that represent the superordinate identity, and encourage cooperative tasks where success depends on intergroup collaboration.",
+      "pitfalls": "The superordinate identity must be genuinely inclusive and not perceived as an assimilation of one group into another, which can lead to resistance. If subgroup identities are threatened or devalued, resistance and increased conflict can occur, particularly when group differences are deeply entrenched or tied to core values. The model may also be less effective if the superordinate identity is not salient or meaningful to group members.",
+      "origin": "Samuel L. Gaertner and John F. Dovidio, 1993"
+    },
+    {
       "id": "communal-vs-exchange-relationships",
       "name": "Communal vs. Exchange Relationships",
       "category": "Relationships",
@@ -4934,12 +4952,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 282,
-    "generated": "2026-10-03",
+    "count": 283,
+    "generated": "2026-10-05",
     "lastAdded": {
-      "name": "Judgment as the Source of Distress",
-      "category": "Philosophy & Stoicism",
-      "date": "2026-10-03"
+      "name": "Common Ingroup Identity Model",
+      "category": "Relationships",
+      "date": "2026-10-05"
     }
   }
 }
