@@ -4196,6 +4196,24 @@
       "origin": "Popularized by productivity expert Laura Vanderkam in the 2010s."
     },
     {
+      "id": "time-poverty",
+      "name": "Time Poverty",
+      "category": "Money & Time",
+      "tags": [
+        "time",
+        "scarcity",
+        "economics",
+        "well-being",
+        "social issues"
+      ],
+      "oneLiner": "The chronic feeling or objective reality of having insufficient discretionary time to meet needs, obligations, and desired personal activities.",
+      "description": "Time poverty describes a state where individuals consistently lack adequate discretionary time due to excessive work, caregiving, or other demanding commitments. Often linked to economic status, it disproportionately affects lower-income individuals and women bearing unpaid labor burdens. This scarcity negatively impacts well-being, health, and social participation, leading to chronic stress and reduced life satisfaction. It's a systemic issue distinct from mere busyness or poor time management.",
+      "example": "A single parent working two minimum-wage jobs to support their family experiences time poverty. They have very little time for exercise, preparing healthy meals, spending quality time with their children, or pursuing personal interests, despite their best efforts to manage their schedule.",
+      "howToApply": "Recognize the objective and subjective aspects of time scarcity in your own life and others'. Strategically outsource or delegate non-essential tasks if financially feasible, or seek ways to reduce overall commitments. Advocate for policies that support work-life balance, such as flexible hours, affordable childcare, or universal basic services, to address systemic causes.",
+      "pitfalls": "Can be misattributed solely to poor individual time management, overlooking systemic constraints like low wages or caregiving demands. Confusing it with simply feeling busy can lead to ineffective personal solutions without addressing the root causes. It's also distinct from 'time confetti,' which describes fragmented but potentially sufficient total time.",
+      "origin": "Gained prominence in development economics and gender studies, notably by Nancy Folbre and UN Development Programme reports (late 20th century)."
+    },
+    {
       "id": "time-value-of-money-tvm",
       "name": "Time Value of Money (TVM)",
       "category": "Money & Time",
@@ -4952,12 +4970,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 283,
-    "generated": "2026-10-05",
+    "count": 284,
+    "generated": "2026-10-06",
     "lastAdded": {
-      "name": "Common Ingroup Identity Model",
-      "category": "Relationships",
-      "date": "2026-10-05"
+      "name": "Time Poverty",
+      "category": "Money & Time",
+      "date": "2026-10-06"
     }
   }
 }
