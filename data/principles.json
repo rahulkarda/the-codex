@@ -497,6 +497,23 @@
       "origin": "Term coined by Richard Thaler in 1980; canonical demonstration by Kahneman, Knetsch, and Thaler in Journal of Political Economy, 1990."
     },
     {
+      "id": "false-consensus-effect",
+      "name": "False Consensus Effect",
+      "category": "Cognitive Bias",
+      "tags": [
+        "social psychology",
+        "perception",
+        "group dynamics",
+        "communication"
+      ],
+      "oneLiner": "The tendency to overestimate how much other people agree with our beliefs, attitudes, and behaviors, assuming our views are more common than they are.",
+      "description": "This bias leads individuals to believe that their own choices and perspectives are normal and appropriate, and therefore, others would likely think and act similarly. It often arises from a desire for social validation and a selective exposure to information and people who reinforce one's existing views. It can hinder effective communication and lead to misunderstandings.",
+      "example": "A manager believes that their team will be enthusiastic about working extra hours on a new project because the manager personally finds the project exciting and important. They fail to poll the team or consider individual circumstances, assuming everyone shares their level of commitment and enthusiasm.",
+      "howToApply": "Actively seek out diverse perspectives and opinions, especially from those who might disagree with you. Before making assumptions about group consensus, conduct surveys, anonymous feedback, or direct conversations to gauge actual opinions. Practice perspective-taking by deliberately considering alternative viewpoints.",
+      "pitfalls": "This bias can lead to poor decision-making, as it prevents consideration of dissenting opinions or potential obstacles. It can also foster an echo chamber effect, where individuals surround themselves with like-minded people, reinforcing the bias. Critically, it can impede conflict resolution by making it harder to understand opposing sides.",
+      "origin": "Lee Ross, David Greene, and Pamela House (1977)"
+    },
+    {
       "id": "halo-effect",
       "name": "Halo Effect",
       "category": "Cognitive Bias",
@@ -4970,12 +4987,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 284,
-    "generated": "2026-10-06",
+    "count": 285,
+    "generated": "2026-10-07",
     "lastAdded": {
-      "name": "Time Poverty",
-      "category": "Money & Time",
-      "date": "2026-10-06"
+      "name": "False Consensus Effect",
+      "category": "Cognitive Bias",
+      "date": "2026-10-07"
     }
   }
 }
