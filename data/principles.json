@@ -4407,6 +4407,24 @@
       "origin": "Term used in 17th-century insurance; formalized economically by Kenneth Arrow, 'Uncertainty and the Welfare Economics of Medical Care' (1963); deepened by Bengt Holmström (1979)."
     },
     {
+      "id": "nash-equilibrium",
+      "name": "Nash Equilibrium",
+      "category": "Economics & Incentives",
+      "tags": [
+        "game theory",
+        "decision making",
+        "strategy",
+        "competition",
+        "equilibrium"
+      ],
+      "oneLiner": "A state in a game where no player can benefit by unilaterally changing their strategy, assuming other players' strategies remain unchanged.",
+      "description": "It's a stable outcome where each participant has chosen their best possible strategy, given the choices of the others. This doesn't necessarily mean it's the *optimal* outcome for all players collectively, but rather that no individual has an incentive to deviate. It's a self-enforcing agreement where all players are content with their chosen strategy, given the choices of the others.",
+      "example": "Two rival companies, A and B, are deciding whether to invest in a new, expensive technology. If both invest, they share the market benefits but incur high costs. If one invests and the other doesn't, the investing company gains a significant competitive edge. If the dominant strategy for each, fearing being left behind, is to invest regardless of the other's action, then both investing becomes a Nash Equilibrium, even if both might have been collectively better off by agreeing not to invest.",
+      "howToApply": "1. Map the Payoffs: Identify players, their possible strategies, and the payoffs for each combination of strategies. 2. Identify Best Responses: For each player, determine their optimal strategy given every possible strategy of the other players. 3. Find Mutual Best Responses: A Nash Equilibrium occurs where each player's chosen strategy is the best response to the other players' strategies. 4. Anticipate Behavior: Use this to predict stable outcomes in competitive or cooperative scenarios and design incentives to shift behavior towards a desired equilibrium.",
+      "pitfalls": "This concept assumes perfect rationality and complete information among players, which rarely holds true in real-world situations. Some games may have multiple Nash Equilibria, making prediction challenging without further context or coordination. Crucially, a Nash Equilibrium is not necessarily the most efficient or collectively optimal outcome, as individual incentives can lead to suboptimal collective results (e.g., the Prisoner's Dilemma).",
+      "origin": "John Forbes Nash Jr., 1950 (in his doctoral dissertation \"Non-Cooperative Games\")"
+    },
+    {
       "id": "network-effects",
       "name": "Network Effects",
       "category": "Economics & Incentives",
@@ -4987,12 +5005,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 285,
-    "generated": "2026-10-07",
+    "count": 286,
+    "generated": "2026-10-08",
     "lastAdded": {
-      "name": "False Consensus Effect",
-      "category": "Cognitive Bias",
-      "date": "2026-10-07"
+      "name": "Nash Equilibrium",
+      "category": "Economics & Incentives",
+      "date": "2026-10-08"
     }
   }
 }
