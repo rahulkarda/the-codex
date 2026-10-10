@@ -787,6 +787,24 @@
       "origin": "Jeff Bezos, recounted publicly in a 1997 interview and many times since; formally a variant of minimax-regret decision theory (Savage, 1951)."
     },
     {
+      "id": "bounded-rationality",
+      "name": "Bounded Rationality",
+      "category": "Decision-Making",
+      "tags": [
+        "cognition",
+        "heuristics",
+        "limitations",
+        "optimization",
+        "psychology"
+      ],
+      "oneLiner": "Humans make decisions with limited information, cognitive capacity, and time, leading to 'good enough' rather than perfectly rational choices.",
+      "description": "This theory posits that individuals are not perfectly rational 'economic agents' but rather make decisions within the bounds of their cognitive limitations, available information, and time constraints. Instead of optimizing for the absolute best outcome, people often 'satisfice,' choosing the first option that meets their minimum criteria. It explains why shortcuts (heuristics) are commonly employed in decision-making processes.",
+      "example": "When buying a new laptop, a person might not research every single model and compare every specification across all brands. Instead, they might set a budget, identify a few key features they need (e.g., screen size, RAM), and then choose the first laptop they find that meets those requirements and is from a trusted brand, even if a slightly better option exists that they didn't discover.",
+      "howToApply": "Recognize that perfect information and optimal outcomes are often unattainable and unnecessary. For important decisions, define your 'good enough' criteria upfront to avoid analysis paralysis. When presenting options to others, simplify choices and highlight key differentiators to aid their bounded decision-making.",
+      "pitfalls": "Over-relying on 'good enough' can lead to missed opportunities for significant improvements, especially in high-stakes situations where more effort in optimization is warranted. It can also be used as an excuse for lazy decision-making rather than a realistic acknowledgment of cognitive limits, blurring the line between satisficing and suboptimal choices.",
+      "origin": "Herbert A. Simon, 1950s"
+    },
+    {
       "id": "circle-of-competence",
       "name": "Circle of Competence",
       "category": "Decision-Making",
@@ -5023,12 +5041,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 287,
-    "generated": "2026-10-09",
+    "count": 288,
+    "generated": "2026-10-10",
     "lastAdded": {
-      "name": "Self-Determination Theory (SDT)",
-      "category": "Focus & Habits",
-      "date": "2026-10-09"
+      "name": "Bounded Rationality",
+      "category": "Decision-Making",
+      "date": "2026-10-10"
     }
   }
 }
