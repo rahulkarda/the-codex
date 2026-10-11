@@ -4904,6 +4904,24 @@
       "origin": "James A. Levine, 2002"
     },
     {
+      "id": "nutrient-density",
+      "name": "Nutrient Density",
+      "category": "Health & Longevity",
+      "tags": [
+        "nutrition",
+        "diet",
+        "health",
+        "food",
+        "micronutrients"
+      ],
+      "oneLiner": "Prioritizing foods that offer the highest amount of vitamins, minerals, and beneficial compounds per calorie to maximize health and satiety.",
+      "description": "Nutrient density refers to the concentration of micronutrients (vitamins, minerals) and beneficial macronutrients (protein, fiber, healthy fats) relative to the caloric content of a food. Foods with high nutrient density provide substantial nutritional value with fewer calories, supporting optimal bodily function and reducing the risk of nutrient deficiencies. This approach encourages selecting whole, unprocessed foods over calorie-dense, nutrient-poor options.",
+      "example": "Instead of consuming 200 calories from a sugary donut (low nutrient density, high calories, few micronutrients), choose 200 calories from a large serving of spinach and a handful of almonds. The spinach and almonds provide fiber, protein, healthy fats, and a wide array of vitamins and minerals, leading to greater satiety and health benefits.",
+      "howToApply": "1. Focus on whole, unprocessed foods: Prioritize vegetables, fruits, lean proteins, legumes, nuts, and seeds. 2. Read labels: Compare nutrient content (vitamins, minerals, fiber, protein) relative to calories when choosing packaged foods. 3. Minimize empty calories: Reduce intake of sugary drinks, refined grains, and highly processed snacks that offer little nutritional value. 4. Cook at home: Preparing meals allows for greater control over ingredients and nutrient density.",
+      "pitfalls": "Obsessive tracking: Focusing too rigidly on numbers can lead to orthorexia or an unhealthy relationship with food. Ignoring calorie needs: While nutrient density is key, total caloric intake must still align with individual energy requirements for weight management. Neglecting enjoyment: Over-prioritizing nutrient density can make eating feel restrictive, potentially leading to unsustainable dietary patterns. Misinterpretation: Some very healthy foods (like avocados or nuts) are calorie-dense but also nutrient-dense; the goal is to get the most nutrients *per calorie*, not necessarily the fewest calories overall.",
+      "origin": "The concept evolved in nutritional science, becoming prominent in dietary recommendations from the mid-20th century, emphasizing the quality of calories."
+    },
+    {
       "id": "resistance-training-for-longevity",
       "name": "Resistance Training for Longevity",
       "category": "Health & Longevity",
@@ -5041,12 +5059,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 288,
-    "generated": "2026-10-10",
+    "count": 289,
+    "generated": "2026-10-11",
     "lastAdded": {
-      "name": "Bounded Rationality",
-      "category": "Decision-Making",
-      "date": "2026-10-10"
+      "name": "Nutrient Density",
+      "category": "Health & Longevity",
+      "date": "2026-10-11"
     }
   }
 }
