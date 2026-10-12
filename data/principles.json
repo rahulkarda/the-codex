@@ -3351,6 +3351,24 @@
       "origin": "Lee Ross, 1977"
     },
     {
+      "id": "group-polarization",
+      "name": "Group Polarization",
+      "category": "Social Dynamics",
+      "tags": [
+        "group behavior",
+        "decision making",
+        "bias",
+        "social influence",
+        "extremism"
+      ],
+      "oneLiner": "Groups tend to make decisions or adopt attitudes that are more extreme than the initial average inclinations of their individual members.",
+      "description": "When individuals with similar initial leanings discuss an issue in a group, their collective decision or opinion often shifts towards a more extreme version of that initial leaning. This phenomenon is driven by both social comparison (desire to be 'better' or more committed than average) and persuasive arguments (hearing more arguments supporting one's initial view). It leads to amplified positions rather than moderation, especially in homogeneous groups.",
+      "example": "A jury initially composed of individuals who each lean slightly towards a 'guilty' verdict might, after deliberation, emerge with a unanimous and highly confident guilty verdict, far more extreme than any individual's initial conviction. Similarly, online echo chambers can amplify political views, leading to more radicalized positions among participants.",
+      "howToApply": "To mitigate its negative effects, ensure diverse perspectives are genuinely heard and valued, not just present. Employ techniques like 'devil's advocate' or structured debate where individuals argue against their own initial position. Encourage private deliberation before group discussion to anchor individual views and prevent premature conformity.",
+      "pitfalls": "Can lead to radicalization, poor decision-making due to a lack of critical evaluation, and increased intergroup conflict. Simply adding diverse members isn't enough; their voices must be equitably weighted and respected. The phenomenon is robust, but the specific mechanisms (persuasive arguments vs. social comparison) can vary in their relative influence depending on the context.",
+      "origin": "James Stoner (1961) observed the 'risky shift,' later generalized and termed 'group polarization' by Serge Moscovici and Marisa Zavalloni (1969)."
+    },
+    {
       "id": "groupthink",
       "name": "Groupthink",
       "category": "Social Dynamics",
@@ -5059,12 +5077,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 289,
-    "generated": "2026-10-11",
+    "count": 290,
+    "generated": "2026-10-12",
     "lastAdded": {
-      "name": "Nutrient Density",
-      "category": "Health & Longevity",
-      "date": "2026-10-11"
+      "name": "Group Polarization",
+      "category": "Social Dynamics",
+      "date": "2026-10-12"
     }
   }
 }
