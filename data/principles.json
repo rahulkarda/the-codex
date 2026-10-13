@@ -2581,6 +2581,24 @@
       "origin": "John Sweller, 1988."
     },
     {
+      "id": "context-dependent-memory",
+      "name": "Context-Dependent Memory",
+      "category": "Learning",
+      "tags": [
+        "memory",
+        "recall",
+        "environment",
+        "study",
+        "psychology"
+      ],
+      "oneLiner": "Information learned in a specific environment is better recalled when retrieved in the same or a similar environment.",
+      "description": "This phenomenon suggests that external environmental cues present during learning become associated with the material, serving as retrieval cues. When these cues are present again during recall, they facilitate access to the stored memory. It highlights the importance of matching study and testing conditions for optimal performance.",
+      "example": "A student studies for an exam in a quiet library room. They will likely perform better on the exam if they take it in a similar quiet, structured environment rather than a noisy, distracting cafeteria.",
+      "howToApply": "When studying, try to replicate the conditions of your eventual test environment as closely as possible (e.g., quiet room, desk setup). If that's not possible, vary your study locations to create multiple retrieval pathways, making your memory less dependent on a single context.",
+      "pitfalls": "Over-reliance on a single study context can hinder recall if the test environment drastically differs. The effect can be stronger for free recall than for recognition tasks. Some studies suggest the effect is more pronounced for less meaningful or less well-learned material.",
+      "origin": "Godden and Baddeley (1975) demonstrated this effect with their underwater learning experiment, building on the broader Encoding Specificity Principle (Tulving & Thomson, 1973)."
+    },
+    {
       "id": "deliberate-practice",
       "name": "Deliberate Practice",
       "category": "Learning",
@@ -5077,12 +5095,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 290,
-    "generated": "2026-10-12",
+    "count": 291,
+    "generated": "2026-10-13",
     "lastAdded": {
-      "name": "Group Polarization",
-      "category": "Social Dynamics",
-      "date": "2026-10-12"
+      "name": "Context-Dependent Memory",
+      "category": "Learning",
+      "date": "2026-10-13"
     }
   }
 }
