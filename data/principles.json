@@ -1428,6 +1428,23 @@
       "origin": "Robert K. Merton, 'The Self-Fulfilling Prophecy,' Antioch Review, 1948; concept rooted in W.I. Thomas's 1928 'Thomas theorem'."
     },
     {
+      "id": "self-handicapping",
+      "name": "Self-Handicapping",
+      "category": "Psychology Effect",
+      "tags": [
+        "self-esteem",
+        "motivation",
+        "bias",
+        "behavioral psychology"
+      ],
+      "oneLiner": "People create obstacles or claim impediments to their own success, providing an excuse for potential failure and protecting self-esteem.",
+      "description": "This cognitive strategy involves preemptively creating external attributions for anticipated poor performance. By sabotaging one's own chances, an individual can attribute failure to the impediment rather than to a lack of ability, thus preserving a sense of competence. It serves as a protective mechanism for self-esteem, especially in situations where performance is evaluative and uncertain.",
+      "example": "A student worried about failing an important exam might stay up all night playing video games instead of studying. If they fail, they can blame lack of sleep rather than their intellectual capacity; if they somehow pass, it enhances their perceived ability even further.",
+      "howToApply": "Recognize when you're creating unnecessary obstacles or delaying preparation for important tasks. Reflect on whether this behavior stems from a fear of failure and a desire to protect your ego. Instead, focus on process-oriented goals and effort, rather than solely on outcomes, to reduce the perceived threat of failure.",
+      "pitfalls": "While it offers short-term self-esteem protection, self-handicapping severely undermines actual performance and long-term success. It can become a chronic pattern, leading to underachievement, missed opportunities, and a cycle of self-sabotage. It also prevents genuine self-assessment and improvement.",
+      "origin": "Steven Berglas and Edward E. Jones (1978)"
+    },
+    {
       "id": "self-serving-bias",
       "name": "Self-Serving Bias",
       "category": "Psychology Effect",
@@ -5095,12 +5112,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 291,
-    "generated": "2026-10-13",
+    "count": 292,
+    "generated": "2026-10-14",
     "lastAdded": {
-      "name": "Context-Dependent Memory",
-      "category": "Learning",
-      "date": "2026-10-13"
+      "name": "Self-Handicapping",
+      "category": "Psychology Effect",
+      "date": "2026-10-14"
     }
   }
 }
