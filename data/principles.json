@@ -3738,6 +3738,23 @@
       "origin": "Margaret S. Clark and Judson Mills, 1979"
     },
     {
+      "id": "demand-withdraw-pattern",
+      "name": "Demand-Withdraw Pattern",
+      "category": "Relationships",
+      "tags": [
+        "communication",
+        "conflict",
+        "relationships",
+        "couples"
+      ],
+      "oneLiner": "A destructive communication cycle where one partner presses for discussion while the other avoids, leading to increased conflict and dissatisfaction.",
+      "description": "This pattern occurs when one partner (the demander) seeks engagement, discussion, or change, often through criticism or complaints, and the other partner (the withdrawer) responds by avoiding the issue, stonewalling, or physically leaving. It creates a self-perpetuating cycle where demand increases withdrawal, and withdrawal increases demand. This dynamic leads to escalating conflict, emotional distance, and reduced relationship satisfaction over time.",
+      "example": "A spouse repeatedly brings up financial concerns, saying, 'We need to talk about our spending; you're always buying unnecessary things!' (demander). The other spouse retreats to another room, changes the subject, or says, 'I'm not doing this now' (withdrawer). This cycle repeats, leaving both feeling unheard and frustrated, and the core issue unresolved.",
+      "howToApply": "Recognize the pattern by identifying if you tend to demand or withdraw in conflicts. If demanding, try softening your approach by using 'I' statements to express underlying needs rather than criticisms, and invite discussion gently. If withdrawing, practice active listening, signal a willingness to discuss the issue at a later, agreed-upon time, or suggest a structured conversation to avoid immediate retreat.",
+      "pitfalls": "It's easy to blame the other person for their role; however, both partners contribute to and maintain the cycle. Focusing solely on one's own role without acknowledging the partner's can be unhelpful. This pattern can also be a symptom of deeper issues like insecure attachment or power imbalances, which may require more than just communication adjustments to resolve.",
+      "origin": "Stuart P. Rosenthal (1979) and later extensively studied by Christensen & Heavey (1990)."
+    },
+    {
       "id": "equity-theory",
       "name": "Equity Theory",
       "category": "Relationships",
@@ -5112,12 +5129,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 292,
-    "generated": "2026-10-14",
+    "count": 293,
+    "generated": "2026-10-15",
     "lastAdded": {
-      "name": "Self-Handicapping",
-      "category": "Psychology Effect",
-      "date": "2026-10-14"
+      "name": "Demand-Withdraw Pattern",
+      "category": "Relationships",
+      "date": "2026-10-15"
     }
   }
 }
