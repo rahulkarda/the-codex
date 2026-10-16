@@ -1533,6 +1533,24 @@
       "origin": "Epictetus, Discourses (c. 108 AD)"
     },
     {
+      "id": "cognitive-distancing",
+      "name": "Cognitive Distancing",
+      "category": "Philosophy & Stoicism",
+      "tags": [
+        "stoicism",
+        "cognitive behavioral therapy",
+        "mindfulness",
+        "self-regulation",
+        "emotional intelligence"
+      ],
+      "oneLiner": "A technique to view thoughts and feelings as separate mental events rather than absolute truths, allowing for a more objective response.",
+      "description": "Cognitive distancing involves stepping back from one's thoughts and emotions to observe them without immediate judgment or identification. This practice helps to create a psychological space between oneself and one's internal experiences, reducing their power to dictate reactions. It allows for a more rational assessment of situations by recognizing that thoughts are not facts.",
+      "example": "Feeling anxious about an upcoming presentation, you might think, 'I'm going to fail.' Instead of accepting this as truth, cognitive distancing prompts you to reframe it as, 'I'm having the thought that I'm going to fail.' This small shift creates distance, allowing you to acknowledge the anxiety without being consumed by it, and then focus on preparation.",
+      "howToApply": "When experiencing distressing thoughts or intense emotions, mentally add the phrase 'I am having the thought that...' or 'I am noticing the feeling of...' before the thought/emotion itself. Visualize your thoughts as leaves floating down a stream or clouds passing in the sky. Practice observing them without engaging or judging, letting them pass.",
+      "pitfalls": "Overuse can lead to emotional suppression if not balanced with healthy emotional processing and self-compassion. It's a tool for managing distress, not for avoiding necessary emotional engagement or problem-solving. It can be misconstrued as denying reality if one distances from genuine concerns without addressing them.",
+      "origin": "While deeply rooted in Stoic philosophy (e.g., Epictetus, 1st-2nd century AD), the term 'Cognitive Distancing' was formalized and popularized within Cognitive Behavioral Therapy (CBT) by Aaron T. Beck in the 1960s."
+    },
+    {
       "id": "dichotomy-of-control",
       "name": "Dichotomy of Control",
       "category": "Philosophy & Stoicism",
@@ -5129,12 +5147,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 293,
-    "generated": "2026-10-15",
+    "count": 294,
+    "generated": "2026-10-16",
     "lastAdded": {
-      "name": "Demand-Withdraw Pattern",
-      "category": "Relationships",
-      "date": "2026-10-15"
+      "name": "Cognitive Distancing",
+      "category": "Philosophy & Stoicism",
+      "date": "2026-10-16"
     }
   }
 }
