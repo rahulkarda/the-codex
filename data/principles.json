@@ -3105,6 +3105,24 @@
       "origin": "Thomas Gordon, clinical psychologist, in 'Parent Effectiveness Training' (1970); refined in Marshall Rosenberg's 'Nonviolent Communication' (1999)."
     },
     {
+      "id": "illusion-of-transparency",
+      "name": "Illusion of Transparency",
+      "category": "Communication",
+      "tags": [
+        "communication",
+        "bias",
+        "cognitive bias",
+        "self-perception",
+        "misunderstanding"
+      ],
+      "oneLiner": "The tendency to overestimate the extent to which one's internal emotional states, thoughts, and intentions are apparent to others.",
+      "description": "This cognitive bias leads individuals to believe their feelings and thoughts are more obvious to observers than they actually are. It often results in miscommunication, as people fail to explicitly state what they assume is already understood. This effect is particularly pronounced in situations involving public speaking, social anxiety, or attempts to conceal emotions.",
+      "example": "A presenter feels extremely nervous during a speech, convinced that everyone in the audience can see their anxiety through their voice trembling or slight hand movements. In reality, the audience perceives them as only slightly nervous, if at all, and is mostly focused on the content of the presentation.",
+      "howToApply": "1. When communicating, especially critical information or emotions, explicitly state your message rather than assuming others will infer it. 2. Ask for feedback or confirmation (\"Does that make sense?\", \"How does that land with you?\") to check for understanding. 3. Practice self-awareness of your own internal states, but don't project that awareness onto others; assume they need more information than you think.",
+      "pitfalls": "Can lead to frustration when others don't \"get it\" without explicit explanation. May cause individuals to avoid necessary clarification, fearing they'll appear redundant or insecure. The effect can be stronger in high-stakes situations, ironically making people less likely to seek clarification when it's most needed. Not to be confused with the \"Spotlight Effect,\" which is about overestimating how much others notice one's appearance or behavior.",
+      "origin": "Thomas Gilovich, Kenneth Savitsky, and Victoria Husted Medvec (1998, 2000)"
+    },
+    {
       "id": "johari-window",
       "name": "Johari Window",
       "category": "Communication",
@@ -5147,12 +5165,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 294,
-    "generated": "2026-10-16",
+    "count": 295,
+    "generated": "2026-10-17",
     "lastAdded": {
-      "name": "Cognitive Distancing",
-      "category": "Philosophy & Stoicism",
-      "date": "2026-10-16"
+      "name": "Illusion of Transparency",
+      "category": "Communication",
+      "date": "2026-10-17"
     }
   }
 }
