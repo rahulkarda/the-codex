@@ -2040,6 +2040,24 @@
       "origin": "Ivy Ledbetter Lee, advising Charles M. Schwab of Bethlehem Steel, circa 1918; the story was widely circulated after Schwab reportedly paid Lee $25,000 (about $475,000 in 2025 dollars) for the method."
     },
     {
+      "id": "law-of-triviality-bikeshedding",
+      "name": "Law of Triviality (Bikeshedding)",
+      "category": "Productivity",
+      "tags": [
+        "group dynamics",
+        "meetings",
+        "decision making",
+        "attention management",
+        "cognitive bias"
+      ],
+      "oneLiner": "Groups often spend disproportionate time on trivial, easily understood issues while neglecting complex, important ones, creating an illusion of productivity.",
+      "description": "This phenomenon describes how committees or groups devote excessive time to debating minor, easily grasped issues, often because everyone feels qualified to contribute. Simultaneously, more significant, complex proposals, which fewer people understand, are often overlooked or quickly approved without sufficient scrutiny. It stems from the human tendency to engage with what's simple and avoid what's difficult, leading to a misallocation of collective attention. This can create an illusion of progress while critical, high-impact work remains underdeveloped.",
+      "example": "A software development team spends hours debating the exact wording of an error message or the color of a button, while a crucial architectural design decision for the entire system is rushed through with minimal discussion, as only a few members fully grasp its implications.",
+      "howToApply": "Implement strict time limits for agenda items, especially for topics prone to bikeshedding. For complex issues, ensure pre-reading and expert presentations are mandatory. Empower a facilitator to redirect discussions to high-impact items and challenge trivial tangents. Encourage silent reflection or written contributions for simple matters to save meeting time.",
+      "pitfalls": "The pitfall is not discussing minor details at all; some trivial issues can have significant user experience impacts. The danger lies in disproportionate time allocation. Over-correcting by silencing all minor input can lead to resentment or missed details that genuinely matter. The goal is efficient, focused discussion, not suppression of all feedback.",
+      "origin": "C. Northcote Parkinson, 1957"
+    },
+    {
       "id": "makers-schedule-managers-schedule",
       "name": "Maker's Schedule, Manager's Schedule",
       "category": "Productivity",
@@ -5165,12 +5183,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 295,
-    "generated": "2026-10-17",
+    "count": 296,
+    "generated": "2026-10-18",
     "lastAdded": {
-      "name": "Illusion of Transparency",
-      "category": "Communication",
-      "date": "2026-10-17"
+      "name": "Law of Triviality (Bikeshedding)",
+      "category": "Productivity",
+      "date": "2026-10-18"
     }
   }
 }
