@@ -856,6 +856,24 @@
       "origin": "Formalized in operations research literature in the 1960s; Howard Raiffa's 'Decision Analysis' (1968) is the canonical text. Roots in statistical decision theory (Wald, 1950) and game-tree analysis."
     },
     {
+      "id": "decoy-effect-asymmetric-dominance",
+      "name": "Decoy Effect (Asymmetric Dominance)",
+      "category": "Decision-Making",
+      "tags": [
+        "marketing",
+        "cognitive bias",
+        "choice architecture",
+        "consumer psychology",
+        "pricing strategy"
+      ],
+      "oneLiner": "An irrelevant third option, inferior to one choice but superior to another, can steer preference towards the former.",
+      "description": "The Decoy Effect, also known as the Asymmetric Dominance Effect, describes how the introduction of a third, 'decoy' option can influence preference between two original options. The decoy is strategically designed to be clearly inferior to one of the main options (the 'target') but not necessarily to the other (the 'competitor'). This makes the target option appear relatively more attractive and increases its likelihood of being chosen. It works by simplifying the comparative evaluation process, even if the decoy itself is rarely selected.",
+      "example": "A cinema offers a small popcorn for $3 and a large for $7. When a medium popcorn for $6.50 (the decoy) is added, it makes the large seem like a much better value by comparison, leading more people to choose the large, despite the medium being rarely purchased.",
+      "howToApply": "When presenting options, strategically introduce a 'decoy' choice that is clearly inferior to your preferred option on at least one dimension, but not necessarily to all other options. Ensure the decoy makes your target option appear disproportionately more attractive. Use this to guide user choices in product pricing, subscription tiers, or policy proposals.",
+      "pitfalls": "Overuse can lead to customer skepticism or a feeling of being manipulated, eroding trust. The decoy must be clearly dominated by one option but not by others; a poorly designed decoy can confuse or backfire, making all options seem less appealing. Ethical considerations are important, as it's a form of choice architecture that can steer people towards less optimal outcomes for them.",
+      "origin": "Joel Huber, Christopher Puto (1983)"
+    },
+    {
       "id": "eisenhower-matrix-urgent-important",
       "name": "Eisenhower Matrix (Urgent/Important)",
       "category": "Decision-Making",
@@ -5183,12 +5201,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 296,
-    "generated": "2026-10-18",
+    "count": 297,
+    "generated": "2026-10-19",
     "lastAdded": {
-      "name": "Law of Triviality (Bikeshedding)",
-      "category": "Productivity",
-      "date": "2026-10-18"
+      "name": "Decoy Effect (Asymmetric Dominance)",
+      "category": "Decision-Making",
+      "date": "2026-10-19"
     }
   }
 }
