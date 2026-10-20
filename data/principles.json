@@ -3512,6 +3512,24 @@
       "origin": "Melvin J. Lerner, 1966"
     },
     {
+      "id": "looking-glass-self",
+      "name": "Looking-Glass Self",
+      "category": "Social Dynamics",
+      "tags": [
+        "self-concept",
+        "social psychology",
+        "identity",
+        "perception",
+        "reflection"
+      ],
+      "oneLiner": "Our self-concept is largely shaped by how we imagine others perceive us, forming a \"looking-glass\" of reflected appraisals.",
+      "description": "This theory posits that individuals develop their self-image by internalizing the perceptions, judgments, and reactions of others towards them. It involves three main components: imagining how we appear to others, imagining their judgment of that appearance, and developing feelings (pride or mortification) as a result. It highlights the deeply social and reflective nature of self-identity formation.",
+      "example": "A child who is consistently praised by teachers and parents for being \"smart\" and \"creative\" may internalize these labels, developing a self-concept as an intelligent and imaginative individual, and subsequently act in ways that reinforce this identity. Conversely, a child frequently told they are \"clumsy\" might develop a self-image of being uncoordinated.",
+      "howToApply": "Actively seek out environments and relationships where others reflect positive and growth-oriented appraisals of you. Be mindful of the labels and judgments you project onto others, especially those in formative stages, as these can significantly influence their self-concept. Practice self-compassion to counter negative internalized judgments.",
+      "pitfalls": "The \"looking-glass\" can be distorted; we may misinterpret others' perceptions or overemphasize negative feedback while ignoring positive. It can lead to excessive people-pleasing or conformity if one becomes too reliant on external validation for self-worth. Also, it doesn't fully account for internal self-reflection or innate personality traits in self-concept formation.",
+      "origin": "Charles Horton Cooley, 1902 (Human Nature and the Social Order)"
+    },
+    {
       "id": "mirroring-and-behavioral-mimicry",
       "name": "Mirroring and Behavioral Mimicry",
       "category": "Social Dynamics",
@@ -5201,12 +5219,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 297,
-    "generated": "2026-10-19",
+    "count": 298,
+    "generated": "2026-10-20",
     "lastAdded": {
-      "name": "Decoy Effect (Asymmetric Dominance)",
-      "category": "Decision-Making",
-      "date": "2026-10-19"
+      "name": "Looking-Glass Self",
+      "category": "Social Dynamics",
+      "date": "2026-10-20"
     }
   }
 }
