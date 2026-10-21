@@ -2565,6 +2565,24 @@
       "origin": "Popularized by James Clear in Atomic Habits (2018), drawing on Mihaly Csikszentmihalyi's work on Flow State and optimal challenge."
     },
     {
+      "id": "the-progress-principle",
+      "name": "The Progress Principle",
+      "category": "Focus & Habits",
+      "tags": [
+        "motivation",
+        "productivity",
+        "engagement",
+        "self-management",
+        "work psychology"
+      ],
+      "oneLiner": "Small, consistent wins are the most important factor in motivating employees and sustaining engagement in meaningful work.",
+      "description": "Based on extensive research, the Progress Principle states that of all the things that can boost emotions, motivation, and perceptions during a workday, the single most important is making progress in meaningful work. Even small wins can trigger positive inner work life, leading to greater productivity, creativity, and commitment.",
+      "example": "A software development team uses daily stand-up meetings not just to report tasks, but to highlight completed sub-tasks or resolved issues from the previous day, regardless of size. This consistent acknowledgment of small achievements boosts morale and encourages continued effort on larger projects.",
+      "howToApply": "1. Break down large goals into small, manageable tasks where progress can be clearly observed daily. 2. Regularly track and acknowledge even minor accomplishments, perhaps with a visual tracker or brief team check-ins. 3. Frame tasks in terms of their contribution to a larger, meaningful purpose to enhance intrinsic motivation. 4. Reflect on daily progress at the end of each workday to reinforce the sense of achievement.",
+      "pitfalls": "Focusing solely on 'small wins' without connecting them to larger strategic goals can lead to busywork and a lack of overall direction. Over-celebrating trivial progress might devalue significant achievements or create a false sense of accomplishment. If the work itself lacks meaning or purpose, simply tracking progress may not be enough to sustain motivation long-term. Can be misinterpreted as a call for constant, unsustainable acceleration without allowing for necessary reflection or rest.",
+      "origin": "Teresa Amabile and Steven Kramer, \"The Progress Principle: Using Small Wins to Ignite Joy, Engagement, and Creativity at Work\" (2011)."
+    },
+    {
       "id": "ultradian-rhythms",
       "name": "Ultradian Rhythms",
       "category": "Focus & Habits",
@@ -5219,12 +5237,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 298,
-    "generated": "2026-10-20",
+    "count": 299,
+    "generated": "2026-10-21",
     "lastAdded": {
-      "name": "Looking-Glass Self",
-      "category": "Social Dynamics",
-      "date": "2026-10-20"
+      "name": "The Progress Principle",
+      "category": "Focus & Habits",
+      "date": "2026-10-21"
     }
   }
 }
