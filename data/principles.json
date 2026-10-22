@@ -4887,6 +4887,24 @@
       "origin": "Dan Buettner, 2004 (National Geographic article 'The Secrets of a Long Life')"
     },
     {
+      "id": "chronic-inflammation",
+      "name": "Chronic Inflammation",
+      "category": "Health & Longevity",
+      "tags": [
+        "inflammation",
+        "longevity",
+        "disease prevention",
+        "immune system",
+        "lifestyle"
+      ],
+      "oneLiner": "Persistent low-grade inflammation, a silent driver of many chronic diseases and accelerated aging, can be mitigated by lifestyle.",
+      "description": "Unlike acute inflammation, which is a beneficial short-term response to injury or infection, chronic inflammation is a prolonged, systemic immune response. It often lacks noticeable symptoms but contributes significantly to conditions like heart disease, diabetes, neurodegenerative disorders, and cancer. This persistent cellular stress gradually damages tissues and organs over time, accelerating aging processes.",
+      "example": "A person consistently eating highly processed foods, experiencing chronic stress, and having poor sleep may exhibit elevated C-reactive protein (CRP) levels, a marker of systemic inflammation. Over years, this contributes to plaque buildup in arteries, increasing their risk of cardiovascular disease, even without overt symptoms.",
+      "howToApply": "Adopt an anti-inflammatory diet rich in whole foods, omega-3s, and antioxidants (e.g., Mediterranean diet). Prioritize adequate sleep (7-9 hours), manage stress through mindfulness or relaxation techniques, and engage in regular moderate exercise. Avoid smoking and excessive alcohol consumption.",
+      "pitfalls": "Over-reliance on anti-inflammatory supplements without addressing underlying lifestyle factors is generally ineffective. Inflammatory markers can be elevated for acute reasons (e.g., infection or injury), so interpreting results requires medical context. Be skeptical of exaggerated 'anti-inflammatory' claims for specific foods or products lacking robust scientific evidence.",
+      "origin": "Modern understanding of chronic systemic inflammation as a driver of non-communicable diseases solidified in the late 20th century with extensive research across immunology and medicine."
+    },
+    {
       "id": "cognitive-reserve",
       "name": "Cognitive Reserve",
       "category": "Health & Longevity",
@@ -5237,12 +5255,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 299,
-    "generated": "2026-10-21",
+    "count": 300,
+    "generated": "2026-10-22",
     "lastAdded": {
-      "name": "The Progress Principle",
-      "category": "Focus & Habits",
-      "date": "2026-10-21"
+      "name": "Chronic Inflammation",
+      "category": "Health & Longevity",
+      "date": "2026-10-22"
     }
   }
 }
