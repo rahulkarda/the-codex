@@ -2826,6 +2826,24 @@
       "origin": "Craik, F. I. M., & Lockhart, R. S. (1972). Levels of processing: A framework for memory research."
     },
     {
+      "id": "memory-consolidation",
+      "name": "Memory Consolidation",
+      "category": "Learning",
+      "tags": [
+        "memory",
+        "sleep",
+        "neuroscience",
+        "retention",
+        "learning strategy"
+      ],
+      "oneLiner": "The brain's process of stabilizing and strengthening new, fragile memories into durable, long-term forms, significantly aided by sleep.",
+      "description": "New memories are initially fragile and susceptible to interference. Memory consolidation transforms these temporary traces into more robust, durable forms, making them less prone to forgetting. This process involves structural and functional changes in the brain, with distinct phases occurring during wakefulness and particularly during sleep, where replay and reorganization are prominent. It's crucial for moving information from short-term to long-term memory stores.",
+      "example": "After learning a new language's vocabulary or practicing a complex musical piece, getting a full night's sleep significantly improves recall and performance the next day compared to staying awake or being sleep-deprived. This effect is why students often feel they 'know' the material better after sleeping on it.",
+      "howToApply": "1. Prioritize consistent, sufficient sleep (7-9 hours for adults) immediately after learning new information or skills. 2. Incorporate short naps (20-90 minutes) after intensive learning sessions to facilitate initial consolidation. 3. Briefly review challenging material before sleep to leverage overnight consolidation processes.",
+      "pitfalls": "Insufficient or disrupted sleep severely impairs consolidation, leading to poorer retention and skill acquisition. Relying on cramming without adequate sleep is an ineffective long-term learning strategy, resulting in superficial, short-lived memory. While sleep is crucial, consolidation is not solely a nocturnal process; active engagement and retrieval practice during wakefulness are also vital.",
+      "origin": "Georg Elias Müller and Alfons Pilzecker (1900) proposed the theory of memory consolidation."
+    },
+    {
       "id": "metacognition",
       "name": "Metacognition",
       "category": "Learning",
@@ -5255,12 +5273,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 300,
-    "generated": "2026-10-22",
+    "count": 301,
+    "generated": "2026-10-23",
     "lastAdded": {
-      "name": "Chronic Inflammation",
-      "category": "Health & Longevity",
-      "date": "2026-10-22"
+      "name": "Memory Consolidation",
+      "category": "Learning",
+      "date": "2026-10-23"
     }
   }
 }
