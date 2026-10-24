@@ -2233,6 +2233,24 @@
       "origin": "David Allen, Getting Things Done: The Art of Stress-Free Productivity (Viking, 2001; revised edition 2015)."
     },
     {
+      "id": "woop-wish-outcome-obstacle-plan",
+      "name": "WOOP (Wish, Outcome, Obstacle, Plan)",
+      "category": "Productivity",
+      "tags": [
+        "goal setting",
+        "planning",
+        "self-regulation",
+        "motivation",
+        "behavior change"
+      ],
+      "oneLiner": "A four-step mental strategy for setting and achieving goals by visualizing success and anticipating internal obstacles with a clear plan.",
+      "description": "WOOP is a science-backed self-regulation technique that guides individuals through identifying a wish, its best outcome, internal obstacles to achieving it, and a plan to overcome those obstacles. It combines positive thinking with realistic obstacle identification, fostering both motivation and preparedness. This structured approach helps bridge the gap between intentions and actions by creating a clear path forward.",
+      "example": "A student wishes to get an A in a difficult course. The best Outcome is understanding the material deeply and feeling confident during exams. Their main internal Obstacle is procrastination, specifically getting distracted by social media while studying. Their Plan is: 'If I find myself reaching for my phone while studying, then I will immediately put it in another room for an hour.'",
+      "howToApply": "1.   Wish: Clearly state a challenging but attainable goal (e.g., 'I wish to run a marathon').\n2.   Outcome: Visualize the best possible feeling or result of achieving that wish (e.g., 'I'd feel incredibly proud and energized').\n3.   Obstacle: Identify your main *internal* obstacle preventing you from achieving the wish (e.g., 'My biggest obstacle is feeling too tired to train after work').\n4.   Plan: Formulate an 'If-Then' plan to overcome that specific obstacle (e.g., 'If I feel too tired after work, then I will put on my running shoes immediately when I get home and go for a short run').",
+      "pitfalls": "While effective, WOOP's efficacy relies on identifying *internal* and *realistic* obstacles; focusing on external or insurmountable obstacles can be demotivating. Over-optimism about the outcome without a clear obstacle plan, or a plan that's too vague, can reduce effectiveness. Some studies show stronger effects for health-related goals than purely academic or professional ones, though it's broadly applicable.",
+      "origin": "Gabriele Oettingen, 2014"
+    },
+    {
       "id": "2-day-rule-never-miss-twice",
       "name": "2-Day Rule (Never Miss Twice)",
       "category": "Focus & Habits",
@@ -5273,12 +5291,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 301,
-    "generated": "2026-10-23",
+    "count": 302,
+    "generated": "2026-10-24",
     "lastAdded": {
-      "name": "Memory Consolidation",
-      "category": "Learning",
-      "date": "2026-10-23"
+      "name": "WOOP (Wish, Outcome, Obstacle, Plan)",
+      "category": "Productivity",
+      "date": "2026-10-24"
     }
   }
 }
