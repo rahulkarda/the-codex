@@ -1639,6 +1639,24 @@
       "origin": "Epictetus, Enchiridion (c. 108 AD)"
     },
     {
+      "id": "living-according-to-nature",
+      "name": "Living According to Nature",
+      "category": "Philosophy & Stoicism",
+      "tags": [
+        "stoicism",
+        "ethics",
+        "virtue",
+        "nature",
+        "rationality"
+      ],
+      "oneLiner": "A Stoic principle to live in harmony with reason and the natural order of the cosmos, aligning actions with universal human rationality.",
+      "description": "This core Stoic tenet means acting in accordance with our rational faculty, which is seen as a spark of the universal reason (Logos) that governs the cosmos. It implies understanding our place in the natural world and fulfilling our role as rational, social beings. The goal is to live virtuously, recognizing that virtue is the only true good, and aligning our will with what is rational and beneficial for the whole. This doesn't mean reverting to a primitive state, but rather living in accordance with our highest human capacity: reason.",
+      "example": "When faced with a difficult decision, such as a colleague unfairly criticizing your work, instead of reacting with anger or defensiveness, a Stoic would reflect on what a rational and social being would do. Living according to nature might mean calmly addressing the criticism, seeking understanding, and focusing on improving, rather than retaliating or dwelling on resentment, thereby upholding virtues like justice and wisdom.",
+      "howToApply": "1. Cultivate self-awareness: Regularly examine your thoughts and actions, identifying when you're driven by irrational impulses versus reasoned judgment. 2. Understand your role: Reflect on your duties as a human being, a member of society, and in your specific relationships (e.g., parent, friend, citizen). 3. Practice virtue: Prioritize actions that embody wisdom, justice, courage, and temperance in all circumstances. 4. Accept what is beyond your control: Focus your energy on what you can influence (your judgments, choices, and actions) and accept the external world as it unfolds.",
+      "pitfalls": "This principle can be misinterpreted as endorsing a 'return to nature' in a primitive sense, rather than a rational and ethical one. Some interpretations may lean towards a fatalistic view, which can inadvertently undermine personal responsibility if not balanced with the Stoic emphasis on 'prohairesis' (faculty of choice). Additionally, the definition of 'natural' can be subjective, potentially leading to its use in justifying societal norms or biases that are not inherently rational or ethical.",
+      "origin": "Zeno of Citium (c. 300 BCE), elaborated by later Stoics like Epictetus and Marcus Aurelius."
+    },
+    {
       "id": "memento-mori",
       "name": "Memento Mori",
       "category": "Philosophy & Stoicism",
@@ -5291,12 +5309,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 302,
-    "generated": "2026-10-24",
+    "count": 303,
+    "generated": "2026-10-25",
     "lastAdded": {
-      "name": "WOOP (Wish, Outcome, Obstacle, Plan)",
-      "category": "Productivity",
-      "date": "2026-10-24"
+      "name": "Living According to Nature",
+      "category": "Philosophy & Stoicism",
+      "date": "2026-10-25"
     }
   }
 }
