@@ -1189,6 +1189,23 @@
       "origin": "Leon Festinger, 1957"
     },
     {
+      "id": "door-in-the-face-technique",
+      "name": "Door-in-the-Face Technique",
+      "category": "Psychology Effect",
+      "tags": [
+        "persuasion",
+        "negotiation",
+        "compliance",
+        "social psychology"
+      ],
+      "oneLiner": "A compliance strategy where a large, unreasonable request is followed by a smaller, more reasonable one, increasing the likelihood of agreement.",
+      "description": "This technique leverages the principle of reciprocal concessions. After rejecting an extreme initial request, individuals feel more obligated to agree to a subsequent, more modest request, perceiving it as a concession from the requester. The contrast between the two requests also makes the second request seem more reasonable.",
+      "example": "A volunteer asks you to commit to mentoring at-risk youth for 10 hours a week for a year. When you decline, they immediately ask if you would simply donate $20 to their organization instead. You are more likely to donate the $20 than if they had only asked for the $20 initially.",
+      "howToApply": "When seeking compliance, start with an exaggerated request that is likely to be rejected but is not absurdly impossible. Immediately follow up with your actual, more modest target request. Ensure the two requests are related and come from the same person or organization.",
+      "pitfalls": "The initial request must not be seen as completely unreasonable or manipulative, as this can backfire and lead to resentment. The second request must be presented as a concession, not just a separate request. Its effectiveness can vary across cultures and contexts, and repeated use might diminish its impact.",
+      "origin": "Robert Cialdini, John Vincent, Stephen Lewis, Peter Wheeler, Betty Darby (1975)"
+    },
+    {
       "id": "ego-depletion",
       "name": "Ego Depletion",
       "category": "Psychology Effect",
@@ -5309,12 +5326,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 303,
-    "generated": "2026-10-25",
+    "count": 304,
+    "generated": "2026-10-26",
     "lastAdded": {
-      "name": "Living According to Nature",
-      "category": "Philosophy & Stoicism",
-      "date": "2026-10-25"
+      "name": "Door-in-the-Face Technique",
+      "category": "Psychology Effect",
+      "date": "2026-10-26"
     }
   }
 }
