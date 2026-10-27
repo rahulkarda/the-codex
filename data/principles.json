@@ -4869,6 +4869,24 @@
       "origin": "William Samuelson and Richard Zeckhauser, 1988."
     },
     {
+      "id": "the-matthew-effect",
+      "name": "The Matthew Effect",
+      "category": "Economics & Incentives",
+      "tags": [
+        "cumulative advantage",
+        "social inequality",
+        "feedback loops",
+        "wealth distribution",
+        "success"
+      ],
+      "oneLiner": "Initial advantages or disadvantages compound over time, leading to disproportionately greater success for those already ahead and further struggles for those behind.",
+      "description": "This principle describes how 'the rich get richer and the poor get poorer' in various domains. Early success or resources create a positive feedback loop, attracting more opportunities, recognition, and resources. Conversely, early setbacks can lead to a negative spiral, making it harder to catch up. It highlights the self-reinforcing nature of success and failure.",
+      "example": "A young, promising startup secures early venture capital, which allows them to hire top talent, invest in marketing, and acquire more customers, making it easier to raise subsequent rounds and dominate the market, while equally innovative but less funded startups struggle.",
+      "howToApply": "Identify areas where initial small gains can create self-reinforcing advantages (e.g., early saving and investing, building a skill, networking). Focus efforts on establishing these initial footholds to trigger positive feedback loops. For systems, design interventions to break negative cycles or provide early support to those disadvantaged.",
+      "pitfalls": "Can lead to a fatalistic view if not understood as a system that can be influenced; it's not solely about individual merit but also systemic structures. Over-attributing success solely to initial advantage can overlook sustained effort or adaptation. Policies based on 'trickle-down' economics often fail to address the compounding disadvantages faced by those at the bottom.",
+      "origin": "Robert K. Merton, 1968 (sociological application of a biblical verse)"
+    },
+    {
       "id": "the-winners-curse",
       "name": "The Winner's Curse",
       "category": "Economics & Incentives",
@@ -5326,12 +5344,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 304,
-    "generated": "2026-10-26",
+    "count": 305,
+    "generated": "2026-10-27",
     "lastAdded": {
-      "name": "Door-in-the-Face Technique",
-      "category": "Psychology Effect",
-      "date": "2026-10-26"
+      "name": "The Matthew Effect",
+      "category": "Economics & Incentives",
+      "date": "2026-10-27"
     }
   }
 }
