@@ -4338,6 +4338,24 @@
       "origin": "Richard Thaler, 1980"
     },
     {
+      "id": "money-scripts",
+      "name": "Money Scripts",
+      "category": "Money & Time",
+      "tags": [
+        "psychology",
+        "money",
+        "beliefs",
+        "behavior",
+        "self-awareness"
+      ],
+      "oneLiner": "Unconscious beliefs and attitudes about money, often formed in childhood, that dictate financial behaviors and decisions.",
+      "description": "These deeply ingrained narratives influence how individuals earn, spend, save, and manage money. They can be adaptive or maladaptive, leading to predictable patterns in financial well-being. Understanding your money scripts is crucial for financial self-awareness and behavioral change. By recognizing these underlying beliefs, one can consciously challenge and alter destructive financial habits.",
+      "example": "A person with a 'Money Avoidance' script might consistently under-earn or sabotage financial success, believing wealth is inherently corrupt. Conversely, someone with a 'Money Worship' script might overwork and neglect personal relationships, convinced that more money will solve all their problems and bring ultimate happiness.",
+      "howToApply": "1. Reflect on your earliest money memories and lessons learned from family, culture, and significant life events. 2. Identify recurring financial patterns, emotional reactions, or conflicts you experience around money. 3. Use self-assessment tools, such as the Klontz Money Beliefs and Behaviors Scale, to pinpoint your dominant scripts. 4. Challenge maladaptive scripts by consciously adopting new, healthier beliefs and practicing alternative financial behaviors.",
+      "pitfalls": "Oversimplifying complex financial behavior to a single script, ignoring economic realities or systemic inequalities. Using money scripts as an excuse for poor financial decisions rather than a tool for personal growth and change. The concept is primarily psychological; it needs to be combined with practical financial planning and education for comprehensive results. Self-diagnosis can be inaccurate; professional guidance might be needed for deeply ingrained or problematic scripts.",
+      "origin": "Dr. Brad Klontz and Dr. Ted Klontz (2009) in \"Mind Over Money: Overcoming the Money Disorders That Threaten Our Financial Health\"."
+    },
+    {
       "id": "pay-yourself-first",
       "name": "Pay Yourself First",
       "category": "Money & Time",
@@ -5344,12 +5362,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 305,
-    "generated": "2026-10-27",
+    "count": 306,
+    "generated": "2026-10-28",
     "lastAdded": {
-      "name": "The Matthew Effect",
-      "category": "Economics & Incentives",
-      "date": "2026-10-27"
+      "name": "Money Scripts",
+      "category": "Money & Time",
+      "date": "2026-10-28"
     }
   }
 }
