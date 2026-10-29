@@ -3353,6 +3353,24 @@
       "origin": "Socrates, 5th century BCE Athens, recorded primarily in Plato's early dialogues (e.g., 'Euthyphro,' 'Meno,' 'Theaetetus')."
     },
     {
+      "id": "speech-act-theory",
+      "name": "Speech Act Theory",
+      "category": "Communication",
+      "tags": [
+        "linguistics",
+        "pragmatics",
+        "intention",
+        "meaning",
+        "language"
+      ],
+      "oneLiner": "Communication involves performing actions through language, not just conveying information, with distinct literal, intended, and actual effects.",
+      "description": "Speech Act Theory posits that utterances do more than just state facts; they perform specific actions like promising, requesting, or warning. Each speech act has a locutionary component (the literal statement), an illocutionary component (the speaker's intended action), and a perlocutionary component (the actual effect on the listener). Understanding the intended illocutionary force is crucial for effective and unambiguous communication.",
+      "example": "A manager says to an employee, 'I'd appreciate it if this report were on my desk by Friday.' The locutionary act is stating a preference. The illocutionary act is a polite but firm request or even a directive. The perlocutionary act is the employee prioritizing and completing the report by Friday.",
+      "howToApply": "When speaking, clarify your intentions by using explicit performative verbs (e.g., 'I promise...', 'I request...', 'I warn you...'). When listening, actively discern the speaker's underlying intention (illocutionary force) beyond their literal words, considering context and non-verbal cues. If unsure, ask clarifying questions like, 'Are you asking me to do X?'",
+      "pitfalls": "Misinterpreting the illocutionary force can lead to significant misunderstandings, unfulfilled expectations, or offense. Cultural differences heavily influence how speech acts are performed and interpreted, making cross-cultural communication particularly prone to breakdowns. Not all utterances are straightforward speech acts, and context is paramount; relying solely on literal interpretation can be misleading.",
+      "origin": "J.L. Austin, 1962 (How to Do Things with Words)"
+    },
+    {
       "id": "steel-manning",
       "name": "Steel-Manning",
       "category": "Communication",
@@ -5362,12 +5380,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 306,
-    "generated": "2026-10-28",
+    "count": 307,
+    "generated": "2026-10-29",
     "lastAdded": {
-      "name": "Money Scripts",
-      "category": "Money & Time",
-      "date": "2026-10-28"
+      "name": "Speech Act Theory",
+      "category": "Communication",
+      "date": "2026-10-29"
     }
   }
 }
