@@ -633,6 +633,24 @@
       "origin": "Roy Baumeister, Ellen Bratslavsky, Catrin Finkenauer, & Kathleen Vohs, 2001, 'Bad is Stronger than Good,' Review of General Psychology 5:323-370; concurrently Paul Rozin & Edward Royzman, 2001."
     },
     {
+      "id": "outcome-bias",
+      "name": "Outcome Bias",
+      "category": "Cognitive Bias",
+      "tags": [
+        "decision making",
+        "evaluation",
+        "judgment",
+        "hindsight",
+        "risk"
+      ],
+      "oneLiner": "The tendency to judge the quality of a decision based on its eventual outcome, rather than on the information and reasoning available at the time it was made.",
+      "description": "This bias leads individuals to retrospectively evaluate a decision as good if the outcome was positive, and bad if the outcome was negative, regardless of the soundness of the original choice process. It often overlooks the role of luck or unforeseen circumstances. Consequently, it can hinder learning from past experiences by misattributing success or failure.",
+      "example": "A manager approves a risky project based on incomplete information, but it unexpectedly succeeds due to a market shift nobody could have predicted. Colleagues praise the manager's 'bold vision,' ignoring the poor decision-making process. Conversely, a well-researched investment that fails due to an unpredictable global event might lead to the decision-maker being criticized for a 'bad' choice.",
+      "howToApply": "When evaluating past decisions, consciously separate the decision-making process from the outcome. Ask: 'Given what was known at the time, was this the best choice?' Document reasoning and assumptions before making critical decisions to provide an objective reference point for future review. Focus on improving your process, not just celebrating good luck or lamenting bad luck.",
+      "pitfalls": "This bias can lead to 'resulting,' where good decisions with bad outcomes are punished, and bad decisions with good outcomes are rewarded, distorting incentives and learning. It also makes it difficult to assess risk accurately, as people might become overly cautious after a bad outcome, even if the decision was rational, or overly confident after a lucky success. It can foster a culture of blame rather than learning.",
+      "origin": "Baron, J., & Hershey, J. C. (1988). Outcome bias in decision evaluation. Journal of Personality and Social Psychology, 54(4), 569–579."
+    },
+    {
       "id": "recency-bias",
       "name": "Recency Bias",
       "category": "Cognitive Bias",
@@ -5380,12 +5398,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 307,
-    "generated": "2026-10-29",
+    "count": 308,
+    "generated": "2026-10-30",
     "lastAdded": {
-      "name": "Speech Act Theory",
-      "category": "Communication",
-      "date": "2026-10-29"
+      "name": "Outcome Bias",
+      "category": "Cognitive Bias",
+      "date": "2026-10-30"
     }
   }
 }
