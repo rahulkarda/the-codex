@@ -4111,6 +4111,24 @@
       "origin": "Sandra L. Murray, John G. Holmes, Dale W. Griffin (1996)"
     },
     {
+      "id": "relationship-attributional-style",
+      "name": "Relationship Attributional Style",
+      "category": "Relationships",
+      "tags": [
+        "relationships",
+        "communication",
+        "cognitive bias",
+        "psychology",
+        "conflict resolution"
+      ],
+      "oneLiner": "How partners interpret each other's behaviors, especially negative ones, influencing relationship satisfaction through internal/external, stable/unstable, global/specific lenses.",
+      "description": "This refers to the characteristic ways individuals explain the causes of their partner's actions and relationship events. In distressed relationships, partners often make 'distress-maintaining' attributions, seeing negative behaviors as internal, stable, and global, while positive behaviors are external, unstable, and specific. Conversely, 'relationship-enhancing' attributions in satisfied relationships interpret negative acts as external, unstable, and specific, and positive acts as internal, stable, and global. This habitual pattern of explanation significantly impacts emotional responses and relationship dynamics.",
+      "example": "A wife forgets to pick up dry cleaning. In a distressed relationship, the husband might think, 'She forgot because she's always so irresponsible and doesn't care about my needs (internal, stable, global).' In a healthy relationship, he might think, 'She must have had a crazy day at work; she's been swamped lately (external, unstable, specific).'",
+      "howToApply": "1. Pause and Reflect: Before reacting to a partner's negative behavior, consciously pause and consider alternative, more benign explanations. 2. Challenge Negative Attributions: Ask yourself if there's an external, unstable, or specific reason for their action, rather than immediately assuming internal, stable, global traits. 3. Communicate Openly: Express your interpretation and ask your partner for their perspective, fostering understanding rather than assuming malicious intent. 4. Cultivate Positive Attributions: When your partner does something positive, attribute it to their character (internal, stable) rather than external factors.",
+      "pitfalls": "Over-attribution to external factors for negative behaviors can prevent addressing real, recurring issues. If negative behaviors are truly consistent and harmful, attributing them solely to unstable, external factors can lead to complacency. Confirmation bias can reinforce existing negative attributional styles, making it difficult to shift perspectives. This style is one factor among many and doesn't replace direct communication or problem-solving for deeper relationship issues.",
+      "origin": "Frank D. Fincham and Thomas N. Bradbury (1990s), building on general attribution theory by Fritz Heider (1958) and Harold Kelley (1967)."
+    },
+    {
       "id": "repair-attempts",
       "name": "Repair Attempts",
       "category": "Relationships",
@@ -5398,12 +5416,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 308,
-    "generated": "2026-10-30",
+    "count": 309,
+    "generated": "2026-10-31",
     "lastAdded": {
-      "name": "Outcome Bias",
-      "category": "Cognitive Bias",
-      "date": "2026-10-30"
+      "name": "Relationship Attributional Style",
+      "category": "Relationships",
+      "date": "2026-10-31"
     }
   }
 }
