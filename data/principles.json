@@ -2949,6 +2949,23 @@
       "origin": "Metcalfe, J., & Kornell, N. (2007). The pretesting effect: The benefits of failing. Journal of Experimental Psychology: Learning, Memory, and Cognition, 33(2), 406–416."
     },
     {
+      "id": "productive-failure",
+      "name": "Productive Failure",
+      "category": "Learning",
+      "tags": [
+        "problem-solving",
+        "pedagogy",
+        "cognition",
+        "effortful learning"
+      ],
+      "oneLiner": "Attempting to solve complex problems independently before instruction, allowing learners to identify knowledge gaps and better appreciate subsequent teaching.",
+      "description": "This learning approach encourages students to first tackle challenging, novel problems without prior instruction, often leading to initial 'failures' or incomplete solutions. These efforts help learners activate relevant prior knowledge, recognize their limitations, and generate multiple solution pathways. This prepares their minds to more deeply process and understand formal instruction when it is eventually provided.",
+      "example": "A group of engineering students is asked to design a bridge with specific constraints using only their general physics knowledge, before any lectures on bridge design principles. Their initial designs will likely have flaws, but the struggle to identify and address these issues makes them highly receptive to the subsequent lessons on structural integrity and load distribution.",
+      "howToApply": "When encountering a new, complex topic, resist the urge to immediately seek the 'right' answer. Instead, try to solve a related problem or explain the concept using your existing knowledge. Document your attempts and the points where you get stuck. Then, engage with instructional materials or expert explanations, paying close attention to how they address the specific difficulties you encountered.",
+      "pitfalls": "If problems are too difficult or the initial struggle is prolonged without eventual guidance, it can lead to frustration, demotivation, or the reinforcement of incorrect methods. It requires careful scaffolding and timely, targeted instruction after the initial exploration phase. Not ideal for foundational knowledge where precision is paramount from the outset.",
+      "origin": "Manu Kapur (2008), \"Productive Failure in Mathematical Problem Solving\""
+    },
+    {
       "id": "scaffolding",
       "name": "Scaffolding",
       "category": "Learning",
@@ -5416,12 +5433,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 309,
-    "generated": "2026-10-31",
+    "count": 310,
+    "generated": "2026-11-01",
     "lastAdded": {
-      "name": "Relationship Attributional Style",
-      "category": "Relationships",
-      "date": "2026-10-31"
+      "name": "Productive Failure",
+      "category": "Learning",
+      "date": "2026-11-01"
     }
   }
 }
