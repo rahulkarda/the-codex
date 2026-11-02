@@ -4128,6 +4128,24 @@
       "origin": "Sandra L. Murray, John G. Holmes, Dale W. Griffin (1996)"
     },
     {
+      "id": "relational-dialectics-theory",
+      "name": "Relational Dialectics Theory",
+      "category": "Relationships",
+      "tags": [
+        "communication",
+        "conflict",
+        "dynamics",
+        "intimacy",
+        "paradox"
+      ],
+      "oneLiner": "Relationships are characterized by constant, opposing tensions (dialectic pairs) that partners must navigate, such as autonomy vs. connection or openness vs. closedness.",
+      "description": "Relational Dialectics Theory posits that relationships are not static but are dynamic arenas where individuals constantly manage contradictory impulses or \"dialectic tensions.\" These tensions arise from our inherent human needs for both individuality and connection, stability and change, and privacy and disclosure. Effectively navigating these opposing forces is crucial for relational satisfaction and longevity. This theory emphasizes that these tensions are ongoing and inherent, not problems to be solved once and for all.",
+      "example": "A couple planning their vacation faces the dialectical tension of \"novelty vs. predictability.\" One partner wants an adventurous trip to an unknown country, while the other prefers a familiar, relaxing beach resort they've visited before. They must negotiate these opposing desires, perhaps by choosing a new destination with some familiar comforts, to find a mutually satisfying solution.",
+      "howToApply": "1. Identify the Dialectics: Recognize the specific opposing forces at play in a relational conflict (e.g., 'I want more alone time, but I also miss our closeness').\n2. Dialogue and Acknowledge: Openly discuss these tensions with your partner, acknowledging both your own and their legitimate, albeit contradictory, needs.\n3. Strategize Management: Employ strategies like 'segmentation' (addressing different needs in different contexts), 'selection' (prioritizing one need at a time), 'neutralization' (finding a compromise), or 'reframing' (seeing tensions as complementary).\n4. Embrace the Ongoing Nature: Understand that these tensions are inherent and perpetual, requiring continuous negotiation rather than a one-time fix.",
+      "pitfalls": "Ignoring or suppressing dialectical tensions can lead to resentment and unmet needs, eventually eroding the relationship. Consistently favoring one pole of a dialectic (e.g., always choosing autonomy over connection) can make the relationship feel imbalanced or neglected. Framing dialectical tensions as 'problems to be solved' rather than inherent, manageable aspects of relational life can lead to frustration and a sense of failure. A lack of open communication prevents partners from understanding and effectively negotiating these crucial dynamics.",
+      "origin": "Leslie Baxter and Barbara Montgomery (1988)"
+    },
+    {
       "id": "relationship-attributional-style",
       "name": "Relationship Attributional Style",
       "category": "Relationships",
@@ -5433,12 +5451,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 310,
-    "generated": "2026-11-01",
+    "count": 311,
+    "generated": "2026-11-02",
     "lastAdded": {
-      "name": "Productive Failure",
-      "category": "Learning",
-      "date": "2026-11-01"
+      "name": "Relational Dialectics Theory",
+      "category": "Relationships",
+      "date": "2026-11-02"
     }
   }
 }
