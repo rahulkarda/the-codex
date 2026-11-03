@@ -2654,6 +2654,24 @@
       "origin": "Teresa Amabile and Steven Kramer, \"The Progress Principle: Using Small Wins to Ignite Joy, Engagement, and Creativity at Work\" (2011)."
     },
     {
+      "id": "the-rule-of-three-daily-priorities",
+      "name": "The Rule of Three (Daily Priorities)",
+      "category": "Focus & Habits",
+      "tags": [
+        "productivity",
+        "prioritization",
+        "focus",
+        "planning",
+        "time management"
+      ],
+      "oneLiner": "Identify and commit to completing only three significant tasks each day to maintain focus and prevent overwhelm.",
+      "description": "The Rule of Three is a simple prioritization technique where you select no more than three crucial tasks to accomplish daily. By limiting your focus to a small number of high-impact items, you reduce decision fatigue and the likelihood of scattering your efforts across too many competing demands. This approach helps ensure meaningful progress on key objectives consistently.",
+      "example": "At the start of your workday, instead of a long to-do list, you identify: 1. Finish the client proposal. 2. Prepare for tomorrow's team meeting. 3. Review Q3 budget figures. You then dedicate your primary energy to these three, allowing smaller tasks to fill gaps or be deferred.",
+      "howToApply": "Each morning or the evening before, review your overall goals and current projects. From your master to-do list, select the three most important tasks that, if completed, would make the day a success. Write them down prominently and prioritize working on them before other, less critical items.",
+      "pitfalls": "Can lead to neglecting smaller, yet important, administrative tasks if applied too rigidly without a mechanism to capture and address them. May not be sufficient for highly dynamic roles with many urgent, unexpected demands. Some days might genuinely require more than three significant tasks, making strict adherence impractical.",
+      "origin": "A widely adopted productivity principle, often discussed in popular productivity literature and coaching, emphasizing focused daily output (e.g., Chris Bailey, 2016)."
+    },
+    {
       "id": "ultradian-rhythms",
       "name": "Ultradian Rhythms",
       "category": "Focus & Habits",
@@ -5451,12 +5469,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 311,
-    "generated": "2026-11-02",
+    "count": 312,
+    "generated": "2026-11-03",
     "lastAdded": {
-      "name": "Relational Dialectics Theory",
-      "category": "Relationships",
-      "date": "2026-11-02"
+      "name": "The Rule of Three (Daily Priorities)",
+      "category": "Focus & Habits",
+      "date": "2026-11-03"
     }
   }
 }
