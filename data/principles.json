@@ -633,6 +633,24 @@
       "origin": "Roy Baumeister, Ellen Bratslavsky, Catrin Finkenauer, & Kathleen Vohs, 2001, 'Bad is Stronger than Good,' Review of General Psychology 5:323-370; concurrently Paul Rozin & Edward Royzman, 2001."
     },
     {
+      "id": "optimism-bias",
+      "name": "Optimism Bias",
+      "category": "Cognitive Bias",
+      "tags": [
+        "decision-making",
+        "risk perception",
+        "future",
+        "planning",
+        "prediction"
+      ],
+      "oneLiner": "The tendency to overestimate the likelihood of positive events and underestimate negative events happening to oneself compared to others.",
+      "description": "Individuals often believe they are less likely to experience misfortunes (e.g., divorce, illness) and more likely to enjoy successes (e.g., career advancement, long life) than their peers. This bias persists even when presented with statistical evidence to the contrary. It stems from a desire to maintain a positive self-image and protect mental well-being. While a degree of optimism can be motivating, this bias can lead to poor risk assessment.",
+      "example": "A smoker, aware of lung cancer statistics, believes they are personally less likely to get cancer than the average smoker, or that they will quit before it becomes a problem. Similarly, a new entrepreneur might vastly overestimate their startup's chances of success while overlooking common failure rates and market realities.",
+      "howToApply": "When making significant life decisions or assessing risks, actively seek out base rates and statistical probabilities for similar situations, rather than relying solely on intuition. Counterbalance your initial optimistic predictions by considering worst-case scenarios and developing contingency plans. Engage in 'pre-mortem' exercises to identify potential failure points before they occur.",
+      "pitfalls": "Can lead to under-preparation for risks, poor financial planning (e.g., insufficient savings, risky investments), and neglecting preventative health measures. While some degree of optimism can be beneficial for motivation, excessive optimism bias can result in catastrophic outcomes when objective risk assessment is critical. Research suggests it is often resistant to correction even with factual information.",
+      "origin": "Tali Sharot, Chris D. Frith, and Raymond J. Dolan (2007) extensively studied the neural basis of optimism bias, though the concept has roots in earlier psychological work on unrealistic optimism."
+    },
+    {
       "id": "outcome-bias",
       "name": "Outcome Bias",
       "category": "Cognitive Bias",
@@ -5469,12 +5487,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 312,
-    "generated": "2026-11-03",
+    "count": 313,
+    "generated": "2026-11-04",
     "lastAdded": {
-      "name": "The Rule of Three (Daily Priorities)",
-      "category": "Focus & Habits",
-      "date": "2026-11-03"
+      "name": "Optimism Bias",
+      "category": "Cognitive Bias",
+      "date": "2026-11-04"
     }
   }
 }
