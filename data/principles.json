@@ -3901,6 +3901,24 @@
       "origin": "Thorstein Veblen, Theory of the Leisure Class (1899); modern dual-route framework: Joseph Henrich and Francisco Gil-White, Evolution and Human Behavior (2001); popularized by Will Storr, The Status Game (2021)."
     },
     {
+      "id": "the-liking-principle",
+      "name": "The Liking Principle",
+      "category": "Social Dynamics",
+      "tags": [
+        "persuasion",
+        "social influence",
+        "relationships",
+        "communication",
+        "likability"
+      ],
+      "oneLiner": "People are more likely to comply with requests from, and be influenced by, individuals they know and like, often due to shared interests or positive associations.",
+      "description": "This principle posits that we are more inclined to say yes to those we like. Liking can stem from various factors, including physical attractiveness, similarity, compliments, cooperation, and familiarity. It's a powerful shortcut in decision-making, as liking a person often implies trustworthiness or shared values.",
+      "example": "A salesperson, upon learning you both attended the same university, mentions this fact early in the conversation. By establishing a shared connection and expressing admiration for your career path, they build rapport, making you more receptive to their pitch and more likely to purchase their product.",
+      "howToApply": "1. Find Common Ground: Actively seek out similarities (hobbies, background, values) with others. 2. Give Genuine Compliments: Offer sincere praise, focusing on specific achievements or qualities. 3. Collaborate: Work together towards shared goals, fostering a sense of mutual support. 4. Increase Positive Contact: Engage in frequent, pleasant interactions to build familiarity and positive associations.",
+      "pitfalls": "The principle can be exploited by manipulators using superficial charm or flattery to gain compliance without genuine intent. Over-reliance on surface-level liking can lead to overlooking critical information or making poor decisions based on emotional appeal rather than objective merit. It can also lead to in-group bias, where liking those similar to us results in unfair treatment of outsiders.",
+      "origin": "Robert Cialdini, 1984 (popularized in \"Influence: The Psychology of Persuasion\")"
+    },
+    {
       "id": "5-1-positivity-ratio-magic-ratio",
       "name": "5:1 Positivity Ratio (Magic Ratio)",
       "category": "Relationships",
@@ -5487,12 +5505,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 313,
-    "generated": "2026-11-04",
+    "count": 314,
+    "generated": "2026-11-05",
     "lastAdded": {
-      "name": "Optimism Bias",
-      "category": "Cognitive Bias",
-      "date": "2026-11-04"
+      "name": "The Liking Principle",
+      "category": "Social Dynamics",
+      "date": "2026-11-05"
     }
   }
 }
