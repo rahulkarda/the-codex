@@ -1482,6 +1482,24 @@
       "origin": "Jack Brehm, 1966"
     },
     {
+      "id": "scarcity-principle",
+      "name": "Scarcity Principle",
+      "category": "Psychology Effect",
+      "tags": [
+        "persuasion",
+        "influence",
+        "cognitive bias",
+        "decision-making",
+        "marketing"
+      ],
+      "oneLiner": "People value things more when they are scarce or difficult to obtain, often leading to increased desire and perceived worth.",
+      "description": "The Scarcity Principle posits that humans assign greater value to objects or opportunities that are perceived as rare, limited, or dwindling in availability. This effect stems from our tendency to infer quality from rarity and our aversion to potential loss. It leverages the fear of missing out (FOMO) and a sense of urgency. Consequently, limited availability can significantly increase demand and perceived desirability.",
+      "example": "An online retailer announces a \"limited-time offer\" for a product, stating \"only 5 left in stock!\" or \"sale ends in 24 hours.\" Even if the customer wasn't initially highly interested, the perceived scarcity creates urgency, prompting a quicker purchase decision to avoid missing out.",
+      "howToApply": "When presenting options or products, highlight genuine limitations like limited stock, time-sensitive offers, or unique access. Frame opportunities as rare or exclusive to enhance their perceived value and encourage prompt action. Ensure the scarcity is credible to maintain trust and avoid backlash.",
+      "pitfalls": "Overuse or artificial scarcity can backfire, leading to consumer skepticism, distrust, and a perception of manipulation. If the scarcity is easily disproven or perceived as fake, it can damage brand reputation. It can also lead to irrational decisions, prompting purchases of unneeded items that would otherwise be ignored.",
+      "origin": "Robert Cialdini, 1984 (Influence: The Psychology of Persuasion)"
+    },
+    {
       "id": "self-fulfilling-prophecy",
       "name": "Self-Fulfilling Prophecy",
       "category": "Psychology Effect",
@@ -5505,12 +5523,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 314,
-    "generated": "2026-11-05",
+    "count": 315,
+    "generated": "2026-11-21",
     "lastAdded": {
-      "name": "The Liking Principle",
-      "category": "Social Dynamics",
-      "date": "2026-11-05"
+      "name": "Scarcity Principle",
+      "category": "Psychology Effect",
+      "date": "2026-11-21"
     }
   }
 }
