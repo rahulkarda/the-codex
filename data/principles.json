@@ -806,6 +806,24 @@
       "origin": "Suzy Welch, '10-10-10: A Fast and Powerful Way to Get Unstuck in Love, at Work, and with Your Family' (Scribner, 2009); Welch first wrote about it in O, The Oprah Magazine in 2006."
     },
     {
+      "id": "ambiguity-aversion",
+      "name": "Ambiguity Aversion",
+      "category": "Decision-Making",
+      "tags": [
+        "bias",
+        "risk",
+        "uncertainty",
+        "cognitive bias",
+        "decision theory"
+      ],
+      "oneLiner": "The tendency to prefer known risks over unknown risks, even when the known risk has a lower expected value.",
+      "description": "People often choose options with clear, quantifiable probabilities over options where probabilities are vague or unknown, even if the ambiguous option could offer a better outcome. This preference stems from a discomfort with uncertainty, leading individuals to avoid situations where information is incomplete or imprecise. It can lead to suboptimal choices by prioritizing clarity over potential gain. The Ellsberg paradox famously illustrates this phenomenon.",
+      "example": "Imagine two investment opportunities. Option A has a 50% chance of a 10% return and a 50% chance of a 0% return (known probabilities). Option B has an unknown probability distribution for returns, but could potentially yield much higher. Many investors will choose Option A, preferring the certainty of known probabilities, even if Option B might statistically offer a better expected return.",
+      "howToApply": "When facing decisions involving uncertainty, explicitly identify ambiguous elements. Instead of avoiding ambiguous options, actively seek to estimate potential outcomes and their likelihoods, even if imperfectly, to convert ambiguity into calculable risk. Focus on the potential upside and downside of ambiguous choices, rather than dismissing them solely due to a lack of complete information.",
+      "pitfalls": "This bias can lead to missed opportunities, as innovation and growth often reside in areas with inherent ambiguity. Over-prioritizing certainty can stifle exploration and prevent individuals or organizations from capitalizing on novel, but less predictable, ventures. In fast-moving environments, waiting for perfect information is often impossible or too costly, leading to inaction.",
+      "origin": "Daniel Ellsberg, 1961 (Ellsberg paradox)"
+    },
+    {
       "id": "bezos-regret-minimization-framework",
       "name": "Bezos Regret-Minimization Framework",
       "category": "Decision-Making",
@@ -5523,12 +5541,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 315,
-    "generated": "2026-11-21",
+    "count": 316,
+    "generated": "2026-11-22",
     "lastAdded": {
-      "name": "Scarcity Principle",
-      "category": "Psychology Effect",
-      "date": "2026-11-21"
+      "name": "Ambiguity Aversion",
+      "category": "Decision-Making",
+      "date": "2026-11-22"
     }
   }
 }
