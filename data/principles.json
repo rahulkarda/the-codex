@@ -5155,6 +5155,24 @@
       "origin": "Bruce McEwen and Eliot Stellar, 1993"
     },
     {
+      "id": "biophilia-hypothesis",
+      "name": "Biophilia Hypothesis",
+      "category": "Health & Longevity",
+      "tags": [
+        "nature",
+        "well-being",
+        "stress reduction",
+        "cognitive function",
+        "longevity"
+      ],
+      "oneLiner": "Humans have an innate tendency to connect with nature and other living systems, crucial for physical and mental well-being and longevity.",
+      "description": "This hypothesis posits that humans possess an evolutionary, inherent affinity for life and natural processes. Engaging with nature, even briefly, can reduce stress, improve mood, and enhance cognitive function. This deep-seated connection is vital for promoting overall health and contributing to a longer, more fulfilling life. Studies show regular nature exposure correlates with lower cortisol levels and improved cardiovascular health.",
+      "example": "After a stressful week at work, spending an hour walking through a local park, observing trees and listening to birdsong, leaves you feeling refreshed, calmer, and more focused for the tasks ahead. This restorative effect is a manifestation of the biophilia hypothesis.",
+      "howToApply": "1. Integrate 'green breaks' into your daily routine: step outside for 5-10 minutes, look at trees, or tend to indoor plants. 2. Plan regular visits to natural environments like parks, forests, or beaches, aiming for at least 120 minutes per week. 3. Bring nature indoors by adding plants to your living and working spaces, or using natural light and nature-themed art. 4. Seek opportunities for outdoor activities like gardening, hiking, or even just eating meals outside.",
+      "pitfalls": "Over-reliance on 'nature therapy' for severe mental health conditions without professional help. Romanticizing nature while ignoring practical access issues or safety concerns in certain environments. Confusing superficial 'greenwashing' (e.g., a single potted plant in a sterile office) with genuine, immersive nature engagement. Neglecting other crucial health factors like diet and exercise, assuming nature alone is a panacea.",
+      "origin": "Edward O. Wilson, 1984"
+    },
+    {
       "id": "blue-zones-principles",
       "name": "Blue Zones Principles",
       "category": "Health & Longevity",
@@ -5541,12 +5559,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 316,
-    "generated": "2026-11-22",
+    "count": 317,
+    "generated": "2026-11-23",
     "lastAdded": {
-      "name": "Ambiguity Aversion",
-      "category": "Decision-Making",
-      "date": "2026-11-22"
+      "name": "Biophilia Hypothesis",
+      "category": "Health & Longevity",
+      "date": "2026-11-23"
     }
   }
 }
