@@ -3531,6 +3531,24 @@
       "origin": "Friedemann Schulz von Thun, 1981"
     },
     {
+      "id": "tricolon-principle",
+      "name": "Tricolon Principle",
+      "category": "Communication",
+      "tags": [
+        "rhetoric",
+        "persuasion",
+        "memory",
+        "public speaking",
+        "writing"
+      ],
+      "oneLiner": "Information presented in threes is more memorable, satisfying, and persuasive, leveraging human cognitive patterns for impact.",
+      "description": "The Tricolon Principle suggests that a series of three parallel words, phrases, or clauses is inherently more effective in communication. This rhetorical device creates a sense of completeness, rhythm, and emphasis, making the message easier to process, recall, and find convincing. It taps into our cognitive preference for patterns and perceived balance. The 'rule of three' makes content feel complete, concise, and impactful.",
+      "example": "A political speech stating, 'We need a government of the people, by the people, for the people,' uses a tricolon to convey a powerful and memorable message about democracy. Similarly, advertising slogans like 'Just Do It' (three words) or 'Stop, Look, Listen' are effective due to their three-part structure.",
+      "howToApply": "When crafting speeches, presentations, or written content, consciously look for opportunities to group ideas into threes. Structure arguments with three supporting points, use three adjectives to describe a concept, or present three distinct actions. Practice delivering these three-part structures with consistent rhythm and emphasis for maximum effect.",
+      "pitfalls": "Overuse can make communication feel repetitive or formulaic rather than impactful. Forcing ideas into groups of three when a natural two or four exists can sound unnatural or dilute the message. The effectiveness relies on the parallelism and inherent connection between the three elements; a random grouping of three will not yield the same benefit.",
+      "origin": "The rhetorical device of tricolon has roots in classical rhetoric (e.g., Aristotle, Cicero), with its psychological impact observed over centuries."
+    },
+    {
       "id": "uncertainty-reduction-theory",
       "name": "Uncertainty Reduction Theory",
       "category": "Communication",
@@ -5559,12 +5577,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 317,
-    "generated": "2026-11-23",
+    "count": 318,
+    "generated": "2026-11-24",
     "lastAdded": {
-      "name": "Biophilia Hypothesis",
-      "category": "Health & Longevity",
-      "date": "2026-11-23"
+      "name": "Tricolon Principle",
+      "category": "Communication",
+      "date": "2026-11-24"
     }
   }
 }
