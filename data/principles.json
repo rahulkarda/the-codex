@@ -2060,6 +2060,23 @@
       "origin": "Attributed to Warren Buffett via his pilot Mike Flint; widely circulated in productivity writing from ~2014 onward (notably James Clear). Buffett himself has said on the record: 'The difference between successful people and very successful people is that very successful people say no to almost everything.'"
     },
     {
+      "id": "chronotype-alignment",
+      "name": "Chronotype Alignment",
+      "category": "Productivity",
+      "tags": [
+        "energy management",
+        "circadian rhythm",
+        "self-awareness",
+        "time management"
+      ],
+      "oneLiner": "Aligning your most demanding tasks with your natural peak energy periods, determined by your individual chronotype, to maximize productivity and focus.",
+      "description": "Chronotype describes an individual's natural inclination to sleep at a certain time, influencing their peak periods of alertness and cognitive function. Aligning your most important or cognitively demanding work with these natural high-energy windows can significantly enhance efficiency and output. This approach moves beyond generic time management to leverage personal biological rhythms.",
+      "example": "A 'night owl' chronotype (late sleeper, late riser) might schedule creative problem-solving or deep analytical work for late afternoon or evening, when their mental energy is highest. They would reserve mornings for administrative tasks or less demanding communication, rather than trying to force high-focus work during their natural low-energy period.",
+      "howToApply": "First, identify your chronotype (e.g., via self-assessment questionnaires or by observing natural sleep/wake times over a few days without an alarm). Then, analyze your daily tasks and categorize them by cognitive demand and required focus. Finally, strategically schedule your high-demand tasks during your natural peak energy windows and lower-demand tasks during your troughs.",
+      "pitfalls": "Misidentifying your chronotype or trying to force a different one can lead to frustration and burnout. Modern work schedules often don't accommodate chronotype differences, making full alignment challenging and requiring creative solutions. It's also easy to confuse temporary sleep deprivation or poor sleep hygiene with an inherent chronotype.",
+      "origin": "Till Roenneberg and Martha Merrow, early 2000s"
+    },
+    {
       "id": "dont-break-the-chain",
       "name": "Don't Break the Chain",
       "category": "Productivity",
@@ -5577,12 +5594,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 318,
-    "generated": "2026-11-24",
+    "count": 319,
+    "generated": "2026-11-25",
     "lastAdded": {
-      "name": "Tricolon Principle",
-      "category": "Communication",
-      "date": "2026-11-24"
+      "name": "Chronotype Alignment",
+      "category": "Productivity",
+      "date": "2026-11-25"
     }
   }
 }
