@@ -4801,6 +4801,24 @@
       "origin": "George A. Akerlof, \"The Market for 'Lemons': Quality Uncertainty and the Market Mechanism,\" 1970"
     },
     {
+      "id": "coase-theorem",
+      "name": "Coase Theorem",
+      "category": "Economics & Incentives",
+      "tags": [
+        "economics",
+        "property rights",
+        "externalities",
+        "bargaining",
+        "efficiency"
+      ],
+      "oneLiner": "With defined property rights and low transaction costs, private parties can bargain to an efficient outcome for externalities, regardless of initial rights.",
+      "description": "The Coase Theorem states that if property rights are clearly defined and transaction costs are sufficiently low, private parties can negotiate to an efficient allocation of resources. This efficient outcome will be achieved regardless of how the property rights were initially assigned. It suggests that externalities can be internalized through private bargaining rather than government intervention under ideal conditions.",
+      "example": "A factory's noise disrupts a nearby resort. If the resort has the right to quiet, they can negotiate with the factory to pay for noise reduction or compensation. If the factory has the right to make noise, the resort might pay the factory to reduce it. In either scenario, if transaction costs are low, they will reach an agreement that maximizes their combined welfare, achieving an efficient level of noise.",
+      "howToApply": "Identify and clearly define property rights in situations involving externalities or resource conflicts. Focus on reducing transaction costs for affected parties, such as legal fees, information asymmetry, or coordination challenges. Encourage direct negotiation to allow parties to bargain towards an optimal outcome, internalizing external costs or benefits.",
+      "pitfalls": "The theorem's core assumption of 'negligible transaction costs' is often unrealistic in practice, especially with many parties or complex issues. High transaction costs, including information asymmetry, legal expenses, and free-rider problems, can prevent efficient bargaining. It also focuses solely on economic efficiency, not on the fairness or equity of the initial property rights allocation or the resulting distribution of wealth.",
+      "origin": "Ronald H. Coase, \"The Problem of Social Cost\" (1960)"
+    },
+    {
       "id": "cobra-effect",
       "name": "Cobra Effect",
       "category": "Economics & Incentives",
@@ -5594,12 +5612,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 319,
-    "generated": "2026-11-25",
+    "count": 320,
+    "generated": "2026-11-26",
     "lastAdded": {
-      "name": "Chronotype Alignment",
-      "category": "Productivity",
-      "date": "2026-11-25"
+      "name": "Coase Theorem",
+      "category": "Economics & Incentives",
+      "date": "2026-11-26"
     }
   }
 }
