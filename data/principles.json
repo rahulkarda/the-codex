@@ -4552,6 +4552,24 @@
       "origin": "Richard Thaler, 1980"
     },
     {
+      "id": "money-illusion",
+      "name": "Money Illusion",
+      "category": "Money & Time",
+      "tags": [
+        "economics",
+        "bias",
+        "inflation",
+        "finance",
+        "perception"
+      ],
+      "oneLiner": "The tendency to perceive money in nominal rather than real, inflation-adjusted terms, leading to misjudgments about purchasing power and wealth.",
+      "description": "This cognitive bias causes individuals to focus on the face value of currency without considering its purchasing power. It often leads to misjudging the true value of wages, savings, or prices, especially during periods of inflation or deflation. People might feel richer with a nominal pay raise, even if inflation erodes its real value, or feel poorer with a nominal price drop that still costs more in real terms. This illusion can distort economic decisions.",
+      "example": "An employee receives a 3% pay raise and feels financially better off, leading to increased discretionary spending. However, the annual inflation rate was 4%, meaning their real purchasing power actually decreased by 1%. The money illusion masked their true financial standing.",
+      "howToApply": "Always evaluate financial figures like income, savings, and expenses in real, inflation-adjusted terms. When negotiating salaries or making large purchases, account for current and projected inflation rates. Use tools like inflation calculators to understand the true change in your purchasing power over time.",
+      "pitfalls": "Can lead to inadequate retirement savings, poor investment choices, or overspending due to a false sense of increased wealth. Some economists argue its impact is limited in the long run as rational agents eventually learn to adjust for inflation, especially in sophisticated markets. Its effect might be more pronounced in less financially literate populations or during periods of stable prices followed by unexpected inflation.",
+      "origin": "Irving Fisher, 1928"
+    },
+    {
       "id": "money-scripts",
       "name": "Money Scripts",
       "category": "Money & Time",
@@ -5612,12 +5630,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 320,
-    "generated": "2026-11-26",
+    "count": 321,
+    "generated": "2026-11-27",
     "lastAdded": {
-      "name": "Coase Theorem",
-      "category": "Economics & Incentives",
-      "date": "2026-11-26"
+      "name": "Money Illusion",
+      "category": "Money & Time",
+      "date": "2026-11-27"
     }
   }
 }
