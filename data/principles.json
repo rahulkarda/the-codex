@@ -1816,6 +1816,24 @@
       "origin": "Epictetus (c. 50–135 CE)"
     },
     {
+      "id": "prokope-moral-progress",
+      "name": "Prokope (Moral Progress)",
+      "category": "Philosophy & Stoicism",
+      "tags": [
+        "stoicism",
+        "self-improvement",
+        "ethics",
+        "practice",
+        "virtue"
+      ],
+      "oneLiner": "The ongoing journey of moral improvement and self-mastery, not a static state of virtue.",
+      "description": "Prokope, meaning \"progress\" or \"advance,\" describes the continuous effort a Stoic makes towards living virtuously. It acknowledges that achieving full wisdom and virtue is a lifelong endeavor, and most individuals are \"prokoptontes\" – those making progress. This concept emphasizes the importance of daily practice, self-reflection, and persistent effort in aligning one's actions and judgments with reason and virtue.",
+      "example": "A person who consistently practices negative visualization, reflects on their reactions to adversity, and strives to act with courage and temperance, even if they occasionally falter, is a \"prokoptôn.\" They are not yet a Sage, but they are actively engaging in the process of becoming one, showing diligence in their philosophical training.",
+      "howToApply": "Regularly assess your thoughts and actions against Stoic principles. Identify areas where you fell short and plan how to respond more virtuously next time. View setbacks not as failures, but as opportunities for learning and further practice. Celebrate small improvements in your self-control and ethical behavior, understanding that consistent effort builds character.",
+      "pitfalls": "Becoming overly self-critical or despairing when falling short of the ideal Sage. Prokope is about the process of striving, not the immediate attainment of perfection. Mistaking intellectual understanding of Stoic principles for actual moral progress, without putting them into consistent practice.",
+      "origin": "Epictetus (Discourses) and other Stoic philosophers."
+    },
+    {
       "id": "prosoche-stoic-attention",
       "name": "Prosoche (Stoic Attention)",
       "category": "Philosophy & Stoicism",
@@ -5630,12 +5648,12 @@
     "Health & Longevity"
   ],
   "meta": {
-    "count": 321,
-    "generated": "2026-11-27",
+    "count": 322,
+    "generated": "2026-11-28",
     "lastAdded": {
-      "name": "Money Illusion",
-      "category": "Money & Time",
-      "date": "2026-11-27"
+      "name": "Prokope (Moral Progress)",
+      "category": "Philosophy & Stoicism",
+      "date": "2026-11-28"
     }
   }
 }
